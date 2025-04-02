@@ -1,0 +1,78 @@
+[2025-02-20T00:53:04.966+0000] {processor.py:186} INFO - Started process (PID=3663) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:53:04.967+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-02-20T00:53:04.969+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:04.969+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:53:04.983+0000] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:53:05.089+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:05.088+0000] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_dynamic_task_mapping
+[2025-02-20T00:53:05.100+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:05.100+0000] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_dynamic_task_mapping
+[2025-02-20T00:53:05.107+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:05.107+0000] {override.py:1930} INFO - Created Permission View: can read on DAG:example_dynamic_task_mapping
+[2025-02-20T00:53:05.118+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:05.118+0000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_dynamic_task_mapping
+[2025-02-20T00:53:05.125+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:05.124+0000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_dynamic_task_mapping
+[2025-02-20T00:53:05.132+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:05.132+0000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_dynamic_task_mapping
+[2025-02-20T00:53:05.145+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:05.144+0000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_dynamic_task_mapping
+[2025-02-20T00:53:05.145+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:05.145+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:53:05.162+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:05.162+0000] {dag.py:3262} INFO - Creating ORM DAG for example_dynamic_task_mapping
+[2025-02-20T00:53:05.163+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:05.163+0000] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-02-20T00:53:05.189+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.233 seconds
+[2025-02-20T00:54:09.305+0000] {processor.py:186} INFO - Started process (PID=3908) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:54:09.306+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-02-20T00:54:09.308+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:09.308+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:54:09.318+0000] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:54:09.335+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:09.334+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:54:09.347+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:09.346+0000] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-02-20T00:54:09.368+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.070 seconds
+[2025-02-20T00:55:05.281+0000] {processor.py:186} INFO - Started process (PID=4150) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:55:05.282+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-02-20T00:55:05.284+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:05.284+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:55:05.293+0000] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:55:05.309+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:05.308+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:55:05.320+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:05.320+0000] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-02-20T00:55:05.343+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.067 seconds
+[2025-02-20T00:56:02.744+0000] {processor.py:186} INFO - Started process (PID=4267) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:56:02.746+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-02-20T00:56:02.748+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:02.747+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:56:02.760+0000] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:56:02.778+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:02.777+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:56:02.791+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:02.791+0000] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-02-20T00:56:02.812+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.078 seconds
+[2025-02-20T00:56:55.072+0000] {processor.py:186} INFO - Started process (PID=4388) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:56:55.074+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-02-20T00:56:55.076+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:55.075+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:56:55.085+0000] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:56:55.102+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:55.101+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:56:55.114+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:55.113+0000] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-02-20T00:56:55.136+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.070 seconds
+[2025-02-20T00:57:49.229+0000] {processor.py:186} INFO - Started process (PID=4561) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:57:49.230+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-02-20T00:57:49.233+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:49.232+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:57:49.244+0000] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:57:49.262+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:49.262+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:57:49.275+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:49.275+0000] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-02-20T00:57:49.298+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.075 seconds
+[2025-02-20T00:58:42.283+0000] {processor.py:186} INFO - Started process (PID=4676) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:58:42.284+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-02-20T00:58:42.286+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:42.286+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:58:42.299+0000] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:58:42.319+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:42.319+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:58:42.332+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:42.331+0000] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-02-20T00:58:42.354+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.077 seconds
+[2025-02-20T00:59:35.641+0000] {processor.py:186} INFO - Started process (PID=4791) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:59:35.643+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-02-20T00:59:35.645+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:35.644+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:59:35.654+0000] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T00:59:35.670+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:35.669+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:59:35.682+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:35.682+0000] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-02-20T00:59:35.704+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.069 seconds
+[2025-02-20T01:00:27.154+0000] {processor.py:186} INFO - Started process (PID=5314) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T01:00:27.155+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-02-20T01:00:27.159+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:27.158+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T01:00:27.171+0000] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T01:00:27.191+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:27.191+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T01:00:27.208+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:27.208+0000] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-02-20T01:00:27.238+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.091 seconds
+[2025-02-20T01:01:23.998+0000] {processor.py:186} INFO - Started process (PID=5587) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T01:01:23.999+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2025-02-20T01:01:24.001+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:01:24.001+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T01:01:24.013+0000] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2025-02-20T01:01:24.032+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:01:24.032+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T01:01:24.045+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:01:24.045+0000] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping to None, run_after=None
+[2025-02-20T01:01:24.068+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.076 seconds

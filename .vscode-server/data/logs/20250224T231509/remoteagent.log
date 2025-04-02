@@ -1,0 +1,11 @@
+[2025-02-24 23:15:09.966] [remoteagent] [info] Extension host agent started.
+[2025-02-24 23:15:10.290] [remoteagent] [info] [127.0.0.1][e04d6569][ManagementConnection] New connection established.
+[2025-02-24 23:15:10.328] [remoteagent] [info] [127.0.0.1][f585748b][ExtensionHostConnection] New connection established.
+[2025-02-24 23:15:10.339] [remoteagent] [info] [127.0.0.1][f585748b][ExtensionHostConnection] <1397> Launched Extension Host Process.
+[2025-02-24 23:15:27.957] [remoteagent] [info] [127.0.0.1][38d3f80a][ManagementConnection] New connection established.
+[2025-02-24 23:15:28.064] [remoteagent] [info] [127.0.0.1][6b26bbdf][ExtensionHostConnection] New connection established.
+[2025-02-24 23:15:28.078] [remoteagent] [info] [127.0.0.1][6b26bbdf][ExtensionHostConnection] <1426> Launched Extension Host Process.
+[2025-02-24 23:36:48.792] [remoteagent] [info] [127.0.0.1][6b26bbdf][ExtensionHostConnection] <1426> Starting WebSocket: RAW/api/kernels/792cba4b-b3ff-483d-bf43-27ea385998bd
+
+[2025-02-24 23:36:48.922] [remoteagent] [info] [127.0.0.1][6b26bbdf][ExtensionHostConnection] <1426> Kernel: starting (792cba4b-b3ff-483d-bf43-27ea385998bd)
+

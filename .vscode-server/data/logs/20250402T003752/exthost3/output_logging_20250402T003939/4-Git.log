@@ -1,0 +1,78 @@
+[2025-04-02T00:39:41.260Z] Log level: Info
+[2025-04-02T00:39:41.265Z] [info] Validating found git in: git
+[2025-04-02T00:39:41.301Z] [info] Using git 2.43.0 from git
+[2025-04-02T00:39:41.367Z] > git rev-parse --show-toplevel [47ms]
+[2025-04-02T00:39:41.367Z] fatal: not a git repository (or any of the parent directories): .git
+[2025-04-02T00:39:41.385Z] > git rev-parse --show-toplevel [7ms]
+[2025-04-02T00:39:41.385Z] fatal: not a git repository (or any of the parent directories): .git
+[2025-04-02T00:39:41.392Z] > git rev-parse --show-toplevel [2ms]
+[2025-04-02T00:39:41.392Z] fatal: not a git repository (or any of the parent directories): .git
+[2025-04-02T00:39:41.400Z] > git rev-parse --show-toplevel [2ms]
+[2025-04-02T00:39:41.400Z] fatal: not a git repository (or any of the parent directories): .git
+[2025-04-02T00:39:41.406Z] > git rev-parse --show-toplevel [1ms]
+[2025-04-02T00:39:41.406Z] fatal: not a git repository (or any of the parent directories): .git
+[2025-04-02T00:39:41.413Z] > git rev-parse --show-toplevel [1ms]
+[2025-04-02T00:39:41.413Z] fatal: not a git repository (or any of the parent directories): .git
+[2025-04-02T00:39:41.419Z] > git rev-parse --show-toplevel [1ms]
+[2025-04-02T00:39:41.419Z] fatal: not a git repository (or any of the parent directories): .git
+[2025-04-02T00:39:41.425Z] > git rev-parse --show-toplevel [1ms]
+[2025-04-02T00:39:41.425Z] fatal: not a git repository (or any of the parent directories): .git
+[2025-04-02T00:39:41.711Z] > git rev-parse --show-toplevel [280ms]
+[2025-04-02T00:39:41.711Z] fatal: not a git repository (or any of the parent directories): .git
+[2025-04-02T00:39:41.732Z] > git rev-parse --show-toplevel [14ms]
+[2025-04-02T00:39:41.732Z] fatal: not a git repository (or any of the parent directories): .git
+[2025-04-02T00:39:41.740Z] > git rev-parse --show-toplevel [2ms]
+[2025-04-02T00:39:41.740Z] fatal: not a git repository (or any of the parent directories): .git
+[2025-04-02T00:39:48.391Z] > git init [27ms]
+[2025-04-02T00:39:48.391Z] hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+[2025-04-02T00:39:48.984Z] > git rev-parse --show-toplevel [1ms]
+[2025-04-02T00:39:48.992Z] > git rev-parse --git-dir --git-common-dir [1ms]
+[2025-04-02T00:39:48.998Z] [info] Open repository: /home/ubuntu
+[2025-04-02T00:39:49.201Z] > git status -z -uall [193ms]
+[2025-04-02T00:39:49.370Z] > git show --textconv :airflow/dags/redfin_analytics.py [9ms]
+[2025-04-02T00:39:49.370Z] > git ls-files --stage -- /home/ubuntu/airflow/dags/redfin_analytics.py [3ms]
+[2025-04-02T00:39:49.632Z] > git check-ignore -v -z --stdin [1ms]
+[2025-04-02T00:39:54.967Z] > git symbolic-ref --short HEAD [2ms]
+[2025-04-02T00:39:54.977Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2025-04-02T00:39:54.988Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2025-04-02T00:39:54.990Z] > git remote --verbose [3ms]
+[2025-04-02T00:39:55.922Z] > git config --get commit.template [8ms]
+[2025-04-02T00:39:56.129Z] > git status -z -uall [198ms]
+[2025-04-02T00:39:56.130Z] > git symbolic-ref --short HEAD [2ms]
+[2025-04-02T00:39:56.138Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+[2025-04-02T00:39:56.153Z] > git remote --verbose [1ms]
+[2025-04-02T00:39:56.153Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+[2025-04-02T00:39:57.349Z] > git config --get commit.template [13ms]
+[2025-04-02T00:39:57.863Z] > git check-ignore -v -z --stdin [2ms]
+[2025-04-02T00:39:58.606Z] > git check-ignore -v -z --stdin [3ms]
+[2025-04-02T00:40:04.396Z] > git check-ignore -v -z --stdin [9ms]
+[2025-04-02T00:40:05.727Z] > git check-ignore -v -z --stdin [1ms]
+[2025-04-02T00:40:09.116Z] > git check-ignore -v -z --stdin [6ms]
+[2025-04-02T00:40:10.388Z] > git check-ignore -v -z --stdin [2ms]
+[2025-04-02T00:40:11.733Z] > git check-ignore -v -z --stdin [1ms]
+[2025-04-02T00:40:12.269Z] > git check-ignore -v -z --stdin [3ms]
+[2025-04-02T00:42:03.337Z] > git ls-files --stage -- /home/ubuntu/airflow/dags/redfin_analytics.py [2ms]
+[2025-04-02T00:42:03.372Z] > git show --textconv :airflow/dags/redfin_analytics.py [1ms]
+[2025-04-02T00:43:48.972Z] > git ls-files --stage -- /home/ubuntu/airflow/dags/redfin_analytics.py [2ms]
+[2025-04-02T00:43:49.010Z] > git show --textconv :airflow/dags/redfin_analytics.py [2ms]
+[2025-04-02T00:45:01.173Z] > git show --textconv HEAD:.cache/jedi/CPython-312-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-5ad280c67b7ec8b99f4084a6b86d5d3fe617ea3a7b756dcbb75ef307d00c6515.pkl [7ms]
+[2025-04-02T00:45:01.175Z] > git ls-tree -l HEAD -- /home/ubuntu/.cache/jedi/CPython-312-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-5ad280c67b7ec8b99f4084a6b86d5d3fe617ea3a7b756dcbb75ef307d00c6515.pkl [3ms]
+[2025-04-02T00:45:01.175Z] fatal: Not a valid object name HEAD
+[2025-04-02T00:45:01.333Z] > git ls-tree -l HEAD -- /home/ubuntu/.cache/jedi/CPython-312-33/4305da1ea25c27fce08bd14001b76fd54fe42a0724bbd5168c76680a56eda5be-5ad280c67b7ec8b99f4084a6b86d5d3fe617ea3a7b756dcbb75ef307d00c6515.pkl [1ms]
+[2025-04-02T00:45:01.333Z] fatal: Not a valid object name HEAD
+[2025-04-02T00:45:01.687Z] > git check-ignore -v -z --stdin [1ms]
+[2025-04-02T00:45:10.546Z] > git check-ignore -v -z --stdin [2ms]
+[2025-04-02T00:45:12.360Z] > git check-ignore -v -z --stdin [1ms]
+[2025-04-02T00:45:13.117Z] > git check-ignore -v -z --stdin [1ms]
+[2025-04-02T00:45:15.014Z] > git check-ignore -v -z --stdin [1ms]
+[2025-04-02T00:45:18.804Z] > git check-ignore -v -z --stdin [2ms]
+[2025-04-02T00:45:19.844Z] > git check-ignore -v -z --stdin [1ms]

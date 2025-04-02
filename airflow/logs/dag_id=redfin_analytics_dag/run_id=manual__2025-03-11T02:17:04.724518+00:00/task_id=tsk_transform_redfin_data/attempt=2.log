@@ -1,0 +1,218 @@
+[2025-03-11T02:27:00.007+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-03-11T02:27:00.020+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: redfin_analytics_dag.tsk_transform_redfin_data manual__2025-03-11T02:17:04.724518+00:00 [queued]>
+[2025-03-11T02:27:00.027+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: redfin_analytics_dag.tsk_transform_redfin_data manual__2025-03-11T02:17:04.724518+00:00 [queued]>
+[2025-03-11T02:27:00.028+0000] {taskinstance.py:2867} INFO - Starting attempt 2 of 3
+[2025-03-11T02:27:00.042+0000] {taskinstance.py:2890} INFO - Executing <Task(PythonOperator): tsk_transform_redfin_data> on 2025-03-11 02:17:04.724518+00:00
+[2025-03-11T02:27:00.049+0000] {standard_task_runner.py:72} INFO - Started process 61790 to run task
+[2025-03-11T02:27:00.052+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'redfin_analytics_dag', 'tsk_transform_redfin_data', 'manual__2025-03-11T02:17:04.724518+00:00', '--job-id', '94', '--raw', '--subdir', 'DAGS_FOLDER/redfin_analytics.py', '--cfg-path', '/tmp/tmp4wo7372_']
+[2025-03-11T02:27:00.053+0000] {standard_task_runner.py:105} INFO - Job 94: Subtask tsk_transform_redfin_data
+[2025-03-11T02:27:00.096+0000] {task_command.py:467} INFO - Running <TaskInstance: redfin_analytics_dag.tsk_transform_redfin_data manual__2025-03-11T02:17:04.724518+00:00 [running]> on host ip-172-31-7-71.eu-west-2.compute.internal
+[2025-03-11T02:27:00.146+0000] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_EMAIL='dengineer420@gmail.com' AIRFLOW_CTX_DAG_OWNER='Rahul' AIRFLOW_CTX_DAG_ID='redfin_analytics_dag' AIRFLOW_CTX_TASK_ID='tsk_transform_redfin_data' AIRFLOW_CTX_EXECUTION_DATE='2025-03-11T02:17:04.724518+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-03-11T02:17:04.724518+00:00'
+[2025-03-11T02:27:00.148+0000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-03-11T02:27:00.148+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-03-11T02:27:00.148+0000] {logging_mixin.py:190} INFO - Current task name:tsk_transform_redfin_data state:running start_date:2025-03-11 02:27:00.021939+00:00
+[2025-03-11T02:27:00.148+0000] {logging_mixin.py:190} INFO - Dag name:redfin_analytics_dag and current dag run status:running
+[2025-03-11T02:27:00.148+0000] {taskinstance.py:732} INFO - ::endgroup::
+[2025-03-11T02:27:00.163+0000] {taskinstance.py:3313} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 768, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 734, in _execute_callable
+    return ExecutionCallableRunner(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 424, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/operators/python.py", line 238, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/operators/python.py", line 256, in execute_callable
+    return runner.run(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/airflow/dags/functions.py", line 54, in transform_data
+    df = pd.read_csv(s3url, storage_options={'s3fs': fs})
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/pandas/io/common.py", line 728, in get_handle
+    ioargs = _get_filepath_or_buffer(
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/pandas/io/common.py", line 432, in _get_filepath_or_buffer
+    ).open()
+      ^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/fsspec/core.py", line 147, in open
+    return self.__enter__()
+           ^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/fsspec/core.py", line 105, in __enter__
+    f = self.fs.open(self.path, mode=mode)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/fsspec/spec.py", line 1310, in open
+    f = self._open(
+        ^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/s3fs/core.py", line 720, in _open
+    return S3File(
+           ^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/s3fs/core.py", line 2259, in __init__
+    super().__init__(
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/fsspec/spec.py", line 1884, in __init__
+    self.size = self.details["size"]
+                ^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/fsspec/spec.py", line 1897, in details
+    self._details = self.fs.info(self.path)
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/fsspec/asyn.py", line 118, in wrapper
+    return sync(self.loop, func, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/fsspec/asyn.py", line 103, in sync
+    raise return_result
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/fsspec/asyn.py", line 56, in _runner
+    result[0] = await coro
+                ^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/s3fs/core.py", line 1447, in _info
+    out = await self._call_s3(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/s3fs/core.py", line 364, in _call_s3
+    await self.set_session()
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/s3fs/core.py", line 547, in set_session
+    self.session = aiobotocore.session.AioSession(**self.kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: AioSession.__init__() got an unexpected keyword argument 's3fs'
+[2025-03-11T02:27:00.174+0000] {logging_mixin.py:190} INFO - Task instance in failure state
+[2025-03-11T02:27:00.174+0000] {logging_mixin.py:190} INFO - Task start:2025-03-11 02:27:00.021939+00:00 end:2025-03-11 02:27:00.173402+00:00 duration:0.151463
+[2025-03-11T02:27:00.175+0000] {logging_mixin.py:190} INFO - Task:<Task(PythonOperator): tsk_transform_redfin_data> dag:<DAG: redfin_analytics_dag> dagrun:<DagRun redfin_analytics_dag @ 2025-03-11 02:17:04.724518+00:00: manual__2025-03-11T02:17:04.724518+00:00, state:running, queued_at: 2025-03-11 02:17:04.737947+00:00. externally triggered: True>
+[2025-03-11T02:27:00.175+0000] {logging_mixin.py:190} INFO - Failure caused by AioSession.__init__() got an unexpected keyword argument 's3fs'
+[2025-03-11T02:27:00.175+0000] {taskinstance.py:1226} INFO - Marking task as UP_FOR_RETRY. dag_id=redfin_analytics_dag, task_id=tsk_transform_redfin_data, run_id=manual__2025-03-11T02:17:04.724518+00:00, execution_date=20250311T021704, start_date=20250311T022700, end_date=20250311T022700
+[2025-03-11T02:27:00.201+0000] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-03-11T02:27:00.201+0000] {standard_task_runner.py:124} ERROR - Failed to execute job 94 for task tsk_transform_redfin_data (AioSession.__init__() got an unexpected keyword argument 's3fs'; 61790)
+Traceback (most recent call last):
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py", line 117, in _start_by_fork
+    ret = args.func(args, dag=self.dag)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/cli/cli_config.py", line 49, in command
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/utils/cli.py", line 116, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 483, in task_run
+    task_return_code = _run_task_by_selected_method(args, _dag, ti)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 256, in _run_task_by_selected_method
+    return _run_raw_task(args, ti)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 341, in _run_raw_task
+    return ti._run_raw_task(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/utils/session.py", line 97, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3006, in _run_raw_task
+    return _run_raw_task(
+           ^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 274, in _run_raw_task
+    TaskInstance._execute_task_with_callbacks(
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3161, in _execute_task_with_callbacks
+    result = self._execute_task(context, task_orig)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3185, in _execute_task
+    return _execute_task(self, context, task_orig)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 768, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 734, in _execute_callable
+    return ExecutionCallableRunner(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 424, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/operators/python.py", line 238, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/operators/python.py", line 256, in execute_callable
+    return runner.run(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/airflow/dags/functions.py", line 54, in transform_data
+    df = pd.read_csv(s3url, storage_options={'s3fs': fs})
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/pandas/io/common.py", line 728, in get_handle
+    ioargs = _get_filepath_or_buffer(
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/pandas/io/common.py", line 432, in _get_filepath_or_buffer
+    ).open()
+      ^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/fsspec/core.py", line 147, in open
+    return self.__enter__()
+           ^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/fsspec/core.py", line 105, in __enter__
+    f = self.fs.open(self.path, mode=mode)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/fsspec/spec.py", line 1310, in open
+    f = self._open(
+        ^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/s3fs/core.py", line 720, in _open
+    return S3File(
+           ^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/s3fs/core.py", line 2259, in __init__
+    super().__init__(
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/fsspec/spec.py", line 1884, in __init__
+    self.size = self.details["size"]
+                ^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/fsspec/spec.py", line 1897, in details
+    self._details = self.fs.info(self.path)
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/fsspec/asyn.py", line 118, in wrapper
+    return sync(self.loop, func, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/fsspec/asyn.py", line 103, in sync
+    raise return_result
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/fsspec/asyn.py", line 56, in _runner
+    result[0] = await coro
+                ^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/s3fs/core.py", line 1447, in _info
+    out = await self._call_s3(
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/s3fs/core.py", line 364, in _call_s3
+    await self.set_session()
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/s3fs/core.py", line 547, in set_session
+    self.session = aiobotocore.session.AioSession(**self.kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: AioSession.__init__() got an unexpected keyword argument 's3fs'
+[2025-03-11T02:27:00.225+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 1
+[2025-03-11T02:27:00.244+0000] {taskinstance.py:3901} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-03-11T02:27:00.244+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

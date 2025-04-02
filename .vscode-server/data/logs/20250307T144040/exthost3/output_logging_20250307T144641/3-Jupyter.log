@@ -1,0 +1,16 @@
+Visual Studio Code (1.71.2, ssh-remote, desktop)
+Jupyter Extension Version: 2022.8.1002431955.
+Python Extension Version: 2022.16.1.
+Workspace folder /home/ubuntu
+info 14:46:42.259: ZMQ install verified.
+info 14:46:42.863: LSP Notebooks experiment is enabled
+info 14:46:43.362: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+info 14:46:43.466: Process Execution: > ~/redfin_venv/bin/python -m pip list
+> ~/redfin_venv/bin/python -m pip list
+info 15:7:31.841: Shutting down notebooks for 2c996b09-990a-40d5-b86e-1723b5894a28
+info 15:7:31.842: Disposing HostJupyterExecution f7d08932-d5ef-49ac-9864-061be76102fd
+info 15:7:31.842: Disposing super HostJupyterExecution f7d08932-d5ef-49ac-9864-061be76102fd
+info 15:7:31.842: Disposing HostJupyterExecution f7d08932-d5ef-49ac-9864-061be76102fd
+info 15:7:31.842: Finished disposing HostJupyterExecution  f7d08932-d5ef-49ac-9864-061be76102fd
+info 15:7:31.851: Cleaning up server cache f7d08932-d5ef-49ac-9864-061be76102fd
+info 15:7:31.851: Finished disposing HostJupyterExecution  f7d08932-d5ef-49ac-9864-061be76102fd

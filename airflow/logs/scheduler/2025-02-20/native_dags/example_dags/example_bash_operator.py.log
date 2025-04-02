@@ -1,0 +1,57 @@
+[2025-02-20T00:53:22.564+0000] {processor.py:186} INFO - Started process (PID=3738) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-02-20T00:53:22.565+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-02-20T00:53:22.567+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:22.567+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-02-20T00:53:22.581+0000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-02-20T00:53:22.693+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:22.693+0000] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_bash_operator
+[2025-02-20T00:53:22.707+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:22.706+0000] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_bash_operator
+[2025-02-20T00:53:22.717+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:22.717+0000] {override.py:1930} INFO - Created Permission View: can read on DAG:example_bash_operator
+[2025-02-20T00:53:22.733+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:22.733+0000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_bash_operator
+[2025-02-20T00:53:22.744+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:22.743+0000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_bash_operator
+[2025-02-20T00:53:22.754+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:22.754+0000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_bash_operator
+[2025-02-20T00:53:22.764+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:22.763+0000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_bash_operator
+[2025-02-20T00:53:22.764+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:22.764+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:53:22.775+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:22.774+0000] {dag.py:3262} INFO - Creating ORM DAG for example_bash_operator
+[2025-02-20T00:53:22.785+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:22.785+0000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-02-19 00:00:00+00:00, run_after=2025-02-20 00:00:00+00:00
+[2025-02-20T00:53:22.807+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py took 0.248 seconds
+[2025-02-20T00:54:24.210+0000] {processor.py:186} INFO - Started process (PID=3983) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-02-20T00:54:24.213+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-02-20T00:54:24.225+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:24.224+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-02-20T00:54:24.243+0000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-02-20T00:54:24.267+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:24.266+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:54:24.287+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:24.287+0000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-02-19 00:00:00+00:00, run_after=2025-02-20 00:00:00+00:00
+[2025-02-20T00:54:24.309+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py took 0.105 seconds
+[2025-02-20T00:55:42.330+0000] {processor.py:186} INFO - Started process (PID=4247) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-02-20T00:55:42.331+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-02-20T00:55:42.333+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:42.333+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-02-20T00:55:42.348+0000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-02-20T00:55:42.370+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:42.370+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:55:42.390+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:42.390+0000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-02-19 00:00:00+00:00, run_after=2025-02-20 00:00:00+00:00
+[2025-02-20T00:55:42.412+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py took 0.087 seconds
+[2025-02-20T00:57:01.502+0000] {processor.py:186} INFO - Started process (PID=4394) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-02-20T00:57:01.503+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-02-20T00:57:01.505+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:01.505+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-02-20T00:57:01.520+0000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-02-20T00:57:01.543+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:01.543+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:57:01.564+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:01.563+0000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-02-19 00:00:00+00:00, run_after=2025-02-20 00:00:00+00:00
+[2025-02-20T00:57:01.584+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py took 0.088 seconds
+[2025-02-20T00:58:23.192+0000] {processor.py:186} INFO - Started process (PID=4656) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-02-20T00:58:23.193+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-02-20T00:58:23.195+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:23.194+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-02-20T00:58:23.210+0000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-02-20T00:58:23.235+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:23.234+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:58:23.258+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:23.258+0000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-02-19 00:00:00+00:00, run_after=2025-02-20 00:00:00+00:00
+[2025-02-20T00:58:23.280+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py took 0.095 seconds
+[2025-02-20T00:59:41.937+0000] {processor.py:186} INFO - Started process (PID=4798) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-02-20T00:59:41.938+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-02-20T00:59:41.940+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:41.940+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-02-20T00:59:41.954+0000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-02-20T00:59:41.976+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:41.976+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:59:41.995+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:41.995+0000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-02-19 00:00:00+00:00, run_after=2025-02-20 00:00:00+00:00
+[2025-02-20T00:59:42.013+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py took 0.081 seconds
+[2025-02-20T01:01:03.545+0000] {processor.py:186} INFO - Started process (PID=5446) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-02-20T01:01:03.548+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-02-20T01:01:03.550+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:01:03.550+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-02-20T01:01:03.564+0000] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-02-20T01:01:03.591+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:01:03.590+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T01:01:03.614+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:01:03.614+0000] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-02-19 00:00:00+00:00, run_after=2025-02-20 00:00:00+00:00
+[2025-02-20T01:01:03.642+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py took 0.104 seconds

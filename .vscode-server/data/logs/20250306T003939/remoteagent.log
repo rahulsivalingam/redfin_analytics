@@ -1,0 +1,15 @@
+[2025-03-06 00:39:39.994] [remoteagent] [info] Extension host agent started.
+[2025-03-06 00:39:40.469] [remoteagent] [info] [127.0.0.1][78e13894][ManagementConnection] New connection established.
+[2025-03-06 00:39:40.601] [remoteagent] [info] [127.0.0.1][636c5187][ExtensionHostConnection] New connection established.
+[2025-03-06 00:39:40.607] [remoteagent] [info] [127.0.0.1][636c5187][ExtensionHostConnection] <1231> Launched Extension Host Process.
+[2025-03-06 00:40:19.436] [remoteagent] [info] [127.0.0.1][78e13894][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2025-03-06 00:40:19.453] [remoteagent] [info] [127.0.0.1][636c5187][ExtensionHostConnection] <1231> Extension Host Process exited with code: 0, signal: null.
+[2025-03-06 00:40:19.453] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2025-03-06 00:40:21.599] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2025-03-06 00:40:21.599] [remoteagent] [info] Cancelling previous shutdown timeout
+[2025-03-06 00:40:22.232] [remoteagent] [info] [127.0.0.1][90a5cb65][ManagementConnection] New connection established.
+[2025-03-06 00:40:22.304] [remoteagent] [info] [127.0.0.1][22cda40c][ExtensionHostConnection] New connection established.
+[2025-03-06 00:40:22.310] [remoteagent] [info] [127.0.0.1][22cda40c][ExtensionHostConnection] <1372> Launched Extension Host Process.
+[2025-03-06 00:45:21.600] [remoteagent] [info] New EH opened, aborting shutdown
+[2025-03-06 01:25:38.507] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2025-03-06 01:28:35.577] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds

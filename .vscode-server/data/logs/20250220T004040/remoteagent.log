@@ -1,0 +1,49 @@
+[2025-02-20 00:40:40.640] [remoteagent] [info] Extension host agent started.
+[2025-02-20 00:40:40.937] [remoteagent] [info] [127.0.0.1][87505cba][ManagementConnection] New connection established.
+[2025-02-20 00:40:40.957] [remoteagent] [info] [127.0.0.1][0f5fba7e][ExtensionHostConnection] New connection established.
+[2025-02-20 00:40:40.962] [remoteagent] [info] [127.0.0.1][0f5fba7e][ExtensionHostConnection] <1406> Launched Extension Host Process.
+[2025-02-20 01:00:35.462] [remoteagent] [info] [127.0.0.1][0b8af25e][ManagementConnection] New connection established.
+[2025-02-20 01:00:35.562] [remoteagent] [info] [127.0.0.1][f33bd8d4][ExtensionHostConnection] New connection established.
+[2025-02-20 01:00:35.581] [remoteagent] [info] [127.0.0.1][f33bd8d4][ExtensionHostConnection] <5322> Launched Extension Host Process.
+[2025-02-20 01:01:15.591] [remoteagent] [info] [127.0.0.1][0b8af25e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2025-02-20 01:01:15.605] [remoteagent] [info] [127.0.0.1][f33bd8d4][ExtensionHostConnection] <5322> Extension Host Process exited with code: 0, signal: null.
+[2025-02-20 01:01:16.469] [remoteagent] [info] [127.0.0.1][663655a2][ManagementConnection] New connection established.
+[2025-02-20 01:01:16.530] [remoteagent] [info] [127.0.0.1][4f5f6495][ExtensionHostConnection] New connection established.
+[2025-02-20 01:01:16.541] [remoteagent] [info] [127.0.0.1][4f5f6495][ExtensionHostConnection] <5471> Launched Extension Host Process.
+[2025-02-20 01:01:28.615] [remoteagent] [info] [127.0.0.1][87505cba][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2025-02-20 01:01:28.639] [remoteagent] [info] [127.0.0.1][0f5fba7e][ExtensionHostConnection] <1406> Extension Host Process exited with code: 0, signal: null.
+[2025-02-20 01:09:35.603] [remoteagent] [info] Getting Manifest... ms-python.python
+[2025-02-20 01:09:35.649] [remoteagent] [info] Installing extension: ms-python.python
+[2025-02-20 01:09:37.325] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2025-02-20 01:09:38.520] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2025-02-20 01:09:38.985] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2025-02-20 01:09:39.156] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2025-02-20 01:09:39.229] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2025-02-20 01:09:39.229] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2025-02-20 01:09:39.229] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2025-02-20 01:09:39.229] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2025-02-20 01:09:39.585] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.1.0
+[2025-02-20 01:09:39.648] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.7ce5f395-fd2c-4823-ac32-d0076be75f1b: ms-toolsai.jupyter-keymap
+[2025-02-20 01:09:39.689] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.1.0
+[2025-02-20 01:09:39.691] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2025-02-20 01:09:39.734] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.8.1002431955
+[2025-02-20 01:09:39.775] [remoteagent] [info] Downloaded extension: ms-python.python /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2022.16.1
+[2025-02-20 01:09:41.012] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.daf705bd-c54f-40da-af99-61efe60bf900: ms-toolsai.jupyter
+[2025-02-20 01:09:41.019] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2022.8.1002431955
+[2025-02-20 01:09:41.050] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2025-02-20 01:09:41.521] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.9
+[2025-02-20 01:09:41.812] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.17e077f1-e526-4928-a74a-0831b44faf6f: ms-toolsai.jupyter-renderers
+[2025-02-20 01:09:41.816] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.9
+[2025-02-20 01:09:41.818] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2025-02-20 01:09:43.250] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.105ad56f-164e-4d40-90a5-904e59241d79: ms-python.python
+[2025-02-20 01:09:43.258] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1
+[2025-02-20 01:09:43.261] [remoteagent] [info] Extracting completed. ms-python.python
+[2025-02-20 01:09:43.746] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2023.1.10
+[2025-02-20 01:09:47.203] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.0bc92d99-41be-4de9-bd83-03fdf41483ae: ms-python.vscode-pylance
+[2025-02-20 01:09:47.214] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.1.10
+[2025-02-20 01:09:47.216] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2025-02-20 01:09:47.217] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2025-02-20 01:09:47.217] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2025-02-20 01:09:47.217] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2025-02-20 01:09:47.217] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2025-02-20 01:09:47.217] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance

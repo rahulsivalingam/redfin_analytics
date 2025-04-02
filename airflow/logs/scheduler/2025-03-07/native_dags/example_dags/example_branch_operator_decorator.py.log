@@ -1,0 +1,5 @@
+[2025-03-07T15:54:50.944+0000] {processor.py:186} INFO - Started process (PID=3489) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2025-03-07T15:54:50.945+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator_decorator.py for tasks to queue
+[2025-03-07T15:54:50.945+0000] {logging_mixin.py:190} INFO - [2025-03-07T15:54:50.945+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2025-03-07T15:54:50.949+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2025-03-07T15:54:50.960+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator_decorator.py took 0.022 seconds

@@ -1,0 +1,147 @@
+[2025-03-06T00:58:33.125+0000] {processor.py:186} INFO - Started process (PID=3507) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T00:58:33.126+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-06T00:58:33.129+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:58:33.129+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T00:58:33.141+0000] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T00:58:33.177+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:58:33.177+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T00:58:33.194+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:58:33.194+0000] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-06T00:58:33.221+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.103 seconds
+[2025-03-06T00:59:29.838+0000] {processor.py:186} INFO - Started process (PID=3989) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T00:59:29.840+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-06T00:59:29.843+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:59:29.842+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T00:59:29.853+0000] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T00:59:29.874+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:59:29.874+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T00:59:29.891+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:59:29.891+0000] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-06T00:59:29.919+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.089 seconds
+[2025-03-06T01:00:28.117+0000] {processor.py:186} INFO - Started process (PID=4408) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:00:28.119+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-06T01:00:28.122+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:00:28.121+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:00:28.134+0000] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:00:28.153+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:00:28.153+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:00:28.168+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:00:28.168+0000] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-06T01:00:28.192+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.082 seconds
+[2025-03-06T01:01:28.840+0000] {processor.py:186} INFO - Started process (PID=4888) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:01:28.842+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-06T01:01:28.845+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:01:28.844+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:01:28.859+0000] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:01:28.886+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:01:28.886+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:01:28.907+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:01:28.907+0000] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-06T01:01:28.958+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.131 seconds
+[2025-03-06T01:02:30.209+0000] {processor.py:186} INFO - Started process (PID=5189) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:02:30.211+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-06T01:02:30.213+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:02:30.212+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:02:30.225+0000] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:02:30.255+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:02:30.254+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:02:30.277+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:02:30.276+0000] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-06T01:02:30.308+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.106 seconds
+[2025-03-06T01:03:29.852+0000] {processor.py:186} INFO - Started process (PID=5369) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:03:29.853+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-06T01:03:29.855+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:03:29.855+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:03:29.868+0000] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:03:29.890+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:03:29.890+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:03:29.906+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:03:29.906+0000] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-06T01:03:29.935+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.094 seconds
+[2025-03-06T01:04:30.955+0000] {processor.py:186} INFO - Started process (PID=5487) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:04:30.957+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-06T01:04:30.960+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:04:30.959+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:04:30.970+0000] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:04:30.989+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:04:30.989+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:04:31.005+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:04:31.004+0000] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-06T01:04:31.030+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.082 seconds
+[2025-03-06T01:05:34.820+0000] {processor.py:186} INFO - Started process (PID=5611) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:05:34.824+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-06T01:05:34.833+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:05:34.833+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:05:34.855+0000] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:05:34.883+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:05:34.883+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:05:34.906+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:05:34.906+0000] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-06T01:05:34.960+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.153 seconds
+[2025-03-06T01:06:37.463+0000] {processor.py:186} INFO - Started process (PID=5913) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:06:37.465+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-06T01:06:37.467+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:06:37.467+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:06:37.476+0000] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:06:37.494+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:06:37.494+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:06:37.507+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:06:37.506+0000] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-06T01:06:37.542+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.085 seconds
+[2025-03-06T01:07:39.826+0000] {processor.py:186} INFO - Started process (PID=6212) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:07:39.828+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-06T01:07:39.830+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:07:39.830+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:07:39.839+0000] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:07:39.857+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:07:39.857+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:07:39.870+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:07:39.870+0000] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-06T01:07:39.897+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.078 seconds
+[2025-03-06T01:08:38.726+0000] {processor.py:186} INFO - Started process (PID=6510) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:08:38.728+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-06T01:08:38.731+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:08:38.731+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:08:38.742+0000] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:08:38.761+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:08:38.760+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:08:38.775+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:08:38.775+0000] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-06T01:08:38.800+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.081 seconds
+[2025-03-06T01:09:43.434+0000] {processor.py:186} INFO - Started process (PID=6810) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:09:43.436+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-06T01:09:43.438+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:09:43.437+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:09:43.448+0000] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:09:43.469+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:09:43.468+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:09:43.484+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:09:43.483+0000] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-06T01:09:43.509+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.082 seconds
+[2025-03-06T01:10:43.829+0000] {processor.py:186} INFO - Started process (PID=6933) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:10:43.834+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-06T01:10:43.840+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:10:43.839+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:10:43.868+0000] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:10:43.894+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:10:43.894+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:10:43.935+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:10:43.935+0000] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-06T01:10:43.975+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.154 seconds
+[2025-03-06T01:11:47.256+0000] {processor.py:186} INFO - Started process (PID=7052) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:11:47.258+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-06T01:11:47.260+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:11:47.260+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:11:47.270+0000] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:11:47.287+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:11:47.287+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:11:47.301+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:11:47.301+0000] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-06T01:11:47.329+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.079 seconds
+[2025-03-06T01:12:52.143+0000] {processor.py:186} INFO - Started process (PID=7174) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:12:52.145+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-06T01:12:52.151+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:12:52.149+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:12:52.170+0000] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:12:52.207+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:12:52.206+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:12:52.226+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:12:52.225+0000] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-06T01:12:52.263+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.129 seconds
+[2025-03-06T01:13:53.185+0000] {processor.py:186} INFO - Started process (PID=7354) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:13:53.186+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-06T01:13:53.190+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:13:53.190+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:13:53.200+0000] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:13:53.218+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:13:53.218+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:13:53.237+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:13:53.237+0000] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-06T01:13:53.262+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.084 seconds
+[2025-03-06T01:14:54.460+0000] {processor.py:186} INFO - Started process (PID=7473) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:14:54.463+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-06T01:14:54.467+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:14:54.466+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:14:54.479+0000] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:14:54.502+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:14:54.502+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:14:54.520+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:14:54.520+0000] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-06T01:14:54.553+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.102 seconds
+[2025-03-06T01:15:58.595+0000] {processor.py:186} INFO - Started process (PID=7777) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:15:58.597+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-06T01:15:58.600+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:15:58.600+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:15:58.613+0000] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:15:58.635+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:15:58.635+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:15:58.651+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:15:58.650+0000] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-06T01:15:58.678+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.090 seconds
+[2025-03-06T01:16:57.040+0000] {processor.py:186} INFO - Started process (PID=7895) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:16:57.042+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-06T01:16:57.044+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:16:57.044+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:16:57.053+0000] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:16:57.070+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:16:57.069+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:16:57.083+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:16:57.082+0000] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-06T01:16:57.107+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.073 seconds
+[2025-03-06T01:17:59.453+0000] {processor.py:186} INFO - Started process (PID=8239) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:17:59.455+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-06T01:17:59.458+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:17:59.457+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:17:59.470+0000] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:17:59.489+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:17:59.489+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:17:59.508+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:17:59.507+0000] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-06T01:17:59.538+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.093 seconds
+[2025-03-06T01:19:00.688+0000] {processor.py:186} INFO - Started process (PID=8478) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:19:00.691+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-06T01:19:00.694+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:19:00.693+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:19:00.710+0000] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-06T01:19:00.732+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:19:00.732+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:19:00.753+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:19:00.753+0000] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-06T01:19:00.782+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.107 seconds

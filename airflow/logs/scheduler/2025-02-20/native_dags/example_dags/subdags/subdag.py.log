@@ -1,0 +1,50 @@
+[2025-02-20T00:52:24.102+0000] {processor.py:186} INFO - Started process (PID=3416) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:52:24.103+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-02-20T00:52:24.106+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:24.105+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:52:24.109+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:52:24.123+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2025-02-20T00:53:30.219+0000] {processor.py:186} INFO - Started process (PID=3746) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:53:30.220+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-02-20T00:53:30.223+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:30.222+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:53:30.225+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:53:30.239+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2025-02-20T00:54:27.176+0000] {processor.py:186} INFO - Started process (PID=4048) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:54:27.177+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-02-20T00:54:27.180+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:27.179+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:54:27.182+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:54:27.193+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2025-02-20T00:55:18.062+0000] {processor.py:186} INFO - Started process (PID=4164) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:55:18.063+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-02-20T00:55:18.066+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:18.065+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:55:18.069+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:55:18.083+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.028 seconds
+[2025-02-20T00:56:12.181+0000] {processor.py:186} INFO - Started process (PID=4277) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:56:12.183+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-02-20T00:56:12.185+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:12.184+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:56:12.187+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:56:12.200+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2025-02-20T00:57:04.515+0000] {processor.py:186} INFO - Started process (PID=4397) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:57:04.516+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-02-20T00:57:04.519+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:04.519+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:57:04.522+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:57:04.534+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds
+[2025-02-20T00:57:59.653+0000] {processor.py:186} INFO - Started process (PID=4572) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:57:59.655+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-02-20T00:57:59.656+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:59.656+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:57:59.659+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:57:59.672+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds
+[2025-02-20T00:58:52.434+0000] {processor.py:186} INFO - Started process (PID=4686) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:58:52.435+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-02-20T00:58:52.438+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:52.437+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:58:52.440+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:58:52.452+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds
+[2025-02-20T00:59:45.366+0000] {processor.py:186} INFO - Started process (PID=4801) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:59:45.369+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-02-20T00:59:45.373+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:45.372+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:59:45.375+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T00:59:45.389+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.037 seconds
+[2025-02-20T01:00:37.561+0000] {processor.py:186} INFO - Started process (PID=5353) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T01:00:37.562+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-02-20T01:00:37.565+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:37.565+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T01:00:37.569+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-20T01:00:37.586+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.033 seconds

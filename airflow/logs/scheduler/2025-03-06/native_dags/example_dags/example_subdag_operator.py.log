@@ -1,0 +1,252 @@
+[2025-03-06T00:58:33.474+0000] {processor.py:186} INFO - Started process (PID=3508) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T00:58:33.475+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-06T00:58:33.478+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:58:33.477+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T00:58:33.509+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T00:58:33.532+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:58:33.532+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-06T00:58:33.558+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:58:33.558+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-06T00:58:33.562+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:58:33.562+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T00:58:33.564+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:58:33.563+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T00:58:33.570+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:58:33.570+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-06T00:58:33.575+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:58:33.574+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T00:58:33.575+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:58:33.575+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T00:58:33.599+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.132 seconds
+[2025-03-06T00:59:30.893+0000] {processor.py:186} INFO - Started process (PID=3990) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T00:59:30.894+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-06T00:59:30.898+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:59:30.897+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T00:59:30.930+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T00:59:30.949+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:59:30.948+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-06T00:59:30.977+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:59:30.977+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-06T00:59:30.983+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:59:30.983+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T00:59:30.985+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:59:30.985+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T00:59:30.992+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:59:30.992+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-06T00:59:30.997+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:59:30.997+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T00:59:30.998+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:59:30.998+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T00:59:31.020+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.139 seconds
+[2025-03-06T01:00:29.264+0000] {processor.py:186} INFO - Started process (PID=4409) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:00:29.266+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-06T01:00:29.270+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:00:29.269+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:00:29.302+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:00:29.323+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:00:29.322+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-06T01:00:29.343+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:00:29.342+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-06T01:00:29.347+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:00:29.347+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:00:29.348+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:00:29.348+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:00:29.355+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:00:29.354+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-06T01:00:29.362+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:00:29.362+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:00:29.362+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:00:29.362+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:00:29.391+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.137 seconds
+[2025-03-06T01:01:30.135+0000] {processor.py:186} INFO - Started process (PID=4889) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:01:30.136+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-06T01:01:30.139+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:01:30.139+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:01:30.176+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:01:30.197+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:01:30.197+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-06T01:01:30.227+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:01:30.227+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-06T01:01:30.230+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:01:30.230+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:01:30.231+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:01:30.231+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:01:30.238+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:01:30.238+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-06T01:01:30.243+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:01:30.243+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:01:30.244+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:01:30.244+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:01:30.262+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.133 seconds
+[2025-03-06T01:02:30.870+0000] {processor.py:186} INFO - Started process (PID=5190) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:02:30.872+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-06T01:02:30.874+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:02:30.874+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:02:30.900+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:02:30.917+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:02:30.917+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-06T01:02:30.938+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:02:30.938+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-06T01:02:30.941+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:02:30.941+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:02:30.942+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:02:30.942+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:02:30.948+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:02:30.947+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-06T01:02:30.952+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:02:30.951+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:02:30.952+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:02:30.952+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:02:30.970+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.110 seconds
+[2025-03-06T01:03:30.594+0000] {processor.py:186} INFO - Started process (PID=5370) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:03:30.597+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-06T01:03:30.604+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:03:30.601+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:03:30.667+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:03:30.699+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:03:30.699+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-06T01:03:30.731+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:03:30.731+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-06T01:03:30.735+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:03:30.735+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:03:30.736+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:03:30.736+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:03:30.743+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:03:30.742+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-06T01:03:30.748+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:03:30.748+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:03:30.749+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:03:30.748+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:03:30.773+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.192 seconds
+[2025-03-06T01:04:32.118+0000] {processor.py:186} INFO - Started process (PID=5488) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:04:32.119+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-06T01:04:32.123+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:04:32.122+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:04:32.162+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:04:32.181+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:04:32.181+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-06T01:04:32.209+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:04:32.208+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-06T01:04:32.213+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:04:32.213+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:04:32.215+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:04:32.215+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:04:32.225+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:04:32.225+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-06T01:04:32.230+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:04:32.230+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:04:32.231+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:04:32.231+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:04:32.250+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.141 seconds
+[2025-03-06T01:05:36.096+0000] {processor.py:186} INFO - Started process (PID=5612) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:05:36.101+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-06T01:05:36.104+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:05:36.103+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:05:36.136+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:05:36.154+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:05:36.154+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-06T01:05:36.180+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:05:36.179+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-06T01:05:36.184+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:05:36.184+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:05:36.186+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:05:36.185+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:05:36.193+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:05:36.193+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-06T01:05:36.199+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:05:36.199+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:05:36.199+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:05:36.199+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:05:36.246+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.160 seconds
+[2025-03-06T01:06:38.670+0000] {processor.py:186} INFO - Started process (PID=5914) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:06:38.672+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-06T01:06:38.675+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:06:38.675+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:06:38.722+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:06:38.746+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:06:38.746+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-06T01:06:38.778+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:06:38.778+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-06T01:06:38.782+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:06:38.782+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:06:38.784+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:06:38.783+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:06:38.793+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:06:38.792+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-06T01:06:38.799+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:06:38.798+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:06:38.800+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:06:38.799+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:06:38.820+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.159 seconds
+[2025-03-06T01:07:40.174+0000] {processor.py:186} INFO - Started process (PID=6213) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:07:40.177+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-06T01:07:40.179+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:07:40.179+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:07:40.211+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:07:40.227+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:07:40.227+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-06T01:07:40.251+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:07:40.251+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-06T01:07:40.254+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:07:40.254+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:07:40.255+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:07:40.255+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:07:40.261+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:07:40.261+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-06T01:07:40.265+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:07:40.265+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:07:40.266+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:07:40.265+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:07:40.283+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.115 seconds
+[2025-03-06T01:08:39.871+0000] {processor.py:186} INFO - Started process (PID=6536) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:08:39.872+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-06T01:08:39.875+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:08:39.874+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:08:39.911+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:08:39.941+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:08:39.940+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-06T01:08:39.982+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:08:39.982+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-06T01:08:39.985+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:08:39.985+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:08:39.986+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:08:39.986+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:08:39.992+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:08:39.992+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-06T01:08:39.997+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:08:39.997+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:08:39.998+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:08:39.998+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:08:40.014+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.150 seconds
+[2025-03-06T01:09:44.576+0000] {processor.py:186} INFO - Started process (PID=6811) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:09:44.578+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-06T01:09:44.580+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:09:44.580+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:09:44.609+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:09:44.631+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:09:44.631+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-06T01:09:44.654+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:09:44.651+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-06T01:09:44.659+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:09:44.659+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:09:44.660+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:09:44.660+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:09:44.668+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:09:44.667+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-06T01:09:44.675+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:09:44.675+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:09:44.675+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:09:44.675+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:09:44.703+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.133 seconds
+[2025-03-06T01:10:45.094+0000] {processor.py:186} INFO - Started process (PID=6934) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:10:45.097+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-06T01:10:45.105+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:10:45.105+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:10:45.157+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:10:45.179+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:10:45.179+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-06T01:10:45.208+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:10:45.207+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-06T01:10:45.213+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:10:45.213+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:10:45.217+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:10:45.216+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:10:45.224+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:10:45.224+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-06T01:10:45.229+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:10:45.228+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:10:45.229+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:10:45.229+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:10:45.249+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.169 seconds
+[2025-03-06T01:11:48.414+0000] {processor.py:186} INFO - Started process (PID=7053) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:11:48.417+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-06T01:11:48.420+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:11:48.419+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:11:48.466+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:11:48.487+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:11:48.486+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-06T01:11:48.510+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:11:48.509+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-06T01:11:48.513+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:11:48.513+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:11:48.515+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:11:48.514+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:11:48.521+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:11:48.521+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-06T01:11:48.527+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:11:48.527+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:11:48.528+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:11:48.527+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:11:48.546+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.146 seconds
+[2025-03-06T01:12:53.285+0000] {processor.py:186} INFO - Started process (PID=7175) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:12:53.287+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-06T01:12:53.290+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:12:53.290+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:12:53.335+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:12:53.370+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:12:53.370+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-06T01:12:53.402+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:12:53.402+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-06T01:12:53.407+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:12:53.406+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:12:53.408+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:12:53.408+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:12:53.422+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:12:53.422+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-06T01:12:53.427+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:12:53.426+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:12:53.427+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:12:53.427+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:12:53.445+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.169 seconds
+[2025-03-06T01:13:54.336+0000] {processor.py:186} INFO - Started process (PID=7355) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:13:54.338+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-06T01:13:54.341+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:13:54.340+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:13:54.394+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:13:54.428+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:13:54.427+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-06T01:13:54.457+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:13:54.456+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-06T01:13:54.463+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:13:54.463+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:13:54.464+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:13:54.464+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:13:54.475+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:13:54.475+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-06T01:13:54.484+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:13:54.484+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:13:54.485+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:13:54.485+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:13:54.508+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.183 seconds
+[2025-03-06T01:14:55.705+0000] {processor.py:186} INFO - Started process (PID=7474) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:14:55.708+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-06T01:14:55.711+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:14:55.710+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:14:55.747+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:14:55.762+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:14:55.761+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-06T01:14:55.783+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:14:55.782+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-06T01:14:55.786+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:14:55.786+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:14:55.787+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:14:55.787+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:14:55.793+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:14:55.793+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-06T01:14:55.797+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:14:55.797+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:14:55.797+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:14:55.797+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:14:55.814+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.117 seconds
+[2025-03-06T01:15:59.755+0000] {processor.py:186} INFO - Started process (PID=7778) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:15:59.757+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-06T01:15:59.760+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:15:59.759+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:15:59.793+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:15:59.811+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:15:59.810+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-06T01:15:59.836+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:15:59.836+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-06T01:15:59.841+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:15:59.840+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:15:59.842+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:15:59.842+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:15:59.849+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:15:59.849+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-06T01:15:59.854+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:15:59.854+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:15:59.854+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:15:59.854+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:15:59.874+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.125 seconds
+[2025-03-06T01:16:58.181+0000] {processor.py:186} INFO - Started process (PID=7896) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:16:58.183+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-06T01:16:58.186+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:16:58.185+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:16:58.217+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:16:58.236+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:16:58.236+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-06T01:16:58.261+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:16:58.261+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-06T01:16:58.265+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:16:58.264+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:16:58.266+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:16:58.266+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:16:58.274+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:16:58.274+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-06T01:16:58.278+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:16:58.278+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:16:58.279+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:16:58.278+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:16:58.295+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.121 seconds
+[2025-03-06T01:18:00.609+0000] {processor.py:186} INFO - Started process (PID=8240) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:18:00.610+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-06T01:18:00.614+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:18:00.613+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:18:00.649+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:18:00.669+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:18:00.669+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-06T01:18:00.696+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:18:00.696+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-06T01:18:00.701+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:18:00.700+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:18:00.702+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:18:00.701+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:18:00.709+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:18:00.708+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-06T01:18:00.713+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:18:00.713+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:18:00.714+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:18:00.714+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:18:00.736+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.134 seconds
+[2025-03-06T01:19:01.934+0000] {processor.py:186} INFO - Started process (PID=8479) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:19:01.936+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-03-06T01:19:01.939+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:19:01.939+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:19:01.979+0000] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-03-06T01:19:02.002+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:19:02.002+0000] {dag.py:3239} INFO - Sync 3 DAGs
+[2025-03-06T01:19:02.029+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:19:02.029+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-03-06T01:19:02.033+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:19:02.033+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:19:02.034+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:19:02.034+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:19:02.041+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:19:02.041+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-06T01:19:02.046+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:19:02.045+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-03-06T01:19:02.046+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:19:02.046+0000] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-03-06T01:19:02.063+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.141 seconds

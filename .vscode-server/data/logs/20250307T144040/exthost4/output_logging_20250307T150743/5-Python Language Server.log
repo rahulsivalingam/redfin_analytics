@@ -1,0 +1,19 @@
+[Info  - 3:07:46 PM] (22519) Pylance language server 2023.1.10 (pyright bbf0ae78) starting
+[Info  - 3:07:46 PM] (22519) Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.1.10/dist
+[Info  - 3:07:46 PM] (22519) Starting service instance "ubuntu"
+[Info  - 3:07:46 PM] (22519) Notebook support: LSP
+[Info  - 3:07:46 PM] (22519) Interactive window support: LSP
+[Info  - 3:07:46 PM] (22519) No configuration file found.
+[Info  - 3:07:46 PM] (22519) No pyproject.toml file found.
+[Info  - 3:07:46 PM] (22519) Setting pythonPath for service "ubuntu": "/home/ubuntu/redfin_ven/bin/python"
+[Warn  - 3:07:46 PM] (22519) stubPath /home/ubuntu/typings is not a valid directory.
+[Info  - 3:07:46 PM] (22519) Assuming Python version 3.12
+[Info  - 3:07:46 PM] (22519) Assuming Python platform Linux
+[Info  - 3:07:46 PM] (22519) Searching for source files
+[Info  - 3:07:46 PM] (22519) Auto-excluding /home/ubuntu/redfin_ven
+[Info  - 3:07:46 PM] (22519) Auto-excluding /home/ubuntu/redfin_venv
+[Info  - 3:07:46 PM] (22519) Found 3 source files
+[Info  - 3:07:46 PM] (22519) Background analysis(1) root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.1.10/dist
+[Info  - 3:07:46 PM] (22519) Background analysis(1) started
+[Info  - 3:07:49 PM] (22519) [BG(1)] Long operation: checking: /home/ubuntu/airflow/dags/functions.py (2624ms)
+[Info  - 3:07:49 PM] (22519) [BG(1)] Long operation: analyzing: /home/ubuntu/airflow/dags/functions.py (2830ms)

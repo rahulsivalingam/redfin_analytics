@@ -1,0 +1,78 @@
+[2025-02-20T00:53:01.890+0000] {processor.py:186} INFO - Started process (PID=3660) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:53:01.893+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T00:53:01.896+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:01.895+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:53:01.911+0000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:53:02.051+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:02.050+0000] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_params_trigger_ui
+[2025-02-20T00:53:02.064+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:02.063+0000] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_params_trigger_ui
+[2025-02-20T00:53:02.073+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:02.072+0000] {override.py:1930} INFO - Created Permission View: can read on DAG:example_params_trigger_ui
+[2025-02-20T00:53:02.083+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:02.083+0000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_params_trigger_ui
+[2025-02-20T00:53:02.090+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:02.090+0000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_params_trigger_ui
+[2025-02-20T00:53:02.097+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:02.097+0000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_params_trigger_ui
+[2025-02-20T00:53:02.104+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:02.103+0000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_params_trigger_ui
+[2025-02-20T00:53:02.104+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:02.104+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:53:02.115+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:02.115+0000] {dag.py:3262} INFO - Creating ORM DAG for example_params_trigger_ui
+[2025-02-20T00:53:02.116+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:02.116+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T00:53:02.134+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.252 seconds
+[2025-02-20T00:54:05.783+0000] {processor.py:186} INFO - Started process (PID=3902) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:54:05.785+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T00:54:05.787+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:05.787+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:54:05.799+0000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:54:05.839+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:05.839+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:54:05.852+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:05.851+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T00:54:05.874+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.097 seconds
+[2025-02-20T00:55:02.512+0000] {processor.py:186} INFO - Started process (PID=4147) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:55:02.513+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T00:55:02.515+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:02.515+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:55:02.531+0000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:55:02.575+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:02.574+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:55:02.590+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:02.590+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T00:55:02.616+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.111 seconds
+[2025-02-20T00:55:59.220+0000] {processor.py:186} INFO - Started process (PID=4264) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:55:59.222+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T00:55:59.224+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:59.223+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:55:59.235+0000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:55:59.272+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:59.272+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:55:59.284+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:59.284+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T00:55:59.305+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.091 seconds
+[2025-02-20T00:56:52.323+0000] {processor.py:186} INFO - Started process (PID=4385) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:56:52.324+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T00:56:52.327+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:52.326+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:56:52.339+0000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:56:52.384+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:52.383+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:56:52.397+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:52.397+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T00:56:52.422+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.105 seconds
+[2025-02-20T00:57:46.443+0000] {processor.py:186} INFO - Started process (PID=4558) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:57:46.444+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T00:57:46.447+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:46.447+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:57:46.460+0000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:57:46.497+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:46.497+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:57:46.510+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:46.510+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T00:57:46.534+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.097 seconds
+[2025-02-20T00:58:38.752+0000] {processor.py:186} INFO - Started process (PID=4673) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:58:38.753+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T00:58:38.755+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:38.755+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:58:38.767+0000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:58:38.804+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:38.804+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:58:38.819+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:38.819+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T00:58:38.842+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.096 seconds
+[2025-02-20T00:59:32.888+0000] {processor.py:186} INFO - Started process (PID=4788) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:59:32.889+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T00:59:32.891+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:32.891+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:59:32.903+0000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T00:59:32.940+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:32.940+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:59:32.953+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:32.953+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T00:59:32.990+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.109 seconds
+[2025-02-20T01:00:23.545+0000] {processor.py:186} INFO - Started process (PID=5311) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T01:00:23.549+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T01:00:23.552+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:23.552+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T01:00:23.567+0000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T01:00:23.615+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:23.615+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T01:00:23.628+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:23.628+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T01:00:23.668+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.133 seconds
+[2025-02-20T01:01:20.474+0000] {processor.py:186} INFO - Started process (PID=5584) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T01:01:20.477+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-02-20T01:01:20.479+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:01:20.479+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T01:01:20.492+0000] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-02-20T01:01:20.540+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:01:20.540+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T01:01:20.557+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:01:20.557+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-02-20T01:01:20.587+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.119 seconds

@@ -1,0 +1,356 @@
+[2025-02-20 01:01:17.466] [exthost] [info] Extension host with pid 5471 started
+[2025-02-20 01:01:17.493] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/443a9c35c13baf31235c52a615bc4b86/vscode.lock': Lock acquired.
+[2025-02-20 01:01:17.576] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2025-02-20 01:01:17.582] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2025-02-20 01:01:17.586] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2025-02-20 01:01:17.649] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2025-02-20 01:01:17.715] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2025-02-20 01:01:17.758] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2025-02-20 01:01:17.765] [exthost] [info] Eager extensions activated
+[2025-02-20 01:01:19.512] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2025-02-20 01:09:47.824] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2025-02-20 01:09:48.225] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2025-02-20 01:09:49.386] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2025-02-20 01:09:49.623] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2025-02-20 01:21:11.135] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:11.135] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:11.379] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:11.379] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:12.678] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:12.678] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:13.682] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:13.683] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:14.618] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:14.619] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:18.661] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:18.661] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:20.841] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:20.841] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:22.537] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:22.537] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:22.768] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:22.769] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:23.117] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:23.118] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:23.592] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:23.592] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:24.787] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:24.787] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:25.073] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:25.073] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:26.094] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:26.094] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:26.637] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:26.637] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:27.026] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:27.026] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:27.367] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:27.367] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:27.864] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:27.864] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:28.204] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:28.205] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:34.367] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:34.367] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:36.193] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:36.193] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:36.707] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:36.707] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:38.712] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:38.712] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:42.806] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:42.806] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:43.930] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:43.930] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:49.472] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:49.473] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:50.631] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:50.631] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:51.375] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:51.375] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:52.283] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:52.283] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:57.129] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:57.130] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:57.553] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:57.554] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:57.824] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:57.824] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:21:58.443] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:21:58.443] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:22:04.153] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:22:04.153] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:22:05.080] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:22:05.080] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:22:07.952] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:22:07.952] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:22:08.667] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:22:08.667] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:22:09.574] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:22:09.574] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:22:09.797] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:22:09.797] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:22:10.023] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:22:10.023] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:22:10.374] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:22:10.374] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:22:10.717] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:22:10.717] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:22:11.534] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:22:11.534] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:22:14.381] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:22:14.381] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:22:15.269] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:22:15.269] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:22:15.693] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:22:15.693] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:22:16.170] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:22:16.170] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:22:17.293] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:22:17.293] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:22:17.953] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:22:17.953] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:22:20.346] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:22:20.346] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:22:31.177] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:22:31.177] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:22:31.674] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:22:31.674] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:22:32.715] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:22:32.716] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:22:33.033] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:22:33.033] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:22:33.316] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:22:33.316] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:28:12.590] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:28:12.590] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)
+[2025-02-20 01:28:13.049] [exthost] [error] [ms-python.python] provider FAILED
+[2025-02-20 01:28:13.049] [exthost] [error] Error: Request textDocument/foldingRange failed with message: index is out of range
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153020
+	at /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153314
+	at Immediate.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/out/client/extension.js:2:2153676)
+	at processImmediate (node:internal/timers:466:21)

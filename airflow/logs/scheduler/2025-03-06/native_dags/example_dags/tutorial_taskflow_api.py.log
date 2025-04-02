@@ -1,0 +1,154 @@
+[2025-03-06T00:58:21.361+0000] {processor.py:186} INFO - Started process (PID=3401) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T00:58:21.362+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-06T00:58:21.364+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:58:21.364+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T00:58:21.373+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T00:58:21.397+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:58:21.397+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T00:58:21.412+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:58:21.412+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-06T00:58:21.436+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.080 seconds
+[2025-03-06T00:59:18.764+0000] {processor.py:186} INFO - Started process (PID=3978) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T00:59:18.766+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-06T00:59:18.768+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:59:18.768+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T00:59:18.779+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T00:59:18.799+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:59:18.799+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T00:59:18.818+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:59:18.818+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-06T00:59:18.846+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.088 seconds
+[2025-03-06T01:00:15.916+0000] {processor.py:186} INFO - Started process (PID=4277) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:00:15.918+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-06T01:00:15.922+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:00:15.922+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:00:15.937+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:00:15.955+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:00:15.954+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:00:15.972+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:00:15.972+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-06T01:00:16.012+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.109 seconds
+[2025-03-06T01:01:17.320+0000] {processor.py:186} INFO - Started process (PID=4876) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:01:17.322+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-06T01:01:17.325+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:01:17.324+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:01:17.336+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:01:17.356+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:01:17.355+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:01:17.369+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:01:17.369+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-06T01:01:17.396+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.086 seconds
+[2025-03-06T01:02:18.628+0000] {processor.py:186} INFO - Started process (PID=5178) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:02:18.630+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-06T01:02:18.632+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:02:18.632+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:02:18.642+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:02:18.660+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:02:18.659+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:02:18.674+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:02:18.674+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-06T01:02:18.700+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.078 seconds
+[2025-03-06T01:03:18.324+0000] {processor.py:186} INFO - Started process (PID=5358) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:03:18.326+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-06T01:03:18.329+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:03:18.329+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:03:18.341+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:03:18.359+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:03:18.359+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:03:18.372+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:03:18.372+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-06T01:03:18.399+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.082 seconds
+[2025-03-06T01:04:19.427+0000] {processor.py:186} INFO - Started process (PID=5476) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:04:19.429+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-06T01:04:19.435+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:04:19.434+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:04:19.455+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:04:19.492+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:04:19.491+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:04:19.525+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:04:19.524+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-06T01:04:19.569+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.152 seconds
+[2025-03-06T01:05:24.377+0000] {processor.py:186} INFO - Started process (PID=5600) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:05:24.378+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-06T01:05:24.381+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:05:24.380+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:05:24.391+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:05:24.409+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:05:24.408+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:05:24.423+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:05:24.422+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-06T01:05:24.449+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.079 seconds
+[2025-03-06T01:06:26.231+0000] {processor.py:186} INFO - Started process (PID=5840) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:06:26.235+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-06T01:06:26.239+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:06:26.237+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:06:26.256+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:06:26.281+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:06:26.281+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:06:26.299+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:06:26.299+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-06T01:06:26.331+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.115 seconds
+[2025-03-06T01:07:28.267+0000] {processor.py:186} INFO - Started process (PID=6201) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:07:28.269+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-06T01:07:28.272+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:07:28.271+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:07:28.287+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:07:28.314+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:07:28.313+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:07:28.331+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:07:28.330+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-06T01:07:28.373+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.118 seconds
+[2025-03-06T01:08:28.188+0000] {processor.py:186} INFO - Started process (PID=6499) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:08:28.190+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-06T01:08:28.192+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:08:28.192+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:08:28.207+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:08:28.231+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:08:28.230+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:08:28.247+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:08:28.247+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-06T01:08:28.274+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.093 seconds
+[2025-03-06T01:09:31.717+0000] {processor.py:186} INFO - Started process (PID=6799) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:09:31.719+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-06T01:09:31.721+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:09:31.721+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:09:31.732+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:09:31.751+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:09:31.751+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:09:31.765+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:09:31.765+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-06T01:09:31.813+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.104 seconds
+[2025-03-06T01:10:33.180+0000] {processor.py:186} INFO - Started process (PID=6922) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:10:33.182+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-06T01:10:33.186+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:10:33.185+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:10:33.200+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:10:33.229+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:10:33.228+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:10:33.248+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:10:33.248+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-06T01:10:33.287+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.115 seconds
+[2025-03-06T01:11:34.416+0000] {processor.py:186} INFO - Started process (PID=7041) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:11:34.417+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-06T01:11:34.419+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:11:34.419+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:11:34.429+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:11:34.447+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:11:34.446+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:11:34.460+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:11:34.459+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-06T01:11:34.484+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.075 seconds
+[2025-03-06T01:12:40.712+0000] {processor.py:186} INFO - Started process (PID=7163) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:12:40.714+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-06T01:12:40.716+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:12:40.716+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:12:40.727+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:12:40.747+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:12:40.746+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:12:40.762+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:12:40.762+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-06T01:12:40.789+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.085 seconds
+[2025-03-06T01:13:41.560+0000] {processor.py:186} INFO - Started process (PID=7343) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:13:41.571+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-06T01:13:41.578+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:13:41.577+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:13:41.590+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:13:41.608+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:13:41.608+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:13:41.632+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:13:41.631+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-06T01:13:41.656+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.113 seconds
+[2025-03-06T01:14:42.717+0000] {processor.py:186} INFO - Started process (PID=7462) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:14:42.718+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-06T01:14:42.721+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:14:42.720+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:14:42.731+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:14:42.752+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:14:42.752+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:14:42.768+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:14:42.768+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-06T01:14:42.799+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.090 seconds
+[2025-03-06T01:15:46.938+0000] {processor.py:186} INFO - Started process (PID=7766) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:15:46.939+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-06T01:15:46.942+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:15:46.942+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:15:46.952+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:15:46.968+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:15:46.968+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:15:46.981+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:15:46.981+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-06T01:15:47.005+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.079 seconds
+[2025-03-06T01:16:45.639+0000] {processor.py:186} INFO - Started process (PID=7884) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:16:45.640+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-06T01:16:45.643+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:16:45.642+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:16:45.656+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:16:45.676+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:16:45.676+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:16:45.692+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:16:45.691+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-06T01:16:45.721+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.091 seconds
+[2025-03-06T01:17:48.122+0000] {processor.py:186} INFO - Started process (PID=8227) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:17:48.126+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-06T01:17:48.130+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:17:48.130+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:17:48.151+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:17:48.174+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:17:48.173+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:17:48.212+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:17:48.212+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-06T01:17:48.243+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.138 seconds
+[2025-03-06T01:18:49.336+0000] {processor.py:186} INFO - Started process (PID=8467) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:18:49.338+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-06T01:18:49.341+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:18:49.340+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:18:49.352+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:18:49.373+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:18:49.373+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:18:49.388+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:18:49.388+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-06T01:18:49.416+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.089 seconds
+[2025-03-06T01:19:57.208+0000] {processor.py:186} INFO - Started process (PID=8588) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:19:57.210+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2025-03-06T01:19:57.218+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:19:57.216+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:19:57.233+0000] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2025-03-06T01:19:57.252+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:19:57.252+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:19:57.267+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:19:57.267+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2025-03-06T01:19:57.294+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.093 seconds

@@ -1,0 +1,16 @@
+[2025-03-07T15:53:02.358+0000] {processor.py:186} INFO - Started process (PID=2899) to work on /home/ubuntu/airflow/dags/redfin_analytics.py
+[2025-03-07T15:53:02.358+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/redfin_analytics.py for tasks to queue
+[2025-03-07T15:53:02.361+0000] {logging_mixin.py:190} INFO - [2025-03-07T15:53:02.361+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/redfin_analytics.py
+[2025-03-07T15:53:02.458+0000] {logging_mixin.py:190} INFO - [2025-03-07T15:53:02.457+0000] {credentials.py:1278} INFO - Found credentials in shared credentials file: ~/.aws/credentials
+[2025-03-07T15:53:02.570+0000] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/ubuntu/airflow/dags/redfin_analytics.py
+[2025-03-07T15:53:02.602+0000] {logging_mixin.py:190} INFO - [2025-03-07T15:53:02.601+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-07T15:53:02.625+0000] {logging_mixin.py:190} INFO - [2025-03-07T15:53:02.625+0000] {dag.py:4180} INFO - Setting next_dagrun for redfin_analytics_dag to 2025-03-07 00:00:00+00:00, run_after=2025-03-08 00:00:00+00:00
+[2025-03-07T15:53:02.645+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/redfin_analytics.py took 0.293 seconds
+[2025-03-07T15:53:56.481+0000] {processor.py:186} INFO - Started process (PID=3281) to work on /home/ubuntu/airflow/dags/redfin_analytics.py
+[2025-03-07T15:53:56.483+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/redfin_analytics.py for tasks to queue
+[2025-03-07T15:53:56.484+0000] {logging_mixin.py:190} INFO - [2025-03-07T15:53:56.483+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/redfin_analytics.py
+[2025-03-07T15:53:56.558+0000] {logging_mixin.py:190} INFO - [2025-03-07T15:53:56.558+0000] {credentials.py:1278} INFO - Found credentials in shared credentials file: ~/.aws/credentials
+[2025-03-07T15:53:56.646+0000] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/ubuntu/airflow/dags/redfin_analytics.py
+[2025-03-07T15:53:56.665+0000] {logging_mixin.py:190} INFO - [2025-03-07T15:53:56.665+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-07T15:53:56.680+0000] {logging_mixin.py:190} INFO - [2025-03-07T15:53:56.680+0000] {dag.py:4180} INFO - Setting next_dagrun for redfin_analytics_dag to 2025-03-07 00:00:00+00:00, run_after=2025-03-08 00:00:00+00:00
+[2025-03-07T15:53:56.699+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/redfin_analytics.py took 0.224 seconds

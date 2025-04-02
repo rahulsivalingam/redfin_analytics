@@ -1,0 +1,24 @@
+Experiment 'pythonTerminalEnvVarActivation' is active
+Experiment 'pythonTestAdapter' is active
+LSP Notebooks experiment is enabled
+LSP Notebooks interactive window support is enabled
+> conda info --json
+> ./redfin_ven/bin/python ./.vscode-server/extensions/ms-python.python-2022.16.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2022.16.1/pythonFiles/interpreterInfo.py
+[ERROR 2025-2-11 19:47:1.290]: [Error: Command failed: /home/ubuntu/redfin_ven/bin/python /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/pythonFiles/get_output_via_markers.py /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/pythonFiles/interpreterInfo.py
+/bin/sh: 1: /home/ubuntu/redfin_ven/bin/python: not found
+
+	at ChildProcess.exithandler (node:child_process:399:12)
+	at ChildProcess.emit (node:events:526:28)
+	at maybeClose (node:internal/child_process:1092:16)
+	at Socket.<anonymous> (node:internal/child_process:451:11)
+	at Socket.emit (node:events:526:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: '/home/ubuntu/redfin_ven/bin/python /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/pythonFiles/get_output_via_markers.py /home/ubuntu/.vscode-server/extensions/ms-python.python-2022.16.1/pythonFiles/interpreterInfo.py'
+}
+> ./redfin_venv/bin/python ./.vscode-server/extensions/ms-python.python-2022.16.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2022.16.1/pythonFiles/interpreterInfo.py
+> /bin/python3 ./.vscode-server/extensions/ms-python.python-2022.16.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2022.16.1/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 ./.vscode-server/extensions/ms-python.python-2022.16.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2022.16.1/pythonFiles/interpreterInfo.py
+Starting Pylance language server.

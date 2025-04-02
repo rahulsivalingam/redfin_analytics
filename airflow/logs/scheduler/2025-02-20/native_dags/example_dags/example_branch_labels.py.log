@@ -1,0 +1,57 @@
+[2025-02-20T00:53:22.094+0000] {processor.py:186} INFO - Started process (PID=3737) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T00:53:22.095+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T00:53:22.099+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:22.098+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T00:53:22.113+0000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T00:53:22.216+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:22.215+0000] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_branch_labels
+[2025-02-20T00:53:22.227+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:22.227+0000] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_branch_labels
+[2025-02-20T00:53:22.237+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:22.236+0000] {override.py:1930} INFO - Created Permission View: can read on DAG:example_branch_labels
+[2025-02-20T00:53:22.253+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:22.252+0000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_branch_labels
+[2025-02-20T00:53:22.262+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:22.262+0000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_branch_labels
+[2025-02-20T00:53:22.272+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:22.271+0000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_branch_labels
+[2025-02-20T00:53:22.282+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:22.281+0000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_branch_labels
+[2025-02-20T00:53:22.282+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:22.282+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:53:22.293+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:22.293+0000] {dag.py:3262} INFO - Creating ORM DAG for example_branch_labels
+[2025-02-20T00:53:22.302+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:22.302+0000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19 00:00:00+00:00, run_after=2025-02-20 00:00:00+00:00
+[2025-02-20T00:53:22.324+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py took 0.235 seconds
+[2025-02-20T00:54:23.071+0000] {processor.py:186} INFO - Started process (PID=3982) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T00:54:23.072+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T00:54:23.074+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:23.074+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T00:54:23.085+0000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T00:54:23.102+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:23.102+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:54:23.122+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:23.122+0000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19 00:00:00+00:00, run_after=2025-02-20 00:00:00+00:00
+[2025-02-20T00:54:23.144+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py took 0.080 seconds
+[2025-02-20T00:55:41.077+0000] {processor.py:186} INFO - Started process (PID=4246) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T00:55:41.078+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T00:55:41.080+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:41.080+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T00:55:41.093+0000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T00:55:41.121+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:41.120+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:55:41.151+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:41.151+0000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19 00:00:00+00:00, run_after=2025-02-20 00:00:00+00:00
+[2025-02-20T00:55:41.178+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py took 0.108 seconds
+[2025-02-20T00:57:00.227+0000] {processor.py:186} INFO - Started process (PID=4393) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T00:57:00.230+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T00:57:00.233+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:00.232+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T00:57:00.245+0000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T00:57:00.266+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:00.266+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:57:00.291+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:00.290+0000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19 00:00:00+00:00, run_after=2025-02-20 00:00:00+00:00
+[2025-02-20T00:57:00.360+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py took 0.140 seconds
+[2025-02-20T00:57:57.360+0000] {processor.py:186} INFO - Started process (PID=4570) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T00:57:57.361+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T00:57:57.363+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:57.363+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T00:57:57.374+0000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T00:57:57.391+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:57.391+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:57:57.413+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:57.413+0000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19 00:00:00+00:00, run_after=2025-02-20 00:00:00+00:00
+[2025-02-20T00:57:57.433+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py took 0.079 seconds
+[2025-02-20T00:59:18.102+0000] {processor.py:186} INFO - Started process (PID=4712) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T00:59:18.103+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T00:59:18.105+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:18.105+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T00:59:18.116+0000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T00:59:18.134+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:18.134+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:59:18.155+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:18.155+0000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19 00:00:00+00:00, run_after=2025-02-20 00:00:00+00:00
+[2025-02-20T00:59:18.178+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py took 0.082 seconds
+[2025-02-20T01:00:35.894+0000] {processor.py:186} INFO - Started process (PID=5333) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T01:00:35.897+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-02-20T01:00:35.906+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:35.905+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T01:00:35.936+0000] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-02-20T01:00:35.989+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:35.989+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T01:00:36.051+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:36.051+0000] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-02-19 00:00:00+00:00, run_after=2025-02-20 00:00:00+00:00
+[2025-02-20T01:00:36.085+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py took 0.206 seconds

@@ -1,0 +1,5 @@
+[2025-03-07T15:53:59.084+0000] {processor.py:186} INFO - Started process (PID=3318) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-07T15:53:59.084+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-03-07T15:53:59.086+0000] {logging_mixin.py:190} INFO - [2025-03-07T15:53:59.085+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-07T15:53:59.089+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-03-07T15:53:59.100+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/plugins/event_listener.py took 0.022 seconds

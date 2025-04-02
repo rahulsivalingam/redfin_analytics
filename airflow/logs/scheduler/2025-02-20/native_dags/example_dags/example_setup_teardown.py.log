@@ -1,0 +1,78 @@
+[2025-02-20T00:52:54.874+0000] {processor.py:186} INFO - Started process (PID=3654) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:52:54.875+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-02-20T00:52:54.877+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:54.876+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:52:54.887+0000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:52:55.006+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:55.005+0000] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_setup_teardown
+[2025-02-20T00:52:55.021+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:55.020+0000] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_setup_teardown
+[2025-02-20T00:52:55.031+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:55.031+0000] {override.py:1930} INFO - Created Permission View: can read on DAG:example_setup_teardown
+[2025-02-20T00:52:55.049+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:55.048+0000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_setup_teardown
+[2025-02-20T00:52:55.059+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:55.059+0000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_setup_teardown
+[2025-02-20T00:52:55.070+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:55.070+0000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_setup_teardown
+[2025-02-20T00:52:55.081+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:55.080+0000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_setup_teardown
+[2025-02-20T00:52:55.081+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:55.081+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:52:55.092+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:55.092+0000] {dag.py:3262} INFO - Creating ORM DAG for example_setup_teardown
+[2025-02-20T00:52:55.093+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:55.093+0000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-02-20T00:52:55.116+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py took 0.249 seconds
+[2025-02-20T00:53:57.614+0000] {processor.py:186} INFO - Started process (PID=3892) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:53:57.615+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-02-20T00:53:57.617+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:57.617+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:53:57.628+0000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:53:57.649+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:57.649+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:53:57.666+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:57.666+0000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-02-20T00:53:57.695+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py took 0.088 seconds
+[2025-02-20T00:54:56.940+0000] {processor.py:186} INFO - Started process (PID=4138) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:54:56.941+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-02-20T00:54:56.944+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:56.944+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:54:56.958+0000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:54:56.977+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:56.976+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:54:56.988+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:56.988+0000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-02-20T00:54:57.010+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py took 0.079 seconds
+[2025-02-20T00:55:52.818+0000] {processor.py:186} INFO - Started process (PID=4258) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:55:52.820+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-02-20T00:55:52.823+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:52.822+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:55:52.837+0000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:55:52.854+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:52.854+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:55:52.867+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:52.866+0000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-02-20T00:55:52.890+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py took 0.080 seconds
+[2025-02-20T00:56:45.801+0000] {processor.py:186} INFO - Started process (PID=4379) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:56:45.802+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-02-20T00:56:45.804+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:45.804+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:56:45.815+0000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:56:45.833+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:45.833+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:56:45.847+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:45.846+0000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-02-20T00:56:45.871+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py took 0.078 seconds
+[2025-02-20T00:57:39.963+0000] {processor.py:186} INFO - Started process (PID=4552) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:57:39.964+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-02-20T00:57:39.966+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:39.966+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:57:39.981+0000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:57:40.012+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:40.010+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:57:40.036+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:40.036+0000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-02-20T00:57:40.071+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py took 0.119 seconds
+[2025-02-20T00:58:33.601+0000] {processor.py:186} INFO - Started process (PID=4667) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:58:33.602+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-02-20T00:58:33.604+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:33.604+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:58:33.614+0000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:58:33.633+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:33.633+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:58:33.646+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:33.646+0000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-02-20T00:58:33.668+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py took 0.074 seconds
+[2025-02-20T00:59:26.511+0000] {processor.py:186} INFO - Started process (PID=4782) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:59:26.514+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-02-20T00:59:26.520+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:26.515+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:59:26.536+0000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T00:59:26.560+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:26.560+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:59:26.586+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:26.586+0000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-02-20T00:59:26.619+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py took 0.124 seconds
+[2025-02-20T01:00:18.463+0000] {processor.py:186} INFO - Started process (PID=5245) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T01:00:18.466+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-02-20T01:00:18.469+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:18.469+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T01:00:18.485+0000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T01:00:18.518+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:18.517+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T01:00:18.548+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:18.548+0000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-02-20T01:00:18.585+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py took 0.133 seconds
+[2025-02-20T01:01:15.230+0000] {processor.py:186} INFO - Started process (PID=5469) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T01:01:15.233+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-02-20T01:01:15.236+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:01:15.236+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T01:01:15.253+0000] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-20T01:01:15.281+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:01:15.281+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T01:01:15.298+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:01:15.298+0000] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2025-02-20T01:01:15.325+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py took 0.102 seconds

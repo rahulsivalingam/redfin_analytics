@@ -1,0 +1,88 @@
+[2025-02-20T00:52:48.712+0000] {processor.py:186} INFO - Started process (PID=3649) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:52:48.713+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-02-20T00:52:48.715+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:48.714+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:52:48.722+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:48.722+0000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-02-20T00:52:48.724+0000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:52:48.832+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:48.832+0000] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_python_operator
+[2025-02-20T00:52:48.847+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:48.846+0000] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_python_operator
+[2025-02-20T00:52:48.856+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:48.856+0000] {override.py:1930} INFO - Created Permission View: can read on DAG:example_python_operator
+[2025-02-20T00:52:48.872+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:48.872+0000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_python_operator
+[2025-02-20T00:52:48.882+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:48.882+0000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_python_operator
+[2025-02-20T00:52:48.892+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:48.892+0000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_python_operator
+[2025-02-20T00:52:48.902+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:48.902+0000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_python_operator
+[2025-02-20T00:52:48.903+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:48.902+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:52:48.913+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:48.913+0000] {dag.py:3262} INFO - Creating ORM DAG for example_python_operator
+[2025-02-20T00:52:48.914+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:48.914+0000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-02-20T00:52:48.935+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py took 0.229 seconds
+[2025-02-20T00:53:51.500+0000] {processor.py:186} INFO - Started process (PID=3887) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:53:51.502+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-02-20T00:53:51.504+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:51.504+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:53:51.512+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:51.512+0000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-02-20T00:53:51.515+0000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:53:51.536+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:51.536+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:53:51.549+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:51.549+0000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-02-20T00:53:51.572+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py took 0.080 seconds
+[2025-02-20T00:54:48.011+0000] {processor.py:186} INFO - Started process (PID=4129) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:54:48.013+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-02-20T00:54:48.016+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:48.015+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:54:48.024+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:48.024+0000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-02-20T00:54:48.027+0000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:54:48.052+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:48.051+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:54:48.073+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:48.073+0000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-02-20T00:54:48.100+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py took 0.097 seconds
+[2025-02-20T00:55:47.656+0000] {processor.py:186} INFO - Started process (PID=4253) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:55:47.658+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-02-20T00:55:47.661+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:47.661+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:55:47.671+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:47.671+0000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-02-20T00:55:47.674+0000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:55:47.697+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:47.697+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:55:47.712+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:47.711+0000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-02-20T00:55:47.738+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py took 0.088 seconds
+[2025-02-20T00:56:40.645+0000] {processor.py:186} INFO - Started process (PID=4374) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:56:40.647+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-02-20T00:56:40.649+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:40.648+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:56:40.656+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:40.656+0000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-02-20T00:56:40.659+0000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:56:40.680+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:40.680+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:56:40.693+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:40.693+0000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-02-20T00:56:40.735+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py took 0.096 seconds
+[2025-02-20T00:57:35.057+0000] {processor.py:186} INFO - Started process (PID=4547) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:57:35.058+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-02-20T00:57:35.061+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:35.060+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:57:35.069+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:35.069+0000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-02-20T00:57:35.072+0000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:57:35.092+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:35.092+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:57:35.107+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:35.107+0000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-02-20T00:57:35.133+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py took 0.083 seconds
+[2025-02-20T00:58:28.348+0000] {processor.py:186} INFO - Started process (PID=4662) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:58:28.349+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-02-20T00:58:28.351+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:28.350+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:58:28.359+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:28.358+0000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-02-20T00:58:28.361+0000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:58:28.378+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:28.378+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:58:28.393+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:28.392+0000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-02-20T00:58:28.443+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py took 0.102 seconds
+[2025-02-20T00:59:22.500+0000] {processor.py:186} INFO - Started process (PID=4777) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:59:22.501+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-02-20T00:59:22.503+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:22.503+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:59:22.511+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:22.511+0000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-02-20T00:59:22.514+0000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T00:59:22.533+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:22.533+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:59:22.552+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:22.552+0000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-02-20T00:59:22.588+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py took 0.094 seconds
+[2025-02-20T01:00:12.889+0000] {processor.py:186} INFO - Started process (PID=5239) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T01:00:12.891+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-02-20T01:00:12.894+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:12.893+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T01:00:12.906+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:12.906+0000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-02-20T01:00:12.910+0000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T01:00:12.935+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:12.935+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T01:00:12.951+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:12.951+0000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-02-20T01:00:12.982+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py took 0.107 seconds
+[2025-02-20T01:01:09.191+0000] {processor.py:186} INFO - Started process (PID=5464) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T01:01:09.193+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-02-20T01:01:09.196+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:01:09.196+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T01:01:09.209+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:01:09.209+0000] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-02-20T01:01:09.213+0000] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-20T01:01:09.247+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:01:09.246+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T01:01:09.263+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:01:09.262+0000] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-02-20T01:01:09.294+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py took 0.113 seconds

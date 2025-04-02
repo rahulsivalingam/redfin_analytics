@@ -1,0 +1,8 @@
+[2025-03-07T15:54:41.666+0000] {processor.py:186} INFO - Started process (PID=3481) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2025-03-07T15:54:41.667+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2025-03-07T15:54:41.668+0000] {logging_mixin.py:190} INFO - [2025-03-07T15:54:41.668+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2025-03-07T15:54:41.674+0000] {processor.py:925} INFO - DAG(s) 'example_external_task_marker_child', 'example_external_task_marker_parent' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2025-03-07T15:54:41.778+0000] {logging_mixin.py:190} INFO - [2025-03-07T15:54:41.778+0000] {dag.py:3239} INFO - Sync 2 DAGs
+[2025-03-07T15:54:41.787+0000] {logging_mixin.py:190} INFO - [2025-03-07T15:54:41.787+0000] {dag.py:4180} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2025-03-07T15:54:41.790+0000] {logging_mixin.py:190} INFO - [2025-03-07T15:54:41.790+0000] {dag.py:4180} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2025-03-07T15:54:41.811+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.152 seconds

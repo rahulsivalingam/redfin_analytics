@@ -1,0 +1,147 @@
+[2025-03-06T00:58:38.732+0000] {processor.py:186} INFO - Started process (PID=3513) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T00:58:38.733+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-06T00:58:38.737+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:58:38.736+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T00:58:38.752+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T00:58:38.787+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:58:38.786+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T00:58:38.804+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:58:38.804+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-06T00:58:38.837+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.119 seconds
+[2025-03-06T00:59:36.147+0000] {processor.py:186} INFO - Started process (PID=3995) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T00:59:36.149+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-06T00:59:36.151+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:59:36.151+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T00:59:36.161+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T00:59:36.182+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:59:36.182+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T00:59:36.200+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:59:36.200+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-06T00:59:36.244+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.102 seconds
+[2025-03-06T01:00:34.465+0000] {processor.py:186} INFO - Started process (PID=4476) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:00:34.474+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-06T01:00:34.485+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:00:34.485+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:00:34.539+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:00:34.572+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:00:34.571+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:00:34.590+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:00:34.590+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-06T01:00:34.622+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.172 seconds
+[2025-03-06T01:01:35.825+0000] {processor.py:186} INFO - Started process (PID=4895) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:01:35.827+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-06T01:01:35.833+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:01:35.832+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:01:35.847+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:01:35.874+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:01:35.874+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:01:35.892+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:01:35.891+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-06T01:01:35.929+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.122 seconds
+[2025-03-06T01:02:36.901+0000] {processor.py:186} INFO - Started process (PID=5196) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:02:36.903+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-06T01:02:36.905+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:02:36.905+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:02:36.916+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:02:36.947+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:02:36.947+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:02:36.965+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:02:36.964+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-06T01:02:36.993+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.106 seconds
+[2025-03-06T01:03:35.862+0000] {processor.py:186} INFO - Started process (PID=5375) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:03:35.864+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-06T01:03:35.866+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:03:35.866+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:03:35.879+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:03:35.902+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:03:35.901+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:03:35.916+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:03:35.916+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-06T01:03:35.941+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.086 seconds
+[2025-03-06T01:04:37.492+0000] {processor.py:186} INFO - Started process (PID=5493) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:04:37.494+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-06T01:04:37.498+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:04:37.497+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:04:37.510+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:04:37.534+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:04:37.534+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:04:37.550+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:04:37.549+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-06T01:04:37.579+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.099 seconds
+[2025-03-06T01:05:41.518+0000] {processor.py:186} INFO - Started process (PID=5617) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:05:41.520+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-06T01:05:41.522+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:05:41.521+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:05:41.535+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:05:41.558+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:05:41.558+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:05:41.581+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:05:41.581+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-06T01:05:41.611+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.101 seconds
+[2025-03-06T01:06:44.332+0000] {processor.py:186} INFO - Started process (PID=5919) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:06:44.334+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-06T01:06:44.338+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:06:44.336+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:06:44.362+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:06:44.406+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:06:44.405+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:06:44.427+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:06:44.426+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-06T01:06:44.462+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.138 seconds
+[2025-03-06T01:07:45.431+0000] {processor.py:186} INFO - Started process (PID=6218) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:07:45.435+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-06T01:07:45.441+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:07:45.441+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:07:45.452+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:07:45.473+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:07:45.473+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:07:45.487+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:07:45.487+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-06T01:07:45.512+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.090 seconds
+[2025-03-06T01:08:45.170+0000] {processor.py:186} INFO - Started process (PID=6576) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:08:45.171+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-06T01:08:45.175+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:08:45.174+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:08:45.193+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:08:45.230+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:08:45.230+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:08:45.254+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:08:45.253+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-06T01:08:45.301+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.142 seconds
+[2025-03-06T01:09:49.823+0000] {processor.py:186} INFO - Started process (PID=6816) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:09:49.826+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-06T01:09:49.830+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:09:49.829+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:09:49.844+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:09:49.874+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:09:49.874+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:09:49.895+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:09:49.894+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-06T01:09:49.931+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.116 seconds
+[2025-03-06T01:10:51.130+0000] {processor.py:186} INFO - Started process (PID=6939) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:10:51.133+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-06T01:10:51.135+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:10:51.135+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:10:51.145+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:10:51.169+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:10:51.168+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:10:51.184+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:10:51.183+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-06T01:10:51.214+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.090 seconds
+[2025-03-06T01:11:53.652+0000] {processor.py:186} INFO - Started process (PID=7058) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:11:53.658+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-06T01:11:53.663+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:11:53.663+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:11:53.692+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:11:53.715+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:11:53.714+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:11:53.729+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:11:53.728+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-06T01:11:53.756+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.120 seconds
+[2025-03-06T01:12:58.542+0000] {processor.py:186} INFO - Started process (PID=7180) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:12:58.544+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-06T01:12:58.546+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:12:58.546+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:12:58.556+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:12:58.576+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:12:58.576+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:12:58.589+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:12:58.589+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-06T01:12:58.613+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.077 seconds
+[2025-03-06T01:13:59.607+0000] {processor.py:186} INFO - Started process (PID=7360) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:13:59.610+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-06T01:13:59.612+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:13:59.612+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:13:59.631+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:13:59.664+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:13:59.663+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:13:59.684+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:13:59.684+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-06T01:13:59.724+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.125 seconds
+[2025-03-06T01:15:01.037+0000] {processor.py:186} INFO - Started process (PID=7504) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:15:01.038+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-06T01:15:01.040+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:15:01.040+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:15:01.051+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:15:01.074+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:15:01.074+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:15:01.090+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:15:01.089+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-06T01:15:01.121+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.093 seconds
+[2025-03-06T01:16:04.851+0000] {processor.py:186} INFO - Started process (PID=7783) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:16:04.853+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-06T01:16:04.855+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:16:04.855+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:16:04.867+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:16:04.887+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:16:04.887+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:16:04.901+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:16:04.901+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-06T01:16:04.932+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.087 seconds
+[2025-03-06T01:17:03.358+0000] {processor.py:186} INFO - Started process (PID=7904) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:17:03.360+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-06T01:17:03.364+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:17:03.364+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:17:03.378+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:17:03.400+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:17:03.400+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:17:03.413+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:17:03.413+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-06T01:17:03.460+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.112 seconds
+[2025-03-06T01:18:05.930+0000] {processor.py:186} INFO - Started process (PID=8245) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:18:05.931+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-06T01:18:05.933+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:18:05.933+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:18:05.943+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:18:05.963+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:18:05.963+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:18:05.976+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:18:05.975+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-06T01:18:05.999+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.076 seconds
+[2025-03-06T01:19:08.163+0000] {processor.py:186} INFO - Started process (PID=8484) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:19:08.167+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-06T01:19:08.169+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:19:08.169+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:19:08.195+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-06T01:19:08.221+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:19:08.220+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:19:08.236+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:19:08.236+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-06T01:19:08.264+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.111 seconds

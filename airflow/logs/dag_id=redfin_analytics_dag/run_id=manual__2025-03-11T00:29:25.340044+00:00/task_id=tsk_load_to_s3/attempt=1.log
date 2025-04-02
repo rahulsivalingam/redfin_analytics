@@ -1,0 +1,132 @@
+[2025-03-11T00:31:26.931+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-03-11T00:31:26.940+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: redfin_analytics_dag.tsk_load_to_s3 manual__2025-03-11T00:29:25.340044+00:00 [queued]>
+[2025-03-11T00:31:26.945+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: redfin_analytics_dag.tsk_load_to_s3 manual__2025-03-11T00:29:25.340044+00:00 [queued]>
+[2025-03-11T00:31:26.946+0000] {taskinstance.py:2867} INFO - Starting attempt 1 of 3
+[2025-03-11T00:31:26.964+0000] {taskinstance.py:2890} INFO - Executing <Task(BashOperator): tsk_load_to_s3> on 2025-03-11 00:29:25.340044+00:00
+[2025-03-11T00:31:26.970+0000] {standard_task_runner.py:72} INFO - Started process 6668 to run task
+[2025-03-11T00:31:26.973+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'redfin_analytics_dag', 'tsk_load_to_s3', 'manual__2025-03-11T00:29:25.340044+00:00', '--job-id', '37', '--raw', '--subdir', 'DAGS_FOLDER/redfin_analytics.py', '--cfg-path', '/tmp/tmppon_m0l_']
+[2025-03-11T00:31:26.974+0000] {standard_task_runner.py:105} INFO - Job 37: Subtask tsk_load_to_s3
+[2025-03-11T00:31:27.016+0000] {task_command.py:467} INFO - Running <TaskInstance: redfin_analytics_dag.tsk_load_to_s3 manual__2025-03-11T00:29:25.340044+00:00 [running]> on host ip-172-31-7-71.eu-west-2.compute.internal
+[2025-03-11T00:31:27.064+0000] {abstractoperator.py:783} ERROR - Exception rendering Jinja template for task 'tsk_load_to_s3', field 'bash_command'. Template: 'aws s3 mv {{ti.xcom_pull("tsk_extract_redfin_data")[0]}}} s3://redfin-raw-data-yt'
+Traceback (most recent call last):
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/abstractoperator.py", line 775, in _do_render_template_fields
+    rendered_content = self.render_template(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/template/templater.py", line 171, in render_template
+    return self._render(template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/abstractoperator.py", line 730, in _render
+    return super()._render(template, context, dag=dag)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/template/templater.py", line 127, in _render
+    return render_template_to_string(template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/utils/helpers.py", line 301, in render_template_to_string
+    return render_template(template, cast(MutableMapping[str, Any], context), native=False)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/utils/helpers.py", line 296, in render_template
+    return "".join(nodes)
+           ^^^^^^^^^^^^^^
+  File "<template>", line 13, in root
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/jinja2/runtime.py", line 859, in _fail_with_undefined_error
+    raise self._undefined_exception(self._undefined_message)
+jinja2.exceptions.UndefinedError: None has no element 0
+[2025-03-11T00:31:27.066+0000] {taskinstance.py:3313} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 274, in _run_raw_task
+    TaskInstance._execute_task_with_callbacks(
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3117, in _execute_task_with_callbacks
+    task_orig = self.render_templates(context=context, jinja_env=jinja_env)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3540, in render_templates
+    original_task.render_template_fields(context, jinja_env)
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 1442, in render_template_fields
+    self._do_render_template_fields(self, self.template_fields, context, jinja_env, set())
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/abstractoperator.py", line 775, in _do_render_template_fields
+    rendered_content = self.render_template(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/template/templater.py", line 171, in render_template
+    return self._render(template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/abstractoperator.py", line 730, in _render
+    return super()._render(template, context, dag=dag)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/template/templater.py", line 127, in _render
+    return render_template_to_string(template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/utils/helpers.py", line 301, in render_template_to_string
+    return render_template(template, cast(MutableMapping[str, Any], context), native=False)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/utils/helpers.py", line 296, in render_template
+    return "".join(nodes)
+           ^^^^^^^^^^^^^^
+  File "<template>", line 13, in root
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/jinja2/runtime.py", line 859, in _fail_with_undefined_error
+    raise self._undefined_exception(self._undefined_message)
+jinja2.exceptions.UndefinedError: None has no element 0
+[2025-03-11T00:31:27.073+0000] {logging_mixin.py:190} INFO - Task instance in failure state
+[2025-03-11T00:31:27.073+0000] {logging_mixin.py:190} INFO - Task start:2025-03-11 00:31:26.941006+00:00 end:2025-03-11 00:31:27.072723+00:00 duration:0.131717
+[2025-03-11T00:31:27.073+0000] {logging_mixin.py:190} INFO - Task:<Task(BashOperator): tsk_load_to_s3> dag:<DAG: redfin_analytics_dag> dagrun:<DagRun redfin_analytics_dag @ 2025-03-11 00:29:25.340044+00:00: manual__2025-03-11T00:29:25.340044+00:00, state:running, queued_at: 2025-03-11 00:29:25.348400+00:00. externally triggered: True>
+[2025-03-11T00:31:27.073+0000] {logging_mixin.py:190} INFO - Failure caused by None has no element 0
+[2025-03-11T00:31:27.073+0000] {taskinstance.py:1226} INFO - Marking task as UP_FOR_RETRY. dag_id=redfin_analytics_dag, task_id=tsk_load_to_s3, run_id=manual__2025-03-11T00:29:25.340044+00:00, execution_date=20250311T002925, start_date=20250311T003126, end_date=20250311T003127
+[2025-03-11T00:31:27.103+0000] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-03-11T00:31:27.103+0000] {standard_task_runner.py:124} ERROR - Failed to execute job 37 for task tsk_load_to_s3 (None has no element 0; 6668)
+Traceback (most recent call last):
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py", line 117, in _start_by_fork
+    ret = args.func(args, dag=self.dag)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/cli/cli_config.py", line 49, in command
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/utils/cli.py", line 116, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 483, in task_run
+    task_return_code = _run_task_by_selected_method(args, _dag, ti)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 256, in _run_task_by_selected_method
+    return _run_raw_task(args, ti)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 341, in _run_raw_task
+    return ti._run_raw_task(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/utils/session.py", line 97, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3006, in _run_raw_task
+    return _run_raw_task(
+           ^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 274, in _run_raw_task
+    TaskInstance._execute_task_with_callbacks(
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3117, in _execute_task_with_callbacks
+    task_orig = self.render_templates(context=context, jinja_env=jinja_env)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3540, in render_templates
+    original_task.render_template_fields(context, jinja_env)
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 1442, in render_template_fields
+    self._do_render_template_fields(self, self.template_fields, context, jinja_env, set())
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/abstractoperator.py", line 775, in _do_render_template_fields
+    rendered_content = self.render_template(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/template/templater.py", line 171, in render_template
+    return self._render(template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/abstractoperator.py", line 730, in _render
+    return super()._render(template, context, dag=dag)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/template/templater.py", line 127, in _render
+    return render_template_to_string(template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/utils/helpers.py", line 301, in render_template_to_string
+    return render_template(template, cast(MutableMapping[str, Any], context), native=False)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/utils/helpers.py", line 296, in render_template
+    return "".join(nodes)
+           ^^^^^^^^^^^^^^
+  File "<template>", line 13, in root
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/jinja2/runtime.py", line 859, in _fail_with_undefined_error
+    raise self._undefined_exception(self._undefined_message)
+jinja2.exceptions.UndefinedError: None has no element 0
+[2025-03-11T00:31:27.147+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 1
+[2025-03-11T00:31:27.162+0000] {taskinstance.py:3901} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-03-11T00:31:27.163+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

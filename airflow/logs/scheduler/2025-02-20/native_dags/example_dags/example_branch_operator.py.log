@@ -1,0 +1,35 @@
+[2025-02-20T00:53:18.974+0000] {processor.py:186} INFO - Started process (PID=3699) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-02-20T00:53:18.975+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-02-20T00:53:18.978+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:18.978+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-02-20T00:53:18.981+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-02-20T00:53:18.998+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py took 0.030 seconds
+[2025-02-20T00:54:19.724+0000] {processor.py:186} INFO - Started process (PID=3961) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-02-20T00:54:19.726+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-02-20T00:54:19.729+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:19.728+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-02-20T00:54:19.733+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-02-20T00:54:19.745+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py took 0.029 seconds
+[2025-02-20T00:55:16.177+0000] {processor.py:186} INFO - Started process (PID=4161) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-02-20T00:55:16.180+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-02-20T00:55:16.182+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:16.182+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-02-20T00:55:16.185+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-02-20T00:55:16.198+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py took 0.026 seconds
+[2025-02-20T00:56:34.191+0000] {processor.py:186} INFO - Started process (PID=4367) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-02-20T00:56:34.192+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-02-20T00:56:34.195+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:34.194+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-02-20T00:56:34.198+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-02-20T00:56:34.210+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py took 0.024 seconds
+[2025-02-20T00:57:54.508+0000] {processor.py:186} INFO - Started process (PID=4567) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-02-20T00:57:54.510+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-02-20T00:57:54.512+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:54.511+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-02-20T00:57:54.515+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-02-20T00:57:54.527+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py took 0.027 seconds
+[2025-02-20T00:58:50.221+0000] {processor.py:186} INFO - Started process (PID=4684) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-02-20T00:58:50.223+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-02-20T00:58:50.226+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:50.225+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-02-20T00:58:50.229+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-02-20T00:58:50.245+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py took 0.032 seconds
+[2025-02-20T01:00:07.653+0000] {processor.py:186} INFO - Started process (PID=5118) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-02-20T01:00:07.655+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-02-20T01:00:07.657+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:07.657+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-02-20T01:00:07.661+0000] {processor.py:927} WARNING - No viable dags retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-02-20T01:00:07.678+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_operator.py took 0.034 seconds

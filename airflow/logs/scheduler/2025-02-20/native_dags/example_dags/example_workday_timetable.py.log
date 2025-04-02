@@ -1,0 +1,78 @@
+[2025-02-20T00:52:37.611+0000] {processor.py:186} INFO - Started process (PID=3579) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:52:37.612+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-02-20T00:52:37.615+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:37.614+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:52:37.621+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:52:37.730+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:37.729+0000] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_workday_timetable
+[2025-02-20T00:52:37.743+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:37.743+0000] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_workday_timetable
+[2025-02-20T00:52:37.753+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:37.753+0000] {override.py:1930} INFO - Created Permission View: can read on DAG:example_workday_timetable
+[2025-02-20T00:52:37.769+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:37.769+0000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_workday_timetable
+[2025-02-20T00:52:37.780+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:37.779+0000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_workday_timetable
+[2025-02-20T00:52:37.790+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:37.790+0000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_workday_timetable
+[2025-02-20T00:52:37.800+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:37.800+0000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_workday_timetable
+[2025-02-20T00:52:37.800+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:37.800+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:52:37.813+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:37.813+0000] {dag.py:3262} INFO - Creating ORM DAG for example_workday_timetable
+[2025-02-20T00:52:37.858+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:37.858+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-02-20T00:52:37.878+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.272 seconds
+[2025-02-20T00:53:41.251+0000] {processor.py:186} INFO - Started process (PID=3877) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:53:41.274+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-02-20T00:53:41.276+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:41.276+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:53:41.283+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:53:41.304+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:41.304+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:53:41.373+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:41.373+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-02-20T00:53:41.402+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.158 seconds
+[2025-02-20T00:54:37.491+0000] {processor.py:186} INFO - Started process (PID=4119) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:54:37.492+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-02-20T00:54:37.494+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:37.494+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:54:37.502+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:54:37.519+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:37.519+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:54:37.578+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:37.577+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-02-20T00:54:37.601+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.119 seconds
+[2025-02-20T00:55:29.309+0000] {processor.py:186} INFO - Started process (PID=4235) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:55:29.310+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-02-20T00:55:29.312+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:29.312+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:55:29.321+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:55:29.340+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:29.339+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:55:29.411+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:29.411+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-02-20T00:55:29.435+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.132 seconds
+[2025-02-20T00:56:22.109+0000] {processor.py:186} INFO - Started process (PID=4348) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:56:22.112+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-02-20T00:56:22.115+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:22.115+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:56:22.122+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:56:22.140+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:22.140+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:56:22.207+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:22.206+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-02-20T00:56:22.233+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.129 seconds
+[2025-02-20T00:57:15.796+0000] {processor.py:186} INFO - Started process (PID=4408) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:57:15.883+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-02-20T00:57:15.887+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:15.886+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:57:15.894+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:57:15.914+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:15.914+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:57:15.988+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:15.988+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-02-20T00:57:16.014+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.227 seconds
+[2025-02-20T00:58:11.199+0000] {processor.py:186} INFO - Started process (PID=4583) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:58:11.200+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-02-20T00:58:11.202+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:11.202+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:58:11.209+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:58:11.226+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:11.226+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:58:11.281+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:11.280+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-02-20T00:58:11.328+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.135 seconds
+[2025-02-20T00:59:04.151+0000] {processor.py:186} INFO - Started process (PID=4697) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:59:04.153+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-02-20T00:59:04.155+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:04.155+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:59:04.162+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:59:04.179+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:04.179+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:59:04.242+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:04.242+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-02-20T00:59:04.267+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.122 seconds
+[2025-02-20T00:59:55.539+0000] {processor.py:186} INFO - Started process (PID=4812) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:59:55.541+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-02-20T00:59:55.543+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:55.543+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:59:55.549+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T00:59:55.566+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:55.565+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:59:55.620+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:55.620+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-02-20T00:59:55.642+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.108 seconds
+[2025-02-20T01:00:47.976+0000] {processor.py:186} INFO - Started process (PID=5364) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T01:00:47.977+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2025-02-20T01:00:47.979+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:47.979+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T01:00:47.986+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py
+[2025-02-20T01:00:48.003+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:48.003+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T01:00:48.063+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:48.063+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-04 00:00:00+00:00, run_after=2021-01-05 00:00:00+00:00
+[2025-02-20T01:00:48.086+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_workday_timetable.py took 0.121 seconds

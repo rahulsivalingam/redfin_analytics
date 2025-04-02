@@ -1,0 +1,3 @@
+[2025-03-11T00:48:44.964+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-03-11T00:48:44.973+0000] {taskinstance.py:2604} INFO - Dependencies not met for <TaskInstance: redfin_analytics_dag.tsk_transform_redfin_data manual__2025-03-11T00:47:58.982306+00:00 [skipped]>, dependency 'Task Instance State' FAILED: Task is in the 'skipped' state.
+[2025-03-11T00:48:44.974+0000] {local_task_job_runner.py:166} INFO - Task is not able to be run

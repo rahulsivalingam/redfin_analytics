@@ -1,0 +1,78 @@
+[2025-02-20T00:52:34.827+0000] {processor.py:186} INFO - Started process (PID=3517) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:52:34.829+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-20T00:52:34.833+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:34.832+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:52:34.848+0000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:52:34.985+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:34.984+0000] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_xcom
+[2025-02-20T00:52:35.011+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:35.011+0000] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_xcom
+[2025-02-20T00:52:35.022+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:35.022+0000] {override.py:1930} INFO - Created Permission View: can read on DAG:example_xcom
+[2025-02-20T00:52:35.039+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:35.039+0000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_xcom
+[2025-02-20T00:52:35.050+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:35.049+0000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_xcom
+[2025-02-20T00:52:35.067+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:35.067+0000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_xcom
+[2025-02-20T00:52:35.087+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:35.087+0000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_xcom
+[2025-02-20T00:52:35.088+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:35.088+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:52:35.113+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:35.112+0000] {dag.py:3262} INFO - Creating ORM DAG for example_xcom
+[2025-02-20T00:52:35.128+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:35.127+0000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-20T00:52:35.156+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.335 seconds
+[2025-02-20T00:53:39.591+0000] {processor.py:186} INFO - Started process (PID=3875) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:53:39.593+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-20T00:53:39.595+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:39.595+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:53:39.607+0000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:53:39.628+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:39.628+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:53:39.653+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:39.653+0000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-20T00:53:39.680+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.094 seconds
+[2025-02-20T00:54:35.194+0000] {processor.py:186} INFO - Started process (PID=4117) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:54:35.195+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-20T00:54:35.197+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:35.197+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:54:35.207+0000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:54:35.224+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:35.224+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:54:35.243+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:35.242+0000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-20T00:54:35.264+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.076 seconds
+[2025-02-20T00:55:26.921+0000] {processor.py:186} INFO - Started process (PID=4233) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:55:26.986+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-20T00:55:26.990+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:26.990+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:55:27.002+0000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:55:27.025+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:27.024+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:55:27.047+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:27.047+0000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-20T00:55:27.072+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.166 seconds
+[2025-02-20T00:56:20.087+0000] {processor.py:186} INFO - Started process (PID=4346) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:56:20.088+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-20T00:56:20.091+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:20.090+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:56:20.102+0000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:56:20.121+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:20.121+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:56:20.143+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:20.142+0000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-20T00:56:20.175+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.095 seconds
+[2025-02-20T00:57:14.194+0000] {processor.py:186} INFO - Started process (PID=4406) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:57:14.196+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-20T00:57:14.198+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:14.197+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:57:14.212+0000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:57:14.233+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:14.232+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:57:14.259+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:14.259+0000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-20T00:57:14.282+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.094 seconds
+[2025-02-20T00:58:08.814+0000] {processor.py:186} INFO - Started process (PID=4581) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:58:08.815+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-20T00:58:08.817+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:08.817+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:58:08.828+0000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:58:08.846+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:08.846+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:58:08.866+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:08.866+0000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-20T00:58:08.892+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.083 seconds
+[2025-02-20T00:59:01.660+0000] {processor.py:186} INFO - Started process (PID=4695) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:59:01.662+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-20T00:59:01.664+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:01.664+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:59:01.681+0000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:59:01.714+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:01.714+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:59:01.739+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:01.739+0000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-20T00:59:01.776+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.122 seconds
+[2025-02-20T00:59:53.135+0000] {processor.py:186} INFO - Started process (PID=4810) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:59:53.137+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-20T00:59:53.139+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:53.139+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:59:53.149+0000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T00:59:53.167+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:53.166+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:59:53.186+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:53.186+0000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-20T00:59:53.208+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.086 seconds
+[2025-02-20T01:00:46.403+0000] {processor.py:186} INFO - Started process (PID=5362) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T01:00:46.404+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-02-20T01:00:46.406+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:46.406+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T01:00:46.416+0000] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py
+[2025-02-20T01:00:46.439+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:46.439+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T01:00:46.460+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:46.460+0000] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-02-20T01:00:46.484+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_xcom.py took 0.088 seconds

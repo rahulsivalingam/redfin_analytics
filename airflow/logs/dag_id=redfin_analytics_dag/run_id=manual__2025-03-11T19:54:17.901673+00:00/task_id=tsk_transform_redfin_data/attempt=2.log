@@ -1,0 +1,227 @@
+[2025-03-11T20:07:36.989+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-03-11T20:07:37.000+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: redfin_analytics_dag.tsk_transform_redfin_data manual__2025-03-11T19:54:17.901673+00:00 [queued]>
+[2025-03-11T20:07:37.006+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: redfin_analytics_dag.tsk_transform_redfin_data manual__2025-03-11T19:54:17.901673+00:00 [queued]>
+[2025-03-11T20:07:37.006+0000] {taskinstance.py:2867} INFO - Starting attempt 2 of 3
+[2025-03-11T20:07:37.021+0000] {taskinstance.py:2890} INFO - Executing <Task(PythonOperator): tsk_transform_redfin_data> on 2025-03-11 19:54:17.901673+00:00
+[2025-03-11T20:07:37.027+0000] {standard_task_runner.py:72} INFO - Started process 6473 to run task
+[2025-03-11T20:07:37.030+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'redfin_analytics_dag', 'tsk_transform_redfin_data', 'manual__2025-03-11T19:54:17.901673+00:00', '--job-id', '103', '--raw', '--subdir', 'DAGS_FOLDER/redfin_analytics.py', '--cfg-path', '/tmp/tmpm1zpu821']
+[2025-03-11T20:07:37.031+0000] {standard_task_runner.py:105} INFO - Job 103: Subtask tsk_transform_redfin_data
+[2025-03-11T20:07:37.077+0000] {task_command.py:467} INFO - Running <TaskInstance: redfin_analytics_dag.tsk_transform_redfin_data manual__2025-03-11T19:54:17.901673+00:00 [running]> on host ip-172-31-7-71.eu-west-2.compute.internal
+[2025-03-11T20:07:37.137+0000] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_EMAIL='dengineer420@gmail.com' AIRFLOW_CTX_DAG_OWNER='Rahul' AIRFLOW_CTX_DAG_ID='redfin_analytics_dag' AIRFLOW_CTX_TASK_ID='tsk_transform_redfin_data' AIRFLOW_CTX_EXECUTION_DATE='2025-03-11T19:54:17.901673+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-03-11T19:54:17.901673+00:00'
+[2025-03-11T20:07:37.138+0000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-03-11T20:07:37.139+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-03-11T20:07:37.140+0000] {logging_mixin.py:190} INFO - Current task name:tsk_transform_redfin_data state:running start_date:2025-03-11 20:07:37.001101+00:00
+[2025-03-11T20:07:37.140+0000] {logging_mixin.py:190} INFO - Dag name:redfin_analytics_dag and current dag run status:running
+[2025-03-11T20:07:37.140+0000] {taskinstance.py:732} INFO - ::endgroup::
+[2025-03-11T20:07:37.159+0000] {credentials.py:670} INFO - Found credentials in shared credentials file: ~/.aws/credentials
+[2025-03-11T20:07:38.944+0000] {logging_mixin.py:190} INFO - Number of rows:  78387
+[2025-03-11T20:07:38.945+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:07:40.761+0000] {logging_mixin.py:190} INFO - Number of rows:  78389
+[2025-03-11T20:07:40.761+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:07:42.535+0000] {logging_mixin.py:190} INFO - Number of rows:  78363
+[2025-03-11T20:07:42.535+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:07:44.156+0000] {logging_mixin.py:190} INFO - Number of rows:  78201
+[2025-03-11T20:07:44.156+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:07:45.842+0000] {logging_mixin.py:190} INFO - Number of rows:  78693
+[2025-03-11T20:07:45.843+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:07:47.539+0000] {logging_mixin.py:190} INFO - Number of rows:  78486
+[2025-03-11T20:07:47.539+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:07:49.281+0000] {logging_mixin.py:190} INFO - Number of rows:  78707
+[2025-03-11T20:07:49.282+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:07:51.232+0000] {logging_mixin.py:190} INFO - Number of rows:  78690
+[2025-03-11T20:07:51.233+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:07:52.975+0000] {logging_mixin.py:190} INFO - Number of rows:  78540
+[2025-03-11T20:07:52.975+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:07:54.807+0000] {logging_mixin.py:190} INFO - Number of rows:  78598
+[2025-03-11T20:07:54.807+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:07:56.466+0000] {logging_mixin.py:190} INFO - Number of rows:  78437
+[2025-03-11T20:07:56.467+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:07:58.144+0000] {logging_mixin.py:190} INFO - Number of rows:  78420
+[2025-03-11T20:07:58.144+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:07:59.814+0000] {logging_mixin.py:190} INFO - Number of rows:  78406
+[2025-03-11T20:07:59.815+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:01.734+0000] {logging_mixin.py:190} INFO - Number of rows:  78494
+[2025-03-11T20:08:01.736+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:03.568+0000] {logging_mixin.py:190} INFO - Number of rows:  78203
+[2025-03-11T20:08:03.568+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:05.371+0000] {logging_mixin.py:190} INFO - Number of rows:  78348
+[2025-03-11T20:08:05.371+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:07.069+0000] {logging_mixin.py:190} INFO - Number of rows:  78111
+[2025-03-11T20:08:07.070+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:08.806+0000] {logging_mixin.py:190} INFO - Number of rows:  78130
+[2025-03-11T20:08:08.806+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:10.471+0000] {logging_mixin.py:190} INFO - Number of rows:  77966
+[2025-03-11T20:08:10.471+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:12.148+0000] {logging_mixin.py:190} INFO - Number of rows:  78157
+[2025-03-11T20:08:12.148+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:14.000+0000] {logging_mixin.py:190} INFO - Number of rows:  78121
+[2025-03-11T20:08:14.001+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:15.680+0000] {logging_mixin.py:190} INFO - Number of rows:  78119
+[2025-03-11T20:08:15.680+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:17.504+0000] {logging_mixin.py:190} INFO - Number of rows:  78099
+[2025-03-11T20:08:17.505+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:19.135+0000] {logging_mixin.py:190} INFO - Number of rows:  78339
+[2025-03-11T20:08:19.136+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:20.805+0000] {logging_mixin.py:190} INFO - Number of rows:  78282
+[2025-03-11T20:08:20.806+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:22.464+0000] {logging_mixin.py:190} INFO - Number of rows:  78265
+[2025-03-11T20:08:22.464+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:24.174+0000] {logging_mixin.py:190} INFO - Number of rows:  77985
+[2025-03-11T20:08:24.176+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:25.898+0000] {logging_mixin.py:190} INFO - Number of rows:  78035
+[2025-03-11T20:08:25.898+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:27.563+0000] {logging_mixin.py:190} INFO - Number of rows:  78086
+[2025-03-11T20:08:27.563+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:29.211+0000] {logging_mixin.py:190} INFO - Number of rows:  77905
+[2025-03-11T20:08:29.211+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:31.001+0000] {logging_mixin.py:190} INFO - Number of rows:  78090
+[2025-03-11T20:08:31.002+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:32.770+0000] {logging_mixin.py:190} INFO - Number of rows:  78029
+[2025-03-11T20:08:32.771+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:34.413+0000] {logging_mixin.py:190} INFO - Number of rows:  78193
+[2025-03-11T20:08:34.413+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:36.139+0000] {logging_mixin.py:190} INFO - Number of rows:  77752
+[2025-03-11T20:08:36.140+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:37.896+0000] {logging_mixin.py:190} INFO - Number of rows:  77774
+[2025-03-11T20:08:37.897+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:39.493+0000] {logging_mixin.py:190} INFO - Number of rows:  77638
+[2025-03-11T20:08:39.493+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:41.127+0000] {logging_mixin.py:190} INFO - Number of rows:  77894
+[2025-03-11T20:08:41.128+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:42.875+0000] {logging_mixin.py:190} INFO - Number of rows:  78018
+[2025-03-11T20:08:42.876+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:44.604+0000] {logging_mixin.py:190} INFO - Number of rows:  77576
+[2025-03-11T20:08:44.604+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:46.311+0000] {logging_mixin.py:190} INFO - Number of rows:  77483
+[2025-03-11T20:08:46.312+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:48.252+0000] {logging_mixin.py:190} INFO - Number of rows:  77590
+[2025-03-11T20:08:48.252+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:49.984+0000] {logging_mixin.py:190} INFO - Number of rows:  77711
+[2025-03-11T20:08:49.985+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:51.930+0000] {logging_mixin.py:190} INFO - Number of rows:  77745
+[2025-03-11T20:08:51.930+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:53.721+0000] {logging_mixin.py:190} INFO - Number of rows:  77575
+[2025-03-11T20:08:53.722+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:55.468+0000] {logging_mixin.py:190} INFO - Number of rows:  77553
+[2025-03-11T20:08:55.468+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:57.109+0000] {logging_mixin.py:190} INFO - Number of rows:  77368
+[2025-03-11T20:08:57.109+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:08:58.744+0000] {logging_mixin.py:190} INFO - Number of rows:  76973
+[2025-03-11T20:08:58.745+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:09:00.438+0000] {logging_mixin.py:190} INFO - Number of rows:  77285
+[2025-03-11T20:09:00.438+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:09:02.073+0000] {logging_mixin.py:190} INFO - Number of rows:  77209
+[2025-03-11T20:09:02.074+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:09:03.699+0000] {logging_mixin.py:190} INFO - Number of rows:  77154
+[2025-03-11T20:09:03.699+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:09:05.376+0000] {logging_mixin.py:190} INFO - Number of rows:  77136
+[2025-03-11T20:09:05.377+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:09:07.129+0000] {logging_mixin.py:190} INFO - Number of rows:  77072
+[2025-03-11T20:09:07.129+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:09:09.039+0000] {logging_mixin.py:190} INFO - Number of rows:  77022
+[2025-03-11T20:09:09.039+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:09:10.741+0000] {logging_mixin.py:190} INFO - Number of rows:  76953
+[2025-03-11T20:09:10.741+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:09:12.475+0000] {logging_mixin.py:190} INFO - Number of rows:  76854
+[2025-03-11T20:09:12.475+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:09:14.342+0000] {logging_mixin.py:190} INFO - Number of rows:  76596
+[2025-03-11T20:09:14.343+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:09:16.010+0000] {logging_mixin.py:190} INFO - Number of rows:  76021
+[2025-03-11T20:09:16.010+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:09:17.330+0000] {logging_mixin.py:190} INFO - Number of rows:  60837
+[2025-03-11T20:09:17.331+0000] {logging_mixin.py:190} INFO - Number of columns:  28
+[2025-03-11T20:10:38.519+0000] {taskinstance.py:3313} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 768, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 734, in _execute_callable
+    return ExecutionCallableRunner(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 424, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/operators/python.py", line 238, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/operators/python.py", line 256, in execute_callable
+    return runner.run(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/airflow/dags/functions.py", line 118, in transform_data
+    s3_client.put_object(Bucket= target_bucket_name, Key=object_key, Body=csv_data )
+    ^^^^^^^^^
+NameError: name 's3_client' is not defined
+[2025-03-11T20:10:38.528+0000] {logging_mixin.py:190} INFO - Task instance in failure state
+[2025-03-11T20:10:38.529+0000] {logging_mixin.py:190} INFO - Task start:2025-03-11 20:07:37.001101+00:00 end:2025-03-11 20:10:38.527759+00:00 duration:181.526658
+[2025-03-11T20:10:38.529+0000] {logging_mixin.py:190} INFO - Task:<Task(PythonOperator): tsk_transform_redfin_data> dag:<DAG: redfin_analytics_dag> dagrun:<DagRun redfin_analytics_dag @ 2025-03-11 19:54:17.901673+00:00: manual__2025-03-11T19:54:17.901673+00:00, state:running, queued_at: 2025-03-11 19:54:17.914446+00:00. externally triggered: True>
+[2025-03-11T20:10:38.529+0000] {logging_mixin.py:190} INFO - Failure caused by name 's3_client' is not defined
+[2025-03-11T20:10:38.529+0000] {taskinstance.py:1226} INFO - Marking task as UP_FOR_RETRY. dag_id=redfin_analytics_dag, task_id=tsk_transform_redfin_data, run_id=manual__2025-03-11T19:54:17.901673+00:00, execution_date=20250311T195417, start_date=20250311T200737, end_date=20250311T201038
+[2025-03-11T20:10:38.560+0000] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-03-11T20:10:38.560+0000] {standard_task_runner.py:124} ERROR - Failed to execute job 103 for task tsk_transform_redfin_data (name 's3_client' is not defined; 6473)
+Traceback (most recent call last):
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py", line 117, in _start_by_fork
+    ret = args.func(args, dag=self.dag)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/cli/cli_config.py", line 49, in command
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/utils/cli.py", line 116, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 483, in task_run
+    task_return_code = _run_task_by_selected_method(args, _dag, ti)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 256, in _run_task_by_selected_method
+    return _run_raw_task(args, ti)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/cli/commands/task_command.py", line 341, in _run_raw_task
+    return ti._run_raw_task(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/utils/session.py", line 97, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3006, in _run_raw_task
+    return _run_raw_task(
+           ^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 274, in _run_raw_task
+    TaskInstance._execute_task_with_callbacks(
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3161, in _execute_task_with_callbacks
+    result = self._execute_task(context, task_orig)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 3185, in _execute_task
+    return _execute_task(self, context, task_orig)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 768, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 734, in _execute_callable
+    return ExecutionCallableRunner(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 424, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/operators/python.py", line 238, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/operators/python.py", line 256, in execute_callable
+    return runner.run(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/airflow/dags/functions.py", line 118, in transform_data
+    s3_client.put_object(Bucket= target_bucket_name, Key=object_key, Body=csv_data )
+    ^^^^^^^^^
+NameError: name 's3_client' is not defined
+[2025-03-11T20:10:38.698+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 1
+[2025-03-11T20:10:38.710+0000] {taskinstance.py:3901} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-03-11T20:10:38.711+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

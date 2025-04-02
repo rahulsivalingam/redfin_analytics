@@ -1,0 +1,147 @@
+[2025-03-06T00:58:40.006+0000] {processor.py:186} INFO - Started process (PID=3514) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T00:58:40.007+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-06T00:58:40.013+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:58:40.012+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T00:58:40.032+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T00:58:40.219+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:58:40.219+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T00:58:40.230+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:58:40.229+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-06T00:58:40.255+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.257 seconds
+[2025-03-06T00:59:37.415+0000] {processor.py:186} INFO - Started process (PID=3997) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T00:59:37.417+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-06T00:59:37.423+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:59:37.423+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T00:59:37.444+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T00:59:37.487+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:59:37.487+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T00:59:37.512+0000] {logging_mixin.py:190} INFO - [2025-03-06T00:59:37.511+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-06T00:59:37.541+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.141 seconds
+[2025-03-06T01:00:35.407+0000] {processor.py:186} INFO - Started process (PID=4500) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:00:35.408+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-06T01:00:35.411+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:00:35.410+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:00:35.421+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:00:35.461+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:00:35.461+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:00:35.474+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:00:35.474+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-06T01:00:35.506+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.106 seconds
+[2025-03-06T01:01:36.473+0000] {processor.py:186} INFO - Started process (PID=4896) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:01:36.475+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-06T01:01:36.479+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:01:36.479+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:01:36.494+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:01:36.557+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:01:36.556+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:01:36.575+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:01:36.574+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-06T01:01:36.604+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.140 seconds
+[2025-03-06T01:02:37.505+0000] {processor.py:186} INFO - Started process (PID=5197) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:02:37.507+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-06T01:02:37.510+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:02:37.509+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:02:37.522+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:02:37.567+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:02:37.567+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:02:37.582+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:02:37.582+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-06T01:02:37.615+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.117 seconds
+[2025-03-06T01:03:37.020+0000] {processor.py:186} INFO - Started process (PID=5376) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:03:37.021+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-06T01:03:37.024+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:03:37.023+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:03:37.035+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:03:37.075+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:03:37.075+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:03:37.089+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:03:37.089+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-06T01:03:37.113+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.100 seconds
+[2025-03-06T01:04:37.823+0000] {processor.py:186} INFO - Started process (PID=5494) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:04:37.825+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-06T01:04:37.827+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:04:37.827+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:04:37.839+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:04:37.880+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:04:37.880+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:04:37.895+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:04:37.894+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-06T01:04:37.920+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.104 seconds
+[2025-03-06T01:05:42.770+0000] {processor.py:186} INFO - Started process (PID=5618) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:05:42.772+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-06T01:05:42.774+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:05:42.774+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:05:42.784+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:05:42.838+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:05:42.837+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:05:42.852+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:05:42.851+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-06T01:05:42.878+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.115 seconds
+[2025-03-06T01:06:45.607+0000] {processor.py:186} INFO - Started process (PID=5920) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:06:45.609+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-06T01:06:45.612+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:06:45.611+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:06:45.624+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:06:45.671+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:06:45.671+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:06:45.687+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:06:45.687+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-06T01:06:45.716+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.116 seconds
+[2025-03-06T01:07:46.635+0000] {processor.py:186} INFO - Started process (PID=6219) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:07:46.636+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-06T01:07:46.639+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:07:46.638+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:07:46.655+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:07:46.806+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:07:46.805+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:07:46.827+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:07:46.827+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-06T01:07:46.862+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.241 seconds
+[2025-03-06T01:08:45.885+0000] {processor.py:186} INFO - Started process (PID=6577) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:08:45.887+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-06T01:08:45.890+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:08:45.889+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:08:45.913+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:08:45.961+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:08:45.960+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:08:45.978+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:08:45.978+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-06T01:08:46.012+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.138 seconds
+[2025-03-06T01:09:50.183+0000] {processor.py:186} INFO - Started process (PID=6817) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:09:50.184+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-06T01:09:50.187+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:09:50.186+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:09:50.197+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:09:50.244+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:09:50.244+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:09:50.262+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:09:50.262+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-06T01:09:50.291+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.116 seconds
+[2025-03-06T01:10:52.303+0000] {processor.py:186} INFO - Started process (PID=6940) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:10:52.307+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-06T01:10:52.313+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:10:52.312+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:10:52.323+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:10:52.382+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:10:52.381+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:10:52.405+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:10:52.405+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-06T01:10:52.439+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.151 seconds
+[2025-03-06T01:11:54.891+0000] {processor.py:186} INFO - Started process (PID=7059) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:11:54.892+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-06T01:11:54.895+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:11:54.894+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:11:54.908+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:11:54.962+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:11:54.961+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:11:54.978+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:11:54.978+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-06T01:11:55.007+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.125 seconds
+[2025-03-06T01:12:59.699+0000] {processor.py:186} INFO - Started process (PID=7181) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:12:59.700+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-06T01:12:59.703+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:12:59.702+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:12:59.714+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:12:59.760+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:12:59.760+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:12:59.777+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:12:59.777+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-06T01:12:59.808+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.117 seconds
+[2025-03-06T01:14:00.873+0000] {processor.py:186} INFO - Started process (PID=7361) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:14:00.875+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-06T01:14:00.898+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:14:00.896+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:14:00.909+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:14:00.969+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:14:00.969+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:14:00.983+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:14:00.983+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-06T01:14:01.008+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.151 seconds
+[2025-03-06T01:15:02.183+0000] {processor.py:186} INFO - Started process (PID=7544) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:15:02.184+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-06T01:15:02.187+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:15:02.186+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:15:02.200+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:15:02.249+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:15:02.248+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:15:02.264+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:15:02.264+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-06T01:15:02.293+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.118 seconds
+[2025-03-06T01:16:06.036+0000] {processor.py:186} INFO - Started process (PID=7784) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:16:06.038+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-06T01:16:06.041+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:16:06.040+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:16:06.059+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:16:06.135+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:16:06.135+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:16:06.160+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:16:06.160+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-06T01:16:06.195+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.170 seconds
+[2025-03-06T01:17:04.753+0000] {processor.py:186} INFO - Started process (PID=7905) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:17:04.754+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-06T01:17:04.757+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:17:04.756+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:17:04.767+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:17:04.805+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:17:04.805+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:17:04.818+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:17:04.817+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-06T01:17:04.842+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.095 seconds
+[2025-03-06T01:18:06.278+0000] {processor.py:186} INFO - Started process (PID=8246) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:18:06.280+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-06T01:18:06.282+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:18:06.281+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:18:06.292+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:18:06.330+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:18:06.330+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:18:06.344+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:18:06.343+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-06T01:18:06.367+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.100 seconds
+[2025-03-06T01:19:08.485+0000] {processor.py:186} INFO - Started process (PID=8485) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:19:08.487+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-03-06T01:19:08.489+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:19:08.489+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:19:08.500+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-03-06T01:19:08.555+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:19:08.554+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-06T01:19:08.575+0000] {logging_mixin.py:190} INFO - [2025-03-06T01:19:08.575+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-03-06T01:19:08.609+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.131 seconds

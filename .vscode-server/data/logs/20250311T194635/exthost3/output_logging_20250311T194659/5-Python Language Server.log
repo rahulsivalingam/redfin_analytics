@@ -1,0 +1,17 @@
+[Info  - 7:47:02 PM] (1756) Pylance language server 2023.1.10 (pyright bbf0ae78) starting
+[Info  - 7:47:02 PM] (1756) Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.1.10/dist
+[Info  - 7:47:02 PM] (1756) Starting service instance "ubuntu"
+[Info  - 7:47:02 PM] (1756) Notebook support: LSP
+[Info  - 7:47:02 PM] (1756) Interactive window support: LSP
+[Info  - 7:47:02 PM] (1756) No configuration file found.
+[Info  - 7:47:02 PM] (1756) No pyproject.toml file found.
+[Info  - 7:47:02 PM] (1756) Setting pythonPath for service "ubuntu": "/home/ubuntu/redfin_venv/bin/python"
+[Warn  - 7:47:02 PM] (1756) stubPath /home/ubuntu/typings is not a valid directory.
+[Info  - 7:47:02 PM] (1756) Assuming Python version 3.12
+[Info  - 7:47:02 PM] (1756) Assuming Python platform Linux
+[Info  - 7:47:02 PM] (1756) Searching for source files
+[Info  - 7:47:02 PM] (1756) Auto-excluding /home/ubuntu/redfin_venv
+[Info  - 7:47:02 PM] (1756) Found 3 source files
+[Info  - 7:47:03 PM] (1756) Background analysis(1) root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.1.10/dist
+[Info  - 7:47:03 PM] (1756) Background analysis(1) started
+[Info  - 7:47:06 PM] (1756) [BG(1)] Long operation: getSemanticTokens full at /home/ubuntu/airflow/dags/functions.py (3124ms)

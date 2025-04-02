@@ -1,0 +1,21 @@
+[2025-03-11 19:46:35.089] [remoteagent] [info] Extension host agent started.
+[2025-03-11 19:46:35.277] [remoteagent] [info] [127.0.0.1][cf6b227d][ManagementConnection] New connection established.
+[2025-03-11 19:46:35.319] [remoteagent] [info] [127.0.0.1][683c407c][ExtensionHostConnection] New connection established.
+[2025-03-11 19:46:35.331] [remoteagent] [info] [127.0.0.1][683c407c][ExtensionHostConnection] <1254> Launched Extension Host Process.
+[2025-03-11 19:46:39.433] [remoteagent] [info] [127.0.0.1][cf6b227d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2025-03-11 19:46:39.445] [remoteagent] [info] [127.0.0.1][683c407c][ExtensionHostConnection] <1254> Extension Host Process exited with code: 0, signal: null.
+[2025-03-11 19:46:39.445] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2025-03-11 19:46:40.894] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2025-03-11 19:46:40.894] [remoteagent] [info] Cancelling previous shutdown timeout
+[2025-03-11 19:46:41.011] [remoteagent] [info] [127.0.0.1][f60527cc][ManagementConnection] New connection established.
+[2025-03-11 19:46:41.080] [remoteagent] [info] [127.0.0.1][d1d254fb][ExtensionHostConnection] New connection established.
+[2025-03-11 19:46:41.088] [remoteagent] [info] [127.0.0.1][d1d254fb][ExtensionHostConnection] <1390> Launched Extension Host Process.
+[2025-03-11 19:46:54.717] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2025-03-11 19:46:54.717] [remoteagent] [info] Cancelling previous shutdown timeout
+[2025-03-11 19:46:54.839] [remoteagent] [error] [127.0.0.1][410773a9][ManagementConnection] Unknown reconnection token (never seen).
+[2025-03-11 19:46:58.472] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2025-03-11 19:46:58.472] [remoteagent] [info] Cancelling previous shutdown timeout
+[2025-03-11 19:46:58.602] [remoteagent] [info] [127.0.0.1][5ec3c25c][ManagementConnection] New connection established.
+[2025-03-11 19:46:58.709] [remoteagent] [info] [127.0.0.1][401469da][ExtensionHostConnection] New connection established.
+[2025-03-11 19:46:58.733] [remoteagent] [info] [127.0.0.1][401469da][ExtensionHostConnection] <1658> Launched Extension Host Process.
+[2025-03-11 19:51:58.472] [remoteagent] [info] New EH opened, aborting shutdown

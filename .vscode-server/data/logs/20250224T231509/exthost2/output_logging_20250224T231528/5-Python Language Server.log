@@ -1,0 +1,81 @@
+[Info  - 11:15:32 PM] (1486) Pylance language server 2023.1.10 (pyright bbf0ae78) starting
+[Info  - 11:15:32 PM] (1486) Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.1.10/dist
+[Info  - 11:15:32 PM] (1486) Starting service instance "ubuntu"
+[Info  - 11:15:32 PM] (1486) Notebook support: LSP
+[Info  - 11:15:32 PM] (1486) Interactive window support: LSP
+[Info  - 11:15:32 PM] (1486) No configuration file found.
+[Info  - 11:15:32 PM] (1486) No pyproject.toml file found.
+[Info  - 11:15:32 PM] (1486) Setting pythonPath for service "ubuntu": "/home/ubuntu/redfin_venv/bin/python"
+[Warn  - 11:15:32 PM] (1486) stubPath /home/ubuntu/typings is not a valid directory.
+[Info  - 11:15:32 PM] (1486) Assuming Python version 3.12
+[Info  - 11:15:32 PM] (1486) Assuming Python platform Linux
+[Info  - 11:15:33 PM] (1486) Searching for source files
+[Info  - 11:15:33 PM] (1486) Auto-excluding /home/ubuntu/redfin_venv
+[Info  - 11:15:33 PM] (1486) Found 2 source files
+[Info  - 11:15:33 PM] (1486) Background analysis(1) root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.1.10/dist
+[Info  - 11:15:33 PM] (1486) Background analysis(1) started
+[Info  - 11:15:37 PM] (1486) [BG(1)] Long operation: checking: /home/ubuntu/airflow/dags/redfin_analytics.py (3030ms)
+[Info  - 11:15:37 PM] (1486) [BG(1)] Long operation: analyzing: /home/ubuntu/airflow/dags/redfin_analytics.py (3400ms)
+[Info  - 11:16:45 PM] (1486) Searching for source files
+[Info  - 11:16:45 PM] (1486) Auto-excluding /home/ubuntu/redfin_venv
+[Info  - 11:16:45 PM] (1486) Found 3 source files
+[Info  - 11:16:48 PM] (1486) [BG(1)] Long operation: checking: /home/ubuntu/airflow/dags/redfin_analytics.py (2404ms)
+[Info  - 11:16:48 PM] (1486) [BG(1)] Long operation: analyzing: /home/ubuntu/airflow/dags/redfin_analytics.py (2704ms)
+[Info  - 11:36:13 PM] (1486) Starting service instance "/home/ubuntu/airflow/sample_trial.ipynb"
+[Info  - 11:36:14 PM] (1486) No configuration file found.
+[Info  - 11:36:14 PM] (1486) No pyproject.toml file found.
+[Info  - 11:36:14 PM] (1486) Setting pythonPath for service "/home/ubuntu/airflow/sample_trial.ipynb": "/home/ubuntu/redfin_venv/bin/python"
+[Warn  - 11:36:14 PM] (1486) stubPath /home/ubuntu/typings is not a valid directory.
+[Info  - 11:36:14 PM] (1486) Assuming Python version 3.12
+[Info  - 11:36:14 PM] (1486) Assuming Python platform Linux
+[Info  - 11:36:14 PM] (1486) Searching for source files
+[Info  - 11:36:14 PM] (1486) No source files found.
+[Info  - 11:36:14 PM] (1486) Background analysis(2) root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.1.10/dist
+[Info  - 11:36:14 PM] (1486) Background analysis(2) started
+[Info  - 11:36:21 PM] (1486) Starting service instance "/home/ubuntu/airflow/dags/sample_trial.ipynb"
+[Info  - 11:36:21 PM] (1486) No configuration file found.
+[Info  - 11:36:21 PM] (1486) No pyproject.toml file found.
+[Info  - 11:36:21 PM] (1486) Setting pythonPath for service "/home/ubuntu/airflow/dags/sample_trial.ipynb": "/home/ubuntu/redfin_venv/bin/python"
+[Warn  - 11:36:21 PM] (1486) stubPath /home/ubuntu/typings is not a valid directory.
+[Info  - 11:36:21 PM] (1486) Assuming Python version 3.12
+[Info  - 11:36:21 PM] (1486) Assuming Python platform Linux
+[Info  - 11:36:21 PM] (1486) Searching for source files
+[Info  - 11:36:21 PM] (1486) No source files found.
+[Info  - 11:36:21 PM] (1486) Background analysis(3) root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.1.10/dist
+[Info  - 11:36:21 PM] (1486) Background analysis(3) started
+[Info  - 11:36:26 PM] (1486) No configuration file found.
+[Info  - 11:36:26 PM] (1486) No pyproject.toml file found.
+[Info  - 11:36:26 PM] (1486) Setting pythonPath for service "/home/ubuntu/airflow/dags/sample_trial.ipynb": "/home/ubuntu/redfin_venv/bin/python"
+[Warn  - 11:36:26 PM] (1486) stubPath /home/ubuntu/typings is not a valid directory.
+[Info  - 11:36:26 PM] (1486) Assuming Python version 3.12
+[Info  - 11:36:26 PM] (1486) Assuming Python platform Linux
+[Info  - 11:36:26 PM] (1486) Searching for source files
+[Info  - 11:36:26 PM] (1486) Found 2 source files
+[Info  - 11:36:40 PM] (1486) Searching for source files
+[Info  - 11:36:40 PM] (1486) Auto-excluding /home/ubuntu/redfin_venv
+[Info  - 11:36:40 PM] (1486) Found 3 source files
+[Info  - 11:36:40 PM] (1486) Searching for source files
+[Info  - 11:36:40 PM] (1486) Auto-excluding /home/ubuntu/redfin_venv
+[Info  - 11:36:40 PM] (1486) Found 3 source files
+[Info  - 11:36:41 PM] (1486) Searching for source files
+[Info  - 11:36:41 PM] (1486) Auto-excluding /home/ubuntu/redfin_venv
+[Info  - 11:36:41 PM] (1486) Found 3 source files
+[Info  - 11:36:43 PM] (1486) Searching for source files
+[Info  - 11:36:43 PM] (1486) Auto-excluding /home/ubuntu/redfin_venv
+[Info  - 11:36:43 PM] (1486) Found 3 source files
+[Info  - 11:36:43 PM] (1486) Searching for source files
+[Info  - 11:36:43 PM] (1486) Auto-excluding /home/ubuntu/redfin_venv
+[Info  - 11:36:43 PM] (1486) Found 3 source files
+[Info  - 11:36:47 PM] (1486) [BG(1)] Long operation: checking: /home/ubuntu/airflow/dags/redfin_analytics.py (3504ms)
+[Info  - 11:36:47 PM] (1486) [BG(1)] Long operation: analyzing: /home/ubuntu/airflow/dags/redfin_analytics.py (3611ms)
+[Info  - 11:36:50 PM] (1486) No configuration file found.
+[Info  - 11:36:50 PM] (1486) No pyproject.toml file found.
+[Info  - 11:36:50 PM] (1486) Setting pythonPath for service "/home/ubuntu/airflow/dags/sample_trial.ipynb": "/home/ubuntu/redfin_venv/bin/python"
+[Warn  - 11:36:50 PM] (1486) stubPath /home/ubuntu/typings is not a valid directory.
+[Info  - 11:36:50 PM] (1486) Assuming Python version 3.12
+[Info  - 11:36:50 PM] (1486) Assuming Python platform Linux
+[Info  - 11:36:50 PM] (1486) Searching for source files
+[Info  - 11:36:50 PM] (1486) Found 2 source files
+[Info  - 11:36:51 PM] (1486) [BG(1)] Long operation: checking: /home/ubuntu/airflow/dags/redfin_analytics.py (2490ms)
+[Info  - 11:36:51 PM] (1486) [BG(1)] Long operation: analyzing: /home/ubuntu/airflow/dags/redfin_analytics.py (2765ms)
+[Info  - 12:39:38 AM] (1486) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1740443975590 at /home/ubuntu/airflow/dags/functions.py (2050ms)

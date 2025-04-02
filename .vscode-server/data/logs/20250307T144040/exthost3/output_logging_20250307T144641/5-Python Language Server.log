@@ -1,0 +1,57 @@
+[Info  - 2:46:44 PM] (1717) Pylance language server 2023.1.10 (pyright bbf0ae78) starting
+[Info  - 2:46:44 PM] (1717) Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.1.10/dist
+[Info  - 2:46:44 PM] (1717) Starting service instance "ubuntu"
+[Info  - 2:46:44 PM] (1717) Notebook support: LSP
+[Info  - 2:46:44 PM] (1717) Interactive window support: LSP
+[Info  - 2:46:44 PM] (1717) No configuration file found.
+[Info  - 2:46:44 PM] (1717) No pyproject.toml file found.
+[Info  - 2:46:44 PM] (1717) Setting pythonPath for service "ubuntu": "/home/ubuntu/redfin_ven/bin/python"
+[Warn  - 2:46:44 PM] (1717) stubPath /home/ubuntu/typings is not a valid directory.
+[Info  - 2:46:44 PM] (1717) Assuming Python version 3.12
+[Info  - 2:46:44 PM] (1717) Assuming Python platform Linux
+[Info  - 2:46:44 PM] (1717) Searching for source files
+[Info  - 2:46:44 PM] (1717) Auto-excluding /home/ubuntu/redfin_ven
+[Info  - 2:46:44 PM] (1717) Auto-excluding /home/ubuntu/redfin_venv
+[Info  - 2:46:44 PM] (1717) Found 3 source files
+[Info  - 2:46:44 PM] (1717) Background analysis(1) root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.1.10/dist
+[Info  - 2:46:44 PM] (1717) Background analysis(1) started
+[Info  - 2:50:35 PM] (1717) Searching for source files
+[Info  - 2:50:35 PM] (1717) Auto-excluding /home/ubuntu/redfin_ven
+[Info  - 2:50:35 PM] (1717) Auto-excluding /home/ubuntu/redfin_venv
+[Info  - 2:50:35 PM] (1717) Found 3 source files
+[Info  - 2:50:36 PM] (1717) Searching for source files
+[Info  - 2:50:36 PM] (1717) Auto-excluding /home/ubuntu/redfin_ven
+[Info  - 2:50:36 PM] (1717) Auto-excluding /home/ubuntu/redfin_venv
+[Info  - 2:50:36 PM] (1717) Found 3 source files
+[Info  - 2:50:44 PM] (1717) Searching for source files
+[Info  - 2:50:44 PM] (1717) Auto-excluding /home/ubuntu/redfin_ven
+[Info  - 2:50:44 PM] (1717) Auto-excluding /home/ubuntu/redfin_venv
+[Info  - 2:50:44 PM] (1717) Found 3 source files
+[Info  - 2:50:51 PM] (1717) Searching for source files
+[Info  - 2:50:51 PM] (1717) Auto-excluding /home/ubuntu/redfin_ven
+[Info  - 2:50:51 PM] (1717) Auto-excluding /home/ubuntu/redfin_venv
+[Info  - 2:50:51 PM] (1717) Found 3 source files
+[Info  - 2:50:54 PM] (1717) Searching for source files
+[Info  - 2:50:54 PM] (1717) Auto-excluding /home/ubuntu/redfin_ven
+[Info  - 2:50:54 PM] (1717) Auto-excluding /home/ubuntu/redfin_venv
+[Info  - 2:50:54 PM] (1717) Found 3 source files
+[Info  - 2:51:03 PM] (1717) Searching for source files
+[Info  - 2:51:03 PM] (1717) Auto-excluding /home/ubuntu/redfin_ven
+[Info  - 2:51:03 PM] (1717) Auto-excluding /home/ubuntu/redfin_venv
+[Info  - 2:51:03 PM] (1717) Found 3 source files
+[Info  - 2:51:07 PM] (1717) Searching for source files
+[Info  - 2:51:07 PM] (1717) Auto-excluding /home/ubuntu/redfin_ven
+[Info  - 2:51:07 PM] (1717) Auto-excluding /home/ubuntu/redfin_venv
+[Info  - 2:51:07 PM] (1717) Found 3 source files
+[Info  - 2:51:35 PM] (1717) Searching for source files
+[Info  - 2:51:35 PM] (1717) Auto-excluding /home/ubuntu/redfin_ven
+[Info  - 2:51:35 PM] (1717) Auto-excluding /home/ubuntu/redfin_venv
+[Info  - 2:51:35 PM] (1717) Found 3 source files
+[Info  - 2:51:36 PM] (1717) Searching for source files
+[Info  - 2:51:36 PM] (1717) Auto-excluding /home/ubuntu/redfin_ven
+[Info  - 2:51:36 PM] (1717) Auto-excluding /home/ubuntu/redfin_venv
+[Info  - 2:51:36 PM] (1717) Found 3 source files
+[Info  - 2:51:46 PM] (1717) Searching for source files
+[Info  - 2:51:46 PM] (1717) Auto-excluding /home/ubuntu/redfin_ven
+[Info  - 2:51:46 PM] (1717) Auto-excluding /home/ubuntu/redfin_venv
+[Info  - 2:51:46 PM] (1717) Found 3 source files

@@ -1,0 +1,12 @@
+Experiment 'pythonTerminalEnvVarActivation' is active
+Experiment 'pythonTestAdapter' is active
+LSP Notebooks experiment is enabled
+LSP Notebooks interactive window support is enabled
+> conda info --json
+Python interpreter path: ./redfin_venv/bin/python
+> ./redfin_venv/bin/python ./.vscode-server/extensions/ms-python.python-2022.16.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2022.16.1/pythonFiles/interpreterInfo.py
+> /bin/python3 ./.vscode-server/extensions/ms-python.python-2022.16.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2022.16.1/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 ./.vscode-server/extensions/ms-python.python-2022.16.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2022.16.1/pythonFiles/interpreterInfo.py
+> . ./redfin_venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ./.vscode-server/extensions/ms-python.python-2022.16.1/pythonFiles/printEnvVariables.py
+Starting Pylance language server.
+> ./redfin_ven/bin/python ./.vscode-server/extensions/ms-python.python-2022.16.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2022.16.1/pythonFiles/interpreterInfo.py

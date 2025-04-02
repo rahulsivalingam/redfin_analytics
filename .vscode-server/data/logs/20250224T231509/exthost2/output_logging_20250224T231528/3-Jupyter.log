@@ -1,0 +1,434 @@
+Visual Studio Code (1.71.2, ssh-remote, desktop)
+Jupyter Extension Version: 2022.8.1002431955.
+Python Extension Version: 2022.16.1.
+Workspace folder /home/ubuntu
+info 23:15:29.917: ZMQ install verified.
+info 23:15:30.720: LSP Notebooks experiment is enabled
+info 23:15:31.590: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+info 23:15:31.940: Activation Commands received source /home/ubuntu/redfin_venv/bin/activate for shell bash
+info 23:15:32.55: Process Execution: > ~/redfin_venv/bin/python -m pip list
+> ~/redfin_venv/bin/python -m pip list
+info 23:36:13.976: Preferred Remote kernel for /home/ubuntu/airflow/sample_trial.ipynb is undefined
+info 23:36:13.981: Preferred Remote kernel for /home/ubuntu/airflow/sample_trial.ipynb is undefined
+info 23:36:13.982: Find preferred kernel for /home/ubuntu/airflow/sample_trial.ipynb with metadata {"orig_nbformat":4,"language_info":{"name":"python"}} & preferred interpreter /home/ubuntu/redfin_venv/bin/python
+info 23:36:13.985: Preferred Remote kernel for /home/ubuntu/airflow/sample_trial.ipynb is undefined
+info 23:36:13.985: Preferred kernel .jvsc74a57bd01cbc4bf10a52c3c277a8a7d2b0a5a427e10edb3a8b4f3627062cb40420845ddc./home/ubuntu/redfin_venv/python./home/ubuntu/redfin_venv/python.-m#ipykernel_launcher is exact match or top match for non python kernels, (false, [object Object], false, false)
+info 23:36:13.987: PreferredConnection: .jvsc74a57bd01cbc4bf10a52c3c277a8a7d2b0a5a427e10edb3a8b4f3627062cb40420845ddc./home/ubuntu/redfin_venv/python./home/ubuntu/redfin_venv/python.-m#ipykernel_launcher found for NotebookDocument: /home/ubuntu/airflow/sample_trial.ipynb
+info 23:36:21.179: Preferred Remote kernel for /home/ubuntu/airflow/dags/sample_trial.ipynb is undefined
+info 23:36:21.186: Preferred Remote kernel for /home/ubuntu/airflow/dags/sample_trial.ipynb is undefined
+info 23:36:21.186: Find preferred kernel for /home/ubuntu/airflow/dags/sample_trial.ipynb with metadata {"orig_nbformat":4,"language_info":{"name":"python"}} & preferred interpreter /home/ubuntu/redfin_venv/bin/python
+info 23:36:21.191: Preferred Remote kernel for /home/ubuntu/airflow/dags/sample_trial.ipynb is undefined
+info 23:36:21.191: Preferred kernel .jvsc74a57bd01cbc4bf10a52c3c277a8a7d2b0a5a427e10edb3a8b4f3627062cb40420845ddc./home/ubuntu/redfin_venv/python./home/ubuntu/redfin_venv/python.-m#ipykernel_launcher is exact match or top match for non python kernels, (false, [object Object], false, false)
+info 23:36:21.193: PreferredConnection: .jvsc74a57bd01cbc4bf10a52c3c277a8a7d2b0a5a427e10edb3a8b4f3627062cb40420845ddc./home/ubuntu/redfin_venv/python./home/ubuntu/redfin_venv/python.-m#ipykernel_launcher found for NotebookDocument: /home/ubuntu/airflow/dags/sample_trial.ipynb
+error 23:36:23.161: Live Notebook not available for /home/ubuntu/airflow/dags/sample_trial.ipynb
+error 23:36:23.873: Live Notebook not available for /home/ubuntu/airflow/dags/sample_trial.ipynb
+error 23:36:24.792: Live Notebook not available for /home/ubuntu/airflow/dags/sample_trial.ipynb
+error 23:36:25.222: Live Notebook not available for /home/ubuntu/airflow/dags/sample_trial.ipynb
+error 23:36:25.389: Live Notebook not available for /home/ubuntu/airflow/dags/sample_trial.ipynb
+info 23:36:25.876: Execute Cell 0 /home/ubuntu/airflow/dags/sample_trial.ipynb
+info 23:36:25.879: Starting Jupyter Session id = 'startUsingPythonInterpreter:.jvsc74a57bd01cbc4bf10a52c3c277a8a7d2b0a5a427e10edb3a8b4f3627062cb40420845ddc./home/ubuntu/redfin_venv/python./home/ubuntu/redfin_venv/python.-m#ipykernel_launcher' (Python Path: /home/ubuntu/redfin_venv, EnvType: Venv, EnvName: 'redfin_venv', Version: 3.12.3) for '/home/ubuntu/airflow/dags/sample_trial.ipynb' (disableUI=false)
+info 23:36:25.880: Creating raw notebook for resource '/home/ubuntu/airflow/dags/sample_trial.ipynb'
+info 23:36:25.880: Computing working directory for resource '/home/ubuntu/airflow/dags/sample_trial.ipynb'
+info 23:36:25.889: Starting raw kernel 'redfin_venv (Python 3.12.3)' for interpreter /home/ubuntu/redfin_venv/bin/python
+info 23:36:25.907: Process Execution: > ~/redfin_venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> ~/redfin_venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 23:36:25.916: Kernel launching with ports 9000,9001,9002,9003,9004. Start port is 9000
+info 23:36:25.957: Process Execution: > ~/redfin_venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"7089002e-52e4-46bb-ae7e-966404d1ad81" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/ubuntu/.local/share/jupyter/runtime/kernel-v2-1426cPwPGOUYHa4Q.json
+> ~/redfin_venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"7089002e-52e4-46bb-ae7e-966404d1ad81" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/ubuntu/.local/share/jupyter/runtime/kernel-v2-1426cPwPGOUYHa4Q.json
+info 23:36:25.957: Process Execution: cwd: ~/airflow/dags
+cwd: ~/airflow/dags
+warn 23:36:25.974: Stderr output when getting ipykernel version & path Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ModuleNotFoundError: No module named 'ipykernel' for /home/ubuntu/redfin_venv/bin/python
+warn 23:36:25.991: StdErr from Kernel Process /home/ubuntu/redfin_venv/bin/python: No module named ipykernel_launcher
+warn 23:36:25.991: StdErr from Kernel Process 
+
+info 23:36:26.108: Process Execution: > ~/redfin_venv/bin/python -m pip list
+> ~/redfin_venv/bin/python -m pip list
+error 23:36:26.124: Disposing kernel process due to an error [o [Error]: The kernel died. Error: /home/ubuntu/redfin_venv/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+	at ChildProcess.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2022.8.1002431955/out/extension.node.js:2:2334688)
+	at ChildProcess.emit (node:events:538:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: {
+      specFile: '/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2022.8.1002431955/temp/jupyter/kernels/python3123jvsc74a57bd01cbc4bf10a52c3c277a8a7d2b0a5a427e10edb3a8b4f3627062cb40420845ddc/kernel.json',
+      interpreterPath: '/home/ubuntu/redfin_venv/bin/python',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'python3123jvsc74a57bd01cbc4bf10a52c3c277a8a7d2b0a5a427e10edb3a8b4f3627062cb40420845ddc',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: "Python 3.12.3 ('redfin_venv': venv)",
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/home/ubuntu/redfin_venv/bin/python',
+      sysPrefix: '/home/ubuntu/redfin_venv',
+      envType: 'Venv',
+      envName: 'redfin_venv',
+      envPath: [b],
+      architecture: 3,
+      sysVersion: '3.12.3 (main, Jan 17 2025, 18:03:48) [GCC 13.3.0]',
+      version: [Object],
+      displayName: "Python 3.12.3 ('redfin_venv': venv)",
+      detailedDisplayName: "Python 3.12.3 ('redfin_venv': venv)",
+      uri: [b]
+    },
+    id: '.jvsc74a57bd01cbc4bf10a52c3c277a8a7d2b0a5a427e10edb3a8b4f3627062cb40420845ddc./home/ubuntu/redfin_venv/python./home/ubuntu/redfin_venv/python.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/home/ubuntu/redfin_venv/bin/python: No module named ipykernel_launcher\n'
+}
+error 23:36:26.134: /home/ubuntu/redfin_venv/bin/python: No module named ipykernel_launcher
+
+error 23:36:26.144: Failed to connect raw kernel session: Error: The kernel died. Error: /home/ubuntu/redfin_venv/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+warn 23:36:26.160: Error occurred while trying to start the kernel, options.disableUI=false [o [Error]: The kernel died. Error: /home/ubuntu/redfin_venv/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+	at ChildProcess.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2022.8.1002431955/out/extension.node.js:2:2334688)
+	at ChildProcess.emit (node:events:538:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: {
+      specFile: '/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2022.8.1002431955/temp/jupyter/kernels/python3123jvsc74a57bd01cbc4bf10a52c3c277a8a7d2b0a5a427e10edb3a8b4f3627062cb40420845ddc/kernel.json',
+      interpreterPath: '/home/ubuntu/redfin_venv/bin/python',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'python3123jvsc74a57bd01cbc4bf10a52c3c277a8a7d2b0a5a427e10edb3a8b4f3627062cb40420845ddc',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: "Python 3.12.3 ('redfin_venv': venv)",
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/home/ubuntu/redfin_venv/bin/python',
+      sysPrefix: '/home/ubuntu/redfin_venv',
+      envType: 'Venv',
+      envName: 'redfin_venv',
+      envPath: [b],
+      architecture: 3,
+      sysVersion: '3.12.3 (main, Jan 17 2025, 18:03:48) [GCC 13.3.0]',
+      version: [Object],
+      displayName: "Python 3.12.3 ('redfin_venv': venv)",
+      detailedDisplayName: "Python 3.12.3 ('redfin_venv': venv)",
+      uri: [b]
+    },
+    id: '.jvsc74a57bd01cbc4bf10a52c3c277a8a7d2b0a5a427e10edb3a8b4f3627062cb40420845ddc./home/ubuntu/redfin_venv/python./home/ubuntu/redfin_venv/python.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/home/ubuntu/redfin_venv/bin/python: No module named ipykernel_launcher\n'
+}
+warn 23:36:26.163: Kernel Error, context = start [o [Error]: The kernel died. Error: /home/ubuntu/redfin_venv/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+	at ChildProcess.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2022.8.1002431955/out/extension.node.js:2:2334688)
+	at ChildProcess.emit (node:events:538:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: {
+      specFile: '/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2022.8.1002431955/temp/jupyter/kernels/python3123jvsc74a57bd01cbc4bf10a52c3c277a8a7d2b0a5a427e10edb3a8b4f3627062cb40420845ddc/kernel.json',
+      interpreterPath: '/home/ubuntu/redfin_venv/bin/python',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'python3123jvsc74a57bd01cbc4bf10a52c3c277a8a7d2b0a5a427e10edb3a8b4f3627062cb40420845ddc',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: "Python 3.12.3 ('redfin_venv': venv)",
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/home/ubuntu/redfin_venv/bin/python',
+      sysPrefix: '/home/ubuntu/redfin_venv',
+      envType: 'Venv',
+      envName: 'redfin_venv',
+      envPath: [b],
+      architecture: 3,
+      sysVersion: '3.12.3 (main, Jan 17 2025, 18:03:48) [GCC 13.3.0]',
+      version: [Object],
+      displayName: "Python 3.12.3 ('redfin_venv': venv)",
+      detailedDisplayName: "Python 3.12.3 ('redfin_venv': venv)",
+      uri: [b]
+    },
+    id: '.jvsc74a57bd01cbc4bf10a52c3c277a8a7d2b0a5a427e10edb3a8b4f3627062cb40420845ddc./home/ubuntu/redfin_venv/python./home/ubuntu/redfin_venv/python.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/home/ubuntu/redfin_venv/bin/python: No module named ipykernel_launcher\n'
+}
+info 23:36:26.205: Process Execution: > ~/redfin_venv/bin/python -c "import ipykernel"
+> ~/redfin_venv/bin/python -c "import ipykernel"
+info 23:36:26.282: installMissingDependencies /home/ubuntu/redfin_venv/bin/python, ui.disabled=false for resource '/home/ubuntu/airflow/dags/sample_trial.ipynb'
+info 23:36:26.349: Process Execution: > ~/redfin_venv/bin/python -c "import ipykernel"
+> ~/redfin_venv/bin/python -c "import ipykernel"
+info 23:36:26.444: Process Execution: > ~/redfin_venv/bin/python -c "import pip"
+> ~/redfin_venv/bin/python -c "import pip"
+info 23:36:32.974: Process Execution: > ~/redfin_venv/bin/python -c "import pip"
+> ~/redfin_venv/bin/python -c "import pip"
+info 23:36:33.18: Process Execution: > ~/redfin_venv/bin/python -m pip install -U ipykernel
+> ~/redfin_venv/bin/python -m pip install -U ipykernel
+info 23:36:33.810: Collecting ipykernel
+
+info 23:36:33.872:   Downloading ipykernel-6.29.5-py3-none-any.whl.metadata (6.3 kB)
+
+info 23:36:33.933: Collecting comm>=0.1.1 (from ipykernel)
+
+info 23:36:33.937:   Downloading comm-0.2.2-py3-none-any.whl.metadata (3.7 kB)
+
+info 23:36:34.129: Collecting debugpy>=1.6.5 (from ipykernel)
+
+info 23:36:34.134:   Downloading debugpy-1.8.12-cp312-cp312-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (1.3 kB)
+
+info 23:36:34.232: Collecting ipython>=7.23.1 (from ipykernel)
+
+info 23:36:34.237:   Downloading ipython-8.32.0-py3-none-any.whl.metadata (5.0 kB)
+
+info 23:36:34.303: Collecting jupyter-client>=6.1.12 (from ipykernel)
+
+info 23:36:34.310:   Downloading jupyter_client-8.6.3-py3-none-any.whl.metadata (8.3 kB)
+
+info 23:36:34.372: Collecting jupyter-core!=5.0.*,>=4.12 (from ipykernel)
+
+info 23:36:34.376:   Downloading jupyter_core-5.7.2-py3-none-any.whl.metadata (3.4 kB)
+
+info 23:36:34.412: Collecting matplotlib-inline>=0.1 (from ipykernel)
+
+info 23:36:34.416:   Downloading matplotlib_inline-0.1.7-py3-none-any.whl.metadata (3.9 kB)
+
+info 23:36:34.459: Collecting nest-asyncio (from ipykernel)
+
+info 23:36:34.464:   Downloading nest_asyncio-1.6.0-py3-none-any.whl.metadata (2.8 kB)
+
+info 23:36:34.475: Requirement already satisfied: packaging in ./redfin_venv/lib/python3.12/site-packages (from ipykernel) (24.2)
+
+info 23:36:34.477: Requirement already satisfied: psutil in ./redfin_venv/lib/python3.12/site-packages (from ipykernel) (7.0.0)
+
+info 23:36:34.835: Collecting pyzmq>=24 (from ipykernel)
+
+info 23:36:34.840:   Downloading pyzmq-26.2.1-cp312-cp312-manylinux_2_28_x86_64.whl.metadata (6.2 kB)
+
+info 23:36:34.903: Collecting tornado>=6.1 (from ipykernel)
+
+info 23:36:34.907:   Downloading tornado-6.4.2-cp38-abi3-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (2.5 kB)
+
+info 23:36:34.948: Collecting traitlets>=5.4.0 (from ipykernel)
+
+info 23:36:34.952:   Downloading traitlets-5.14.3-py3-none-any.whl.metadata (10 kB)
+
+info 23:36:35.78: Collecting decorator (from ipython>=7.23.1->ipykernel)
+
+info 23:36:35.82:   Downloading decorator-5.2.1-py3-none-any.whl.metadata (3.9 kB)
+
+info 23:36:35.121: Collecting jedi>=0.16 (from ipython>=7.23.1->ipykernel)
+
+info 23:36:35.125:   Downloading jedi-0.19.2-py2.py3-none-any.whl.metadata (22 kB)
+
+info 23:36:35.159: Collecting pexpect>4.3 (from ipython>=7.23.1->ipykernel)
+
+info 23:36:35.163:   Downloading pexpect-4.9.0-py2.py3-none-any.whl.metadata (2.5 kB)
+
+info 23:36:35.220: Collecting prompt_toolkit<3.1.0,>=3.0.41 (from ipython>=7.23.1->ipykernel)
+
+info 23:36:35.224:   Downloading prompt_toolkit-3.0.50-py3-none-any.whl.metadata (6.6 kB)
+
+info 23:36:35.235: Requirement already satisfied: pygments>=2.4.0 in ./redfin_venv/lib/python3.12/site-packages (from ipython>=7.23.1->ipykernel) (2.19.1)
+
+info 23:36:35.258: Collecting stack_data (from ipython>=7.23.1->ipykernel)
+
+info 23:36:35.262:   Downloading stack_data-0.6.3-py3-none-any.whl.metadata (18 kB)
+
+info 23:36:35.292: Requirement already satisfied: python-dateutil>=2.8.2 in ./redfin_venv/lib/python3.12/site-packages (from jupyter-client>=6.1.12->ipykernel) (2.9.0.post0)
+
+info 23:36:35.351: Collecting platformdirs>=2.5 (from jupyter-core!=5.0.*,>=4.12->ipykernel)
+
+info 23:36:35.355:   Downloading platformdirs-4.3.6-py3-none-any.whl.metadata (11 kB)
+
+info 23:36:35.454: Collecting parso<0.9.0,>=0.8.4 (from jedi>=0.16->ipython>=7.23.1->ipykernel)
+
+info 23:36:35.458:   Downloading parso-0.8.4-py2.py3-none-any.whl.metadata (7.7 kB)
+
+info 23:36:35.490: Collecting ptyprocess>=0.5 (from pexpect>4.3->ipython>=7.23.1->ipykernel)
+
+info 23:36:35.493:   Downloading ptyprocess-0.7.0-py2.py3-none-any.whl.metadata (1.3 kB)
+
+info 23:36:35.535: Collecting wcwidth (from prompt_toolkit<3.1.0,>=3.0.41->ipython>=7.23.1->ipykernel)
+
+info 23:36:35.539:   Downloading wcwidth-0.2.13-py2.py3-none-any.whl.metadata (14 kB)
+
+info 23:36:35.556: Requirement already satisfied: six>=1.5 in ./redfin_venv/lib/python3.12/site-packages (from python-dateutil>=2.8.2->jupyter-client>=6.1.12->ipykernel) (1.17.0)
+
+info 23:36:35.590: Collecting executing>=1.2.0 (from stack_data->ipython>=7.23.1->ipykernel)
+
+info 23:36:35.595:   Downloading executing-2.2.0-py2.py3-none-any.whl.metadata (8.9 kB)
+
+info 23:36:35.629: Collecting asttokens>=2.1.0 (from stack_data->ipython>=7.23.1->ipykernel)
+
+info 23:36:35.633:   Downloading asttokens-3.0.0-py3-none-any.whl.metadata (4.7 kB)
+
+info 23:36:35.661: Collecting pure-eval (from stack_data->ipython>=7.23.1->ipykernel)
+
+info 23:36:35.665:   Downloading pure_eval-0.2.3-py3-none-any.whl.metadata (6.3 kB)
+
+info 23:36:35.713: Downloading ipykernel-6.29.5-py3-none-any.whl (117 kB)
+
+info 23:36:35.725:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 117.2/117.2 kB 11.7 MB/s eta 0:00:00
+info 23:36:35.725: 
+
+info 23:36:35.729: Downloading comm-0.2.2-py3-none-any.whl (7.2 kB)
+
+info 23:36:35.742: Downloading debugpy-1.8.12-cp312-cp312-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (4.2 MB)
+
+info 23:36:35.779:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.2/4.2 MB 120.7 MB/s eta 0:00:00
+info 23:36:35.779: 
+
+info 23:36:35.783: Downloading ipython-8.32.0-py3-none-any.whl (825 kB)
+
+info 23:36:35.799:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 825.5/825.5 kB 62.1 MB/s eta 0:00:00
+info 23:36:35.799: 
+
+info 23:36:35.803: Downloading jupyter_client-8.6.3-py3-none-any.whl (106 kB)
+
+info 23:36:35.814:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 106.1/106.1 kB 11.2 MB/s eta 0:00:00
+info 23:36:35.814: 
+
+info 23:36:35.818: Downloading jupyter_core-5.7.2-py3-none-any.whl (28 kB)
+
+info 23:36:35.830: Downloading matplotlib_inline-0.1.7-py3-none-any.whl (9.9 kB)
+
+info 23:36:35.843: Downloading pyzmq-26.2.1-cp312-cp312-manylinux_2_28_x86_64.whl (865 kB)
+
+info 23:36:35.859:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 865.9/865.9 kB 62.8 MB/s eta 0:00:00
+info 23:36:35.859: 
+
+info 23:36:35.863: Downloading tornado-6.4.2-cp38-abi3-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (437 kB)
+
+info 23:36:35.877:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 437.2/437.2 kB 39.5 MB/s eta 0:00:00
+info 23:36:35.877: 
+
+info 23:36:35.881: Downloading traitlets-5.14.3-py3-none-any.whl (85 kB)
+
+info 23:36:35.891:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 85.4/85.4 kB 9.1 MB/s eta 0:00:00
+info 23:36:35.891: 
+
+info 23:36:35.895: Downloading nest_asyncio-1.6.0-py3-none-any.whl (5.2 kB)
+
+info 23:36:35.907: Downloading jedi-0.19.2-py2.py3-none-any.whl (1.6 MB)
+
+info 23:36:35.927:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.6/1.6 MB 87.5 MB/s eta 0:00:00
+info 23:36:35.928: 
+
+info 23:36:35.931: Downloading pexpect-4.9.0-py2.py3-none-any.whl (63 kB)
+
+info 23:36:35.942:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 63.8/63.8 kB 6.6 MB/s eta 0:00:00
+info 23:36:35.942: 
+
+info 23:36:35.946: Downloading platformdirs-4.3.6-py3-none-any.whl (18 kB)
+
+info 23:36:35.958: Downloading prompt_toolkit-3.0.50-py3-none-any.whl (387 kB)
+
+info 23:36:35.971:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 387.8/387.8 kB 37.7 MB/s eta 0:00:00
+info 23:36:35.971: 
+
+info 23:36:35.975: Downloading decorator-5.2.1-py3-none-any.whl (9.2 kB)
+
+info 23:36:35.986: Downloading stack_data-0.6.3-py3-none-any.whl (24 kB)
+
+info 23:36:35.999: Downloading asttokens-3.0.0-py3-none-any.whl (26 kB)
+
+info 23:36:36.11: Downloading executing-2.2.0-py2.py3-none-any.whl (26 kB)
+
+info 23:36:36.23: Downloading parso-0.8.4-py2.py3-none-any.whl (103 kB)
+
+info 23:36:36.33:    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 103.7/103.7 kB 11.4 MB/s eta 0:00:00
+info 23:36:36.33: 
+
+info 23:36:36.37: Downloading ptyprocess-0.7.0-py2.py3-none-any.whl (13 kB)
+
+info 23:36:36.49: Downloading pure_eval-0.2.3-py3-none-any.whl (11 kB)
+
+info 23:36:36.61: Downloading wcwidth-0.2.13-py2.py3-none-any.whl (34 kB)
+
+info 23:36:37.469: Installing collected packages: wcwidth, pure-eval, ptyprocess, traitlets, tornado, pyzmq, prompt_toolkit, platformdirs, pexpect, parso, nest-asyncio, executing, decorator, debugpy, asttokens, stack_data, matplotlib-inline, jupyter-core, jedi, comm, jupyter-client, ipython, ipykernel
+
+error 23:36:44.449: Live Notebook not available for /home/ubuntu/airflow/dags/sample_trial.ipynb
+info 23:36:45.477: Successfully installed asttokens-3.0.0 comm-0.2.2 debugpy-1.8.12 decorator-5.2.1 executing-2.2.0 ipykernel-6.29.5 ipython-8.32.0 jedi-0.19.2 jupyter-client-8.6.3 jupyter-core-5.7.2 matplotlib-inline-0.1.7 nest-asyncio-1.6.0 parso-0.8.4 pexpect-4.9.0 platformdirs-4.3.6 prompt_toolkit-3.0.50 ptyprocess-0.7.0 pure-eval-0.2.3 pyzmq-26.2.1 stack_data-0.6.3 tornado-6.4.2 traitlets-5.14.3 wcwidth-0.2.13
+
+error 23:36:46.124: Live Notebook not available for /home/ubuntu/airflow/dags/sample_trial.ipynb
+info 23:36:46.148: Process Execution: > ~/redfin_venv/bin/python -c "import ipykernel"
+> ~/redfin_venv/bin/python -c "import ipykernel"
+error 23:36:46.266: Live Notebook not available for /home/ubuntu/airflow/dags/sample_trial.ipynb
+info 23:36:46.631: Dispose Kernel '/home/ubuntu/airflow/dags/sample_trial.ipynb' associated with '/home/ubuntu/airflow/dags/sample_trial.ipynb'
+info 23:36:46.641: Starting Jupyter Session id = 'startUsingPythonInterpreter:.jvsc74a57bd01cbc4bf10a52c3c277a8a7d2b0a5a427e10edb3a8b4f3627062cb40420845ddc./home/ubuntu/redfin_venv/python./home/ubuntu/redfin_venv/python.-m#ipykernel_launcher' (Python Path: /home/ubuntu/redfin_venv, EnvType: Venv, EnvName: 'redfin_venv', Version: 3.12.3) for '/home/ubuntu/airflow/dags/sample_trial.ipynb' (disableUI=false)
+info 23:36:46.644: Creating raw notebook for resource '/home/ubuntu/airflow/dags/sample_trial.ipynb'
+info 23:36:46.644: Computing working directory for resource '/home/ubuntu/airflow/dags/sample_trial.ipynb'
+info 23:36:46.665: Process Execution: > ~/redfin_venv/bin/python -m pip list
+> ~/redfin_venv/bin/python -m pip list
+info 23:36:46.673: Starting raw kernel 'redfin_venv (Python 3.12.3)' for interpreter /home/ubuntu/redfin_venv/bin/python
+info 23:36:46.704: Process Execution: > ~/redfin_venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> ~/redfin_venv/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 23:36:46.713: Kernel launching with ports 9008,9009,9010,9011,9012. Start port is 9000
+info 23:36:46.755: Process Execution: > ~/redfin_venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9011 --control=9009 --hb=9008 --Session.signature_scheme="hmac-sha256" --Session.key=b"4ff5ba4e-f2a5-4942-b92f-1f6393d080e2" --shell=9010 --transport="tcp" --iopub=9012 --f=/home/ubuntu/.local/share/jupyter/runtime/kernel-v2-1426uus50303Qf2M.json
+> ~/redfin_venv/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9011 --control=9009 --hb=9008 --Session.signature_scheme="hmac-sha256" --Session.key=b"4ff5ba4e-f2a5-4942-b92f-1f6393d080e2" --shell=9010 --transport="tcp" --iopub=9012 --f=/home/ubuntu/.local/share/jupyter/runtime/kernel-v2-1426uus50303Qf2M.json
+info 23:36:46.755: Process Execution: cwd: ~/airflow/dags
+cwd: ~/airflow/dags
+info 23:36:47.403: ipykernel version 6.29.5 for /home/ubuntu/redfin_venv/bin/python
+info 23:36:47.404: ipykernel location ~/redfin_venv/lib/python3.12/site-packages/ipykernel/__init__.py for /home/ubuntu/redfin_venv/bin/python
+info 23:36:48.613: Kernel Output: NOTE: When using the `ipython kernel` entry point, Ctrl-C will not work.
+
+To exit, you will have to explicitly quit this process, by either sending
+"quit" from a client, or using Ctrl-\ in UNIX-like environments.
+
+To read more about this, see https://github.com/ipython/ipython/issues/2049
+
+
+To connect another client to this kernel, use:
+    --existing kernel-v2-1426uus50303Qf2M.json
+
+info 23:36:48.938: Started kernel redfin_venv (Python 3.12.3)., (Raw session started and connected)
+info 23:36:48.944: Finished connecting c8cdd3d3-8f88-4715-a65a-0365eeb5944e
+info 23:36:48.974: UpdateWorkingDirectoryAndPath in Kernel
+info 23:36:48.979: Executing silently Code (busy) = import os\nimport sys\n%cd "//home/ubuntu/airflow/dags"\nif os.getcwd() not in sys.path:\nsys.path.i
+info 23:36:50.343: Executing silently Code (completed) = import os\nimport sys\n%cd "//home/ubuntu/airflow/dags"\nif os.getcwd() not in sys.path:\nsys.path.i with 2 output(s)
+info 23:36:50.345: Waiting for idle on (kernel): 792cba4b-b3ff-483d-bf43-27ea385998bd -> idle
+info 23:36:50.345: Finished waiting for idle on (kernel): 792cba4b-b3ff-483d-bf43-27ea385998bd -> idle
+info 23:36:52.183: Cell 0 executed with state Success
+info 23:37:4.838: Execute Cell 1 /home/ubuntu/airflow/dags/sample_trial.ipynb
+info 23:37:4.888: Cell 1 executed with state Success
+info 23:38:11.140: Execute Cell 2 /home/ubuntu/airflow/dags/sample_trial.ipynb
+info 23:38:11.199: Cell 2 executed with state Success
+info 23:38:19.504: Execute Cell 3 /home/ubuntu/airflow/dags/sample_trial.ipynb
+info 23:38:19.766: Cancel all remaining cells true || Error || undefined
+info 23:38:19.766: Cancel pending cells
+info 23:38:19.767: Cell 3 executed with state Error
+info 23:38:28.902: Execute Cell 2 /home/ubuntu/airflow/dags/sample_trial.ipynb
+info 23:38:28.984: Cell 2 executed with state Success
+info 23:38:29.123: Execute Cell 3 /home/ubuntu/airflow/dags/sample_trial.ipynb
+error 23:40:28.231: Disposing session as kernel process died ExitCode: undefined, Reason: 
+error 23:40:28.240: Raw kernel process exited code: undefined
+error 23:40:28.275: Error in waiting for cell to complete [Error: Canceled future for execute_request message before replies were done
+	at t.KernelShellFutureHandler.dispose (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2022.8.1002431955/out/extension.node.js:2:32353)
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2022.8.1002431955/out/extension.node.js:2:51405
+	at Map.forEach (<anonymous>)
+	at y._clearKernelState (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2022.8.1002431955/out/extension.node.js:2:51390)
+	at y.dispose (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2022.8.1002431955/out/extension.node.js:2:44872)
+	at /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2022.8.1002431955/out/extension.node.js:2:2358021
+	at t.swallowExceptions (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2022.8.1002431955/out/extension.node.js:7:132986)
+	at p.dispose (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2022.8.1002431955/out/extension.node.js:2:2357999)
+	at t.RawSession.dispose (/home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2022.8.1002431955/out/extension.node.js:2:2363107)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)]
+warn 23:40:28.277: Cell completed with errors {
+  message: 'Canceled future for execute_request message before replies were done'
+}
+info 23:40:28.287: Cancel all remaining cells true || Error || undefined
+info 23:40:28.287: Cancel pending cells
+info 23:40:28.289: Cell 3 executed with state Error
+info 0:35:54.323: Disposing kernel .jvsc74a57bd01cbc4bf10a52c3c277a8a7d2b0a5a427e10edb3a8b4f3627062cb40420845ddc./home/ubuntu/redfin_venv/python./home/ubuntu/redfin_venv/python.-m#ipykernel_launcher for notebook /home/ubuntu/airflow/dags/sample_trial.ipynb due to selection of another kernel or closing of the notebook
+info 0:35:54.323: Dispose Kernel '/home/ubuntu/airflow/dags/sample_trial.ipynb' associated with '/home/ubuntu/airflow/dags/sample_trial.ipynb'
+info 0:35:54.331: Cancel pending cells

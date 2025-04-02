@@ -1,0 +1,14 @@
+[2025-03-07 15:07:43.353] [exthost] [info] Extension host with pid 22448 started
+[2025-03-07 15:07:43.366] [exthost] [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/443a9c35c13baf31235c52a615bc4b86/vscode.lock': Lock acquired.
+[2025-03-07 15:07:43.449] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2025-03-07 15:07:43.789] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2025-03-07 15:07:44.164] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2025-03-07 15:07:44.167] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2025-03-07 15:07:44.172] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2025-03-07 15:07:44.382] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2025-03-07 15:07:44.461] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2025-03-07 15:07:44.901] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2025-03-07 15:07:45.253] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2025-03-07 15:07:45.271] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2025-03-07 15:07:45.274] [exthost] [info] Eager extensions activated
+[2025-03-07 15:07:45.360] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'

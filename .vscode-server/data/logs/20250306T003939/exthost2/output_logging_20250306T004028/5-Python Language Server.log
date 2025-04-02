@@ -1,0 +1,26 @@
+[Info  - 12:40:54 AM] (1437) Pylance language server 2023.1.10 (pyright bbf0ae78) starting
+[Info  - 12:40:54 AM] (1437) Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.1.10/dist
+[Info  - 12:40:54 AM] (1437) Starting service instance "ubuntu"
+[Info  - 12:40:54 AM] (1437) Notebook support: LSP
+[Info  - 12:40:54 AM] (1437) Interactive window support: LSP
+[Info  - 12:40:54 AM] (1437) No configuration file found.
+[Info  - 12:40:54 AM] (1437) No pyproject.toml file found.
+[Info  - 12:40:54 AM] (1437) Setting pythonPath for service "ubuntu": "/home/ubuntu/redfin_venv/bin/python"
+[Warn  - 12:40:54 AM] (1437) stubPath /home/ubuntu/typings is not a valid directory.
+[Info  - 12:40:54 AM] (1437) Assuming Python version 3.12
+[Info  - 12:40:54 AM] (1437) Assuming Python platform Linux
+[Info  - 12:40:55 AM] (1437) Searching for source files
+[Info  - 12:40:55 AM] (1437) Auto-excluding /home/ubuntu/redfin_venv
+[Info  - 12:40:55 AM] (1437) Found 3 source files
+[Info  - 12:40:55 AM] (1437) Background analysis(1) root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.1.10/dist
+[Info  - 12:40:55 AM] (1437) Background analysis(1) started
+[Info  - 12:41:00 AM] (1437) [BG(1)] Long operation: checking: /home/ubuntu/airflow/dags/functions.py (5246ms)
+[Info  - 12:41:00 AM] (1437) [BG(1)] Long operation: analyzing: /home/ubuntu/airflow/dags/functions.py (5692ms)
+[Info  - 12:54:53 AM] (1437) Searching for source files
+[Info  - 12:54:53 AM] (1437) Auto-excluding /home/ubuntu/redfin_ven
+[Info  - 12:54:53 AM] (1437) Auto-excluding /home/ubuntu/redfin_venv
+[Info  - 12:54:54 AM] (1437) Found 3 source files
+[Info  - 12:54:58 AM] (1437) [BG(1)] Long operation: checking: /home/ubuntu/airflow/dags/functions.py (4307ms)
+[Info  - 12:54:58 AM] (1437) [BG(1)] Long operation: analyzing: /home/ubuntu/airflow/dags/functions.py (4579ms)
+[Info  - 12:55:02 AM] (1437) [BG(1)] Long operation: checking: /home/ubuntu/airflow/dags/functions.py (3795ms)
+[Info  - 12:55:02 AM] (1437) [BG(1)] Long operation: analyzing: /home/ubuntu/airflow/dags/functions.py (3861ms)

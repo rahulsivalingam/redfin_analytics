@@ -1,0 +1,798 @@
+[2025-03-11T00:16:20.177+0000] {processor.py:186} INFO - Started process (PID=2465) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:16:20.178+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:16:20.180+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:16:20.180+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:16:20.189+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:16:20.208+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:16:20.207+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:16:20.228+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:16:20.228+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:16:20.253+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.082 seconds
+[2025-03-11T00:20:55.225+0000] {processor.py:186} INFO - Started process (PID=2875) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:20:55.227+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:20:55.229+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:20:55.229+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:20:55.238+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:20:55.257+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:20:55.257+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:20:55.278+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:20:55.278+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:20:55.302+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.083 seconds
+[2025-03-11T00:21:53.568+0000] {processor.py:186} INFO - Started process (PID=2995) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:21:53.570+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:21:53.573+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:21:53.572+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:21:53.581+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:21:53.598+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:21:53.597+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:21:53.617+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:21:53.617+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:21:53.641+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.079 seconds
+[2025-03-11T00:22:51.228+0000] {processor.py:186} INFO - Started process (PID=3233) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:22:51.229+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:22:51.232+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:22:51.231+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:22:51.240+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:22:51.257+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:22:51.257+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:22:51.277+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:22:51.276+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:22:51.300+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.079 seconds
+[2025-03-11T00:23:54.783+0000] {processor.py:186} INFO - Started process (PID=3746) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:23:54.784+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:23:54.786+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:23:54.786+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:23:54.795+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:23:54.812+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:23:54.811+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:23:54.832+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:23:54.832+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:23:54.863+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.086 seconds
+[2025-03-11T00:24:49.782+0000] {processor.py:186} INFO - Started process (PID=3864) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:24:49.783+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:24:49.785+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:24:49.785+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:24:49.793+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:24:49.810+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:24:49.810+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:24:49.829+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:24:49.829+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:24:49.856+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.081 seconds
+[2025-03-11T00:25:45.399+0000] {processor.py:186} INFO - Started process (PID=4044) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:25:45.401+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:25:45.403+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:25:45.402+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:25:45.411+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:25:45.428+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:25:45.428+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:25:45.447+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:25:45.447+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:25:45.471+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.079 seconds
+[2025-03-11T00:26:43.205+0000] {processor.py:186} INFO - Started process (PID=4161) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:26:43.206+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:26:43.208+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:26:43.208+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:26:43.217+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:26:43.235+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:26:43.235+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:26:43.254+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:26:43.254+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:26:43.278+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.079 seconds
+[2025-03-11T00:28:14.284+0000] {processor.py:186} INFO - Started process (PID=5169) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:28:14.285+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:28:14.287+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:28:14.287+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:28:14.296+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:28:14.313+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:28:14.313+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:28:14.334+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:28:14.334+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:28:14.354+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.076 seconds
+[2025-03-11T00:29:16.568+0000] {processor.py:186} INFO - Started process (PID=5376) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:29:16.570+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:29:16.572+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:29:16.572+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:29:16.581+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:29:16.598+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:29:16.598+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:29:16.617+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:29:16.616+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:29:16.639+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.076 seconds
+[2025-03-11T00:32:42.529+0000] {processor.py:186} INFO - Started process (PID=7571) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:32:42.531+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:32:42.532+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:32:42.531+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:32:42.538+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:32:42.558+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:32:42.557+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:32:42.577+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:32:42.577+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:32:42.600+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.077 seconds
+[2025-03-11T00:33:38.731+0000] {processor.py:186} INFO - Started process (PID=7689) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:33:38.732+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:33:38.733+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:33:38.733+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:33:38.740+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:33:38.757+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:33:38.757+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:33:38.774+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:33:38.774+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:33:38.796+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.071 seconds
+[2025-03-11T00:39:08.966+0000] {processor.py:186} INFO - Started process (PID=11502) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:39:08.968+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:39:08.970+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:39:08.968+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:39:08.977+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:39:08.996+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:39:08.996+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:39:09.014+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:39:09.014+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:39:09.035+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.075 seconds
+[2025-03-11T00:40:05.095+0000] {processor.py:186} INFO - Started process (PID=11620) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:40:05.096+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:40:05.097+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:40:05.097+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:40:05.104+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:40:05.121+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:40:05.121+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:40:05.140+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:40:05.140+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:40:05.162+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2025-03-11T00:41:02.962+0000] {processor.py:186} INFO - Started process (PID=11744) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:41:02.964+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:41:02.965+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:41:02.964+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:41:02.972+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:41:02.989+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:41:02.989+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:41:03.006+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:41:03.006+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:41:03.028+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.072 seconds
+[2025-03-11T00:41:59.570+0000] {processor.py:186} INFO - Started process (PID=11862) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:41:59.572+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:41:59.573+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:41:59.573+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:41:59.580+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:41:59.597+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:41:59.597+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:41:59.613+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:41:59.613+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:41:59.634+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.070 seconds
+[2025-03-11T00:42:53.845+0000] {processor.py:186} INFO - Started process (PID=11976) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:42:53.847+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:42:53.848+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:42:53.847+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:42:53.856+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:42:53.873+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:42:53.873+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:42:53.890+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:42:53.890+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:42:53.910+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.072 seconds
+[2025-03-11T00:43:49.689+0000] {processor.py:186} INFO - Started process (PID=12154) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:43:49.690+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:43:49.692+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:43:49.691+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:43:49.699+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:43:49.716+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:43:49.716+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:43:49.733+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:43:49.733+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:43:49.757+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.075 seconds
+[2025-03-11T00:44:42.905+0000] {processor.py:186} INFO - Started process (PID=12269) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:44:42.907+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:44:42.909+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:44:42.908+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:44:42.915+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:44:42.932+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:44:42.932+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:44:42.949+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:44:42.949+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:44:42.972+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.073 seconds
+[2025-03-11T00:45:37.739+0000] {processor.py:186} INFO - Started process (PID=12387) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:45:37.741+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:45:37.742+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:45:37.741+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:45:37.748+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:45:37.765+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:45:37.765+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:45:37.784+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:45:37.783+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:45:37.820+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.088 seconds
+[2025-03-11T00:46:34.308+0000] {processor.py:186} INFO - Started process (PID=12683) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:46:34.310+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:46:34.311+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:46:34.311+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:46:34.319+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:46:34.336+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:46:34.336+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:46:34.354+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:46:34.354+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:46:34.376+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.075 seconds
+[2025-03-11T00:47:30.888+0000] {processor.py:186} INFO - Started process (PID=12800) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:47:30.890+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:47:30.893+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:47:30.892+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:47:30.902+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:47:30.923+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:47:30.923+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:47:30.945+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:47:30.945+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:47:30.973+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.093 seconds
+[2025-03-11T00:49:24.709+0000] {processor.py:186} INFO - Started process (PID=13665) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:49:24.711+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:49:24.712+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:49:24.711+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:49:24.719+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:49:24.742+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:49:24.741+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:49:24.759+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:49:24.759+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:49:24.782+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.078 seconds
+[2025-03-11T00:50:23.876+0000] {processor.py:186} INFO - Started process (PID=13787) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:50:23.877+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:50:23.878+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:50:23.878+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:50:23.886+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:50:23.903+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:50:23.902+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:50:23.920+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:50:23.919+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:50:23.942+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.073 seconds
+[2025-03-11T00:51:19.385+0000] {processor.py:186} INFO - Started process (PID=13904) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:51:19.387+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:51:19.388+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:51:19.388+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:51:19.395+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:51:19.411+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:51:19.411+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:51:19.428+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:51:19.428+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:51:19.451+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.071 seconds
+[2025-03-11T00:52:14.731+0000] {processor.py:186} INFO - Started process (PID=14022) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:52:14.734+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:52:14.735+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:52:14.734+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:52:14.742+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:52:14.759+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:52:14.758+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:52:14.776+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:52:14.776+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:52:14.799+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.073 seconds
+[2025-03-11T00:53:06.129+0000] {processor.py:186} INFO - Started process (PID=14139) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:53:06.130+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:53:06.131+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:53:06.131+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:53:06.140+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:53:06.156+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:53:06.156+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:53:06.174+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:53:06.173+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:53:06.197+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2025-03-11T00:57:19.517+0000] {processor.py:186} INFO - Started process (PID=15478) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:57:19.519+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T00:57:19.520+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:57:19.520+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:57:19.528+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T00:57:19.547+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:57:19.547+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T00:57:19.563+0000] {logging_mixin.py:190} INFO - [2025-03-11T00:57:19.563+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T00:57:19.586+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.075 seconds
+[2025-03-11T01:30:01.298+0000] {processor.py:186} INFO - Started process (PID=33424) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:30:01.300+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T01:30:01.303+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:30:01.302+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:30:01.310+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:30:01.330+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:30:01.329+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T01:30:01.350+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:30:01.350+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T01:30:01.375+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.083 seconds
+[2025-03-11T01:31:00.502+0000] {processor.py:186} INFO - Started process (PID=33546) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:31:00.504+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T01:31:00.506+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:31:00.506+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:31:00.515+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:31:00.533+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:31:00.532+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T01:31:00.552+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:31:00.552+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T01:31:00.577+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.081 seconds
+[2025-03-11T01:41:29.962+0000] {processor.py:186} INFO - Started process (PID=37966) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:41:29.964+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T01:41:29.965+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:41:29.965+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:41:29.972+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:41:29.991+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:41:29.991+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T01:41:30.017+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:41:30.017+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T01:41:30.039+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.083 seconds
+[2025-03-11T01:42:25.365+0000] {processor.py:186} INFO - Started process (PID=38145) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:42:25.367+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T01:42:25.368+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:42:25.368+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:42:25.375+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:42:25.393+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:42:25.392+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T01:42:25.410+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:42:25.410+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T01:42:25.433+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.075 seconds
+[2025-03-11T01:43:21.341+0000] {processor.py:186} INFO - Started process (PID=38263) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:43:21.344+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T01:43:21.345+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:43:21.344+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:43:21.351+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:43:21.369+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:43:21.368+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T01:43:21.387+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:43:21.386+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T01:43:21.411+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.076 seconds
+[2025-03-11T01:44:15.851+0000] {processor.py:186} INFO - Started process (PID=38438) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:44:15.853+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T01:44:15.854+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:44:15.854+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:44:15.861+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:44:15.878+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:44:15.878+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T01:44:15.896+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:44:15.895+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T01:44:15.918+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.073 seconds
+[2025-03-11T01:45:09.974+0000] {processor.py:186} INFO - Started process (PID=38557) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:45:09.975+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T01:45:09.976+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:45:09.975+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:45:09.983+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:45:10.001+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:45:10.000+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T01:45:10.019+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:45:10.019+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T01:45:10.043+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.075 seconds
+[2025-03-11T01:46:04.040+0000] {processor.py:186} INFO - Started process (PID=38697) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:46:04.042+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T01:46:04.043+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:46:04.043+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:46:04.050+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:46:04.067+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:46:04.067+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T01:46:04.085+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:46:04.085+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T01:46:04.110+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.075 seconds
+[2025-03-11T01:46:58.684+0000] {processor.py:186} INFO - Started process (PID=38789) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:46:58.686+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T01:46:58.687+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:46:58.686+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:46:58.694+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:46:58.712+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:46:58.711+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T01:46:58.730+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:46:58.729+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T01:46:58.762+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.084 seconds
+[2025-03-11T01:47:50.446+0000] {processor.py:186} INFO - Started process (PID=38901) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:47:50.448+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T01:47:50.449+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:47:50.448+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:47:50.456+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:47:50.474+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:47:50.474+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T01:47:50.491+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:47:50.491+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T01:47:50.512+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.073 seconds
+[2025-03-11T01:48:42.824+0000] {processor.py:186} INFO - Started process (PID=39015) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:48:42.826+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T01:48:42.828+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:48:42.827+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:48:42.835+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:48:42.853+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:48:42.853+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T01:48:42.870+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:48:42.870+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T01:48:42.894+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.076 seconds
+[2025-03-11T01:49:36.508+0000] {processor.py:186} INFO - Started process (PID=39130) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:49:36.510+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T01:49:36.511+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:49:36.511+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:49:36.519+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:49:36.536+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:49:36.535+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T01:49:36.552+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:49:36.552+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T01:49:36.585+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.083 seconds
+[2025-03-11T01:50:33.541+0000] {processor.py:186} INFO - Started process (PID=39251) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:50:33.544+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T01:50:33.545+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:50:33.545+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:50:33.552+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:50:33.568+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:50:33.568+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T01:50:33.586+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:50:33.586+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T01:50:33.608+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.073 seconds
+[2025-03-11T01:51:27.973+0000] {processor.py:186} INFO - Started process (PID=39428) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:51:27.975+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T01:51:27.976+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:51:27.976+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:51:27.983+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:51:27.999+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:51:27.999+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T01:51:28.017+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:51:28.016+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T01:51:28.040+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.073 seconds
+[2025-03-11T01:52:23.193+0000] {processor.py:186} INFO - Started process (PID=39545) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:52:23.194+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T01:52:23.196+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:52:23.195+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:52:23.204+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:52:23.222+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:52:23.221+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T01:52:23.240+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:52:23.240+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T01:52:23.262+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.075 seconds
+[2025-03-11T01:53:18.594+0000] {processor.py:186} INFO - Started process (PID=39661) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:53:18.596+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T01:53:18.597+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:53:18.596+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:53:18.604+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:53:18.621+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:53:18.621+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T01:53:18.638+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:53:18.638+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T01:53:18.661+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.072 seconds
+[2025-03-11T01:54:15.473+0000] {processor.py:186} INFO - Started process (PID=39777) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:54:15.474+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T01:54:15.475+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:54:15.475+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:54:15.482+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:54:15.499+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:54:15.499+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T01:54:15.516+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:54:15.516+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T01:54:15.539+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.073 seconds
+[2025-03-11T01:55:12.403+0000] {processor.py:186} INFO - Started process (PID=39898) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:55:12.405+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T01:55:12.406+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:55:12.406+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:55:12.413+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:55:12.430+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:55:12.430+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T01:55:12.447+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:55:12.447+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T01:55:12.471+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.075 seconds
+[2025-03-11T01:57:57.290+0000] {processor.py:186} INFO - Started process (PID=41696) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:57:57.291+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T01:57:57.292+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:57:57.292+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:57:57.299+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T01:57:57.319+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:57:57.319+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T01:57:57.338+0000] {logging_mixin.py:190} INFO - [2025-03-11T01:57:57.338+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T01:57:57.362+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.079 seconds
+[2025-03-11T02:08:05.225+0000] {processor.py:186} INFO - Started process (PID=50325) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T02:08:05.227+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T02:08:05.228+0000] {logging_mixin.py:190} INFO - [2025-03-11T02:08:05.228+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T02:08:05.235+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T02:08:05.256+0000] {logging_mixin.py:190} INFO - [2025-03-11T02:08:05.256+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T02:08:05.274+0000] {logging_mixin.py:190} INFO - [2025-03-11T02:08:05.273+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T02:08:05.296+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.078 seconds
+[2025-03-11T02:09:00.611+0000] {processor.py:186} INFO - Started process (PID=50443) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T02:09:00.613+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T02:09:00.614+0000] {logging_mixin.py:190} INFO - [2025-03-11T02:09:00.614+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T02:09:00.621+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T02:09:00.639+0000] {logging_mixin.py:190} INFO - [2025-03-11T02:09:00.638+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T02:09:00.656+0000] {logging_mixin.py:190} INFO - [2025-03-11T02:09:00.656+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T02:09:00.681+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.076 seconds
+[2025-03-11T02:09:57.882+0000] {processor.py:186} INFO - Started process (PID=51012) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T02:09:57.885+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T02:09:57.886+0000] {logging_mixin.py:190} INFO - [2025-03-11T02:09:57.885+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T02:09:57.893+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T02:09:57.910+0000] {logging_mixin.py:190} INFO - [2025-03-11T02:09:57.910+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T02:09:57.928+0000] {logging_mixin.py:190} INFO - [2025-03-11T02:09:57.928+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T02:09:57.951+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.075 seconds
+[2025-03-11T02:10:55.547+0000] {processor.py:186} INFO - Started process (PID=52469) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T02:10:55.549+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T02:10:55.551+0000] {logging_mixin.py:190} INFO - [2025-03-11T02:10:55.550+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T02:10:55.557+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T02:10:55.575+0000] {logging_mixin.py:190} INFO - [2025-03-11T02:10:55.574+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T02:10:55.593+0000] {logging_mixin.py:190} INFO - [2025-03-11T02:10:55.592+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-10 20:00:00+00:00, run_after=2025-03-11 00:00:00+00:00
+[2025-03-11T02:10:55.616+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.075 seconds
+[2025-03-11T20:14:31.556+0000] {processor.py:186} INFO - Started process (PID=7518) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:14:31.560+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:14:31.561+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:14:31.561+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:14:31.569+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:14:31.588+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:14:31.587+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:14:31.605+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:14:31.604+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:14:31.626+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.076 seconds
+[2025-03-11T20:15:28.629+0000] {processor.py:186} INFO - Started process (PID=7641) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:15:28.631+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:15:28.632+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:15:28.632+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:15:28.639+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:15:28.655+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:15:28.654+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:15:28.670+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:15:28.670+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:15:28.692+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.068 seconds
+[2025-03-11T20:16:24.511+0000] {processor.py:186} INFO - Started process (PID=7879) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:16:24.513+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:16:24.514+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:16:24.514+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:16:24.521+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:16:24.538+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:16:24.537+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:16:24.554+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:16:24.554+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:16:24.575+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.070 seconds
+[2025-03-11T20:17:17.646+0000] {processor.py:186} INFO - Started process (PID=7997) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:17:17.649+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:17:17.650+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:17:17.650+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:17:17.658+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:17:17.673+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:17:17.673+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:17:17.690+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:17:17.689+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:17:17.711+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.071 seconds
+[2025-03-11T20:18:10.022+0000] {processor.py:186} INFO - Started process (PID=8112) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:18:10.024+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:18:10.025+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:18:10.025+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:18:10.033+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:18:10.050+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:18:10.049+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:18:10.067+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:18:10.067+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:18:10.090+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2025-03-11T20:19:03.439+0000] {processor.py:186} INFO - Started process (PID=8226) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:19:03.441+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:19:03.442+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:19:03.441+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:19:03.448+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:19:03.464+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:19:03.464+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:19:03.480+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:19:03.480+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:19:03.504+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.071 seconds
+[2025-03-11T20:19:58.953+0000] {processor.py:186} INFO - Started process (PID=8296) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:19:58.955+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:19:58.956+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:19:58.956+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:19:58.963+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:19:58.979+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:19:58.979+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:19:58.996+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:19:58.996+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:19:59.017+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.070 seconds
+[2025-03-11T20:20:54.886+0000] {processor.py:186} INFO - Started process (PID=8478) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:20:54.887+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:20:54.889+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:20:54.889+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:20:54.896+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:20:54.913+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:20:54.913+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:20:54.930+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:20:54.930+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:20:54.952+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.072 seconds
+[2025-03-11T20:21:46.826+0000] {processor.py:186} INFO - Started process (PID=8592) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:21:46.827+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:21:46.829+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:21:46.829+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:21:46.835+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:21:46.852+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:21:46.851+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:21:46.868+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:21:46.868+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:21:46.892+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.072 seconds
+[2025-03-11T20:22:39.906+0000] {processor.py:186} INFO - Started process (PID=8707) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:22:39.909+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:22:39.910+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:22:39.909+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:22:39.917+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:22:39.933+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:22:39.933+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:22:39.948+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:22:39.947+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:22:39.971+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.071 seconds
+[2025-03-11T20:23:33.557+0000] {processor.py:186} INFO - Started process (PID=8824) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:23:33.559+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:23:33.560+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:23:33.560+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:23:33.567+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:23:33.584+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:23:33.584+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:23:33.602+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:23:33.601+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:23:33.624+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.073 seconds
+[2025-03-11T20:24:27.209+0000] {processor.py:186} INFO - Started process (PID=8940) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:24:27.210+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:24:27.212+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:24:27.212+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:24:27.219+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:24:27.234+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:24:27.234+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:24:27.250+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:24:27.250+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:24:27.273+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.070 seconds
+[2025-03-11T20:25:20.948+0000] {processor.py:186} INFO - Started process (PID=9181) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:25:20.950+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:25:20.951+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:25:20.951+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:25:20.958+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:25:20.975+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:25:20.974+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:25:20.990+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:25:20.990+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:25:21.013+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.072 seconds
+[2025-03-11T20:26:14.588+0000] {processor.py:186} INFO - Started process (PID=9419) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:26:14.589+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:26:14.590+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:26:14.590+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:26:14.597+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:26:14.614+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:26:14.614+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:26:14.631+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:26:14.631+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:26:14.654+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.072 seconds
+[2025-03-11T20:27:08.071+0000] {processor.py:186} INFO - Started process (PID=9533) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:27:08.073+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:27:08.075+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:27:08.074+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:27:08.081+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:27:08.098+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:27:08.098+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:27:08.114+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:27:08.114+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:27:08.137+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.071 seconds
+[2025-03-11T20:28:01.588+0000] {processor.py:186} INFO - Started process (PID=9589) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:28:01.590+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:28:01.592+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:28:01.591+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:28:01.597+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:28:01.614+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:28:01.613+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:28:01.630+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:28:01.630+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:28:01.656+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2025-03-11T20:28:55.356+0000] {processor.py:186} INFO - Started process (PID=9704) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:28:55.358+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:28:55.359+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:28:55.359+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:28:55.366+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:28:55.384+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:28:55.384+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:28:55.399+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:28:55.399+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:28:55.421+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.071 seconds
+[2025-03-11T20:29:50.075+0000] {processor.py:186} INFO - Started process (PID=9819) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:29:50.077+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:29:50.078+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:29:50.077+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:29:50.085+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:29:50.102+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:29:50.102+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:29:50.119+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:29:50.119+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:29:50.141+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.072 seconds
+[2025-03-11T20:30:44.110+0000] {processor.py:186} INFO - Started process (PID=10002) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:30:44.112+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:30:44.113+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:30:44.113+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:30:44.120+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:30:44.136+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:30:44.136+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:30:44.153+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:30:44.153+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:30:44.173+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.069 seconds
+[2025-03-11T20:31:36.795+0000] {processor.py:186} INFO - Started process (PID=10116) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:31:36.797+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:31:36.798+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:31:36.797+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:31:36.805+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:31:36.822+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:31:36.822+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:31:36.839+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:31:36.839+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:31:36.862+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.073 seconds
+[2025-03-11T20:32:29.458+0000] {processor.py:186} INFO - Started process (PID=10232) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:32:29.459+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:32:29.461+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:32:29.460+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:32:29.467+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:32:29.483+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:32:29.483+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:32:29.500+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:32:29.500+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:32:29.522+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.070 seconds
+[2025-03-11T20:33:23.245+0000] {processor.py:186} INFO - Started process (PID=10345) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:33:23.246+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:33:23.247+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:33:23.247+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:33:23.254+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:33:23.271+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:33:23.271+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:33:23.287+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:33:23.287+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:33:23.313+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2025-03-11T20:34:19.813+0000] {processor.py:186} INFO - Started process (PID=10463) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:34:19.814+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:34:19.816+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:34:19.815+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:34:19.823+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:34:19.840+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:34:19.840+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:34:19.858+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:34:19.858+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:34:19.879+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.072 seconds
+[2025-03-11T20:35:12.651+0000] {processor.py:186} INFO - Started process (PID=10582) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:35:12.653+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:35:12.655+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:35:12.654+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:35:12.661+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:35:12.678+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:35:12.677+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:35:12.695+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:35:12.695+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:35:12.719+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2025-03-11T20:36:06.043+0000] {processor.py:186} INFO - Started process (PID=10758) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:36:06.045+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:36:06.046+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:36:06.046+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:36:06.052+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:36:06.070+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:36:06.069+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:36:06.087+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:36:06.087+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:36:06.108+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.071 seconds
+[2025-03-11T20:37:00.906+0000] {processor.py:186} INFO - Started process (PID=10813) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:37:00.909+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:37:00.911+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:37:00.910+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:37:00.918+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:37:00.936+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:37:00.935+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:37:00.952+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:37:00.952+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:37:00.975+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.075 seconds
+[2025-03-11T20:37:53.454+0000] {processor.py:186} INFO - Started process (PID=10928) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:37:53.456+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:37:53.457+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:37:53.456+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:37:53.464+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:37:53.488+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:37:53.487+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:37:53.504+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:37:53.504+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:37:53.528+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.079 seconds
+[2025-03-11T20:38:48.131+0000] {processor.py:186} INFO - Started process (PID=11103) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:38:48.133+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:38:48.134+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:38:48.134+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:38:48.141+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:38:48.158+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:38:48.157+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:38:48.173+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:38:48.173+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:38:48.195+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.070 seconds
+[2025-03-11T20:39:43.713+0000] {processor.py:186} INFO - Started process (PID=11220) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:39:43.715+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:39:43.717+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:39:43.716+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:39:43.723+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:39:43.740+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:39:43.740+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:39:43.757+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:39:43.757+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:39:43.779+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.072 seconds
+[2025-03-11T20:40:36.696+0000] {processor.py:186} INFO - Started process (PID=11340) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:40:36.699+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:40:36.700+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:40:36.700+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:40:36.708+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:40:36.724+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:40:36.724+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:40:36.739+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:40:36.739+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:40:36.761+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.070 seconds
+[2025-03-11T20:41:30.175+0000] {processor.py:186} INFO - Started process (PID=11516) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:41:30.178+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:41:30.179+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:41:30.178+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:41:30.185+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:41:30.201+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:41:30.201+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:41:30.218+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:41:30.217+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:41:30.239+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.069 seconds
+[2025-03-11T20:42:25.170+0000] {processor.py:186} INFO - Started process (PID=11634) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:42:25.172+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:42:25.173+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:42:25.173+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:42:25.180+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:42:25.196+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:42:25.196+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:42:25.213+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:42:25.212+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:42:25.234+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.071 seconds
+[2025-03-11T20:43:21.790+0000] {processor.py:186} INFO - Started process (PID=11751) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:43:21.792+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:43:21.793+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:43:21.793+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:43:21.800+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:43:21.816+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:43:21.816+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:43:21.833+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:43:21.832+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:43:21.857+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.073 seconds
+[2025-03-11T20:44:17.069+0000] {processor.py:186} INFO - Started process (PID=11868) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:44:17.071+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:44:17.072+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:44:17.072+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:44:17.079+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:44:17.096+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:44:17.096+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:44:17.112+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:44:17.112+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:44:17.134+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.071 seconds
+[2025-03-11T20:45:12.439+0000] {processor.py:186} INFO - Started process (PID=12025) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:45:12.441+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:45:12.442+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:45:12.442+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:45:12.450+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:45:12.466+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:45:12.466+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:45:12.483+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:45:12.483+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:45:12.664+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.231 seconds
+[2025-03-11T20:46:12.020+0000] {processor.py:186} INFO - Started process (PID=12204) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:46:12.022+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:46:12.024+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:46:12.023+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:46:12.031+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:46:12.051+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:46:12.050+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:46:12.068+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:46:12.067+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:46:12.090+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.075 seconds
+[2025-03-11T20:47:07.089+0000] {processor.py:186} INFO - Started process (PID=12319) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:47:07.091+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:47:07.092+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:47:07.092+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:47:07.099+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:47:07.116+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:47:07.116+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:47:07.133+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:47:07.133+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:47:07.157+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2025-03-11T20:48:05.991+0000] {processor.py:186} INFO - Started process (PID=12437) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:48:05.992+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:48:05.993+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:48:05.993+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:48:06.000+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:48:06.016+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:48:06.016+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:48:06.031+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:48:06.031+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:48:06.214+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.229 seconds
+[2025-03-11T20:49:12.418+0000] {processor.py:186} INFO - Started process (PID=12559) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:49:12.420+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:49:12.422+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:49:12.420+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:49:12.428+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:49:12.446+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:49:12.445+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:49:12.462+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:49:12.462+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:49:12.483+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.071 seconds
+[2025-03-11T20:50:09.619+0000] {processor.py:186} INFO - Started process (PID=12682) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:50:09.622+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:50:09.623+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:50:09.622+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:50:09.631+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:50:09.648+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:50:09.648+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:50:09.665+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:50:09.665+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:50:09.687+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.075 seconds
+[2025-03-11T20:51:03.932+0000] {processor.py:186} INFO - Started process (PID=12824) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:51:03.934+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:51:03.936+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:51:03.935+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:51:03.942+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:51:03.958+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:51:03.958+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:51:03.975+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:51:03.975+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:51:03.997+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.071 seconds
+[2025-03-11T20:51:56.129+0000] {processor.py:186} INFO - Started process (PID=12914) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:51:56.132+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:51:56.133+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:51:56.133+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:51:56.140+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:51:56.157+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:51:56.157+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:51:56.174+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:51:56.174+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:51:56.196+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.072 seconds
+[2025-03-11T20:52:51.224+0000] {processor.py:186} INFO - Started process (PID=13029) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:52:51.225+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:52:51.227+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:52:51.227+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:52:51.234+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:52:51.251+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:52:51.250+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:52:51.268+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:52:51.268+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:52:51.290+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.071 seconds
+[2025-03-11T20:53:47.963+0000] {processor.py:186} INFO - Started process (PID=13146) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:53:47.965+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:53:47.966+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:53:47.966+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:53:47.973+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:53:47.991+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:53:47.990+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:53:48.009+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:53:48.009+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:53:48.032+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.076 seconds
+[2025-03-11T20:54:42.669+0000] {processor.py:186} INFO - Started process (PID=13262) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:54:42.671+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:54:42.672+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:54:42.672+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:54:42.679+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:54:42.696+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:54:42.696+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:54:42.714+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:54:42.714+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:54:42.736+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.073 seconds
+[2025-03-11T20:55:37.341+0000] {processor.py:186} INFO - Started process (PID=13383) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:55:37.343+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:55:37.345+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:55:37.343+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:55:37.352+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:55:37.368+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:55:37.368+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:55:37.385+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:55:37.385+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:55:37.407+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.073 seconds
+[2025-03-11T20:56:28.266+0000] {processor.py:186} INFO - Started process (PID=13559) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:56:28.267+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:56:28.268+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:56:28.268+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:56:28.275+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:56:28.293+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:56:28.292+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:56:28.311+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:56:28.311+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:56:28.332+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.072 seconds
+[2025-03-11T20:57:21.691+0000] {processor.py:186} INFO - Started process (PID=13674) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:57:21.694+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:57:21.696+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:57:21.694+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:57:21.703+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:57:21.720+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:57:21.719+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:57:21.737+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:57:21.737+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:57:21.761+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.077 seconds
+[2025-03-11T20:58:16.052+0000] {processor.py:186} INFO - Started process (PID=13788) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:58:16.054+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:58:16.055+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:58:16.055+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:58:16.062+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:58:16.080+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:58:16.080+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:58:16.097+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:58:16.097+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:58:16.119+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2025-03-11T20:59:11.523+0000] {processor.py:186} INFO - Started process (PID=13905) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:59:11.525+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T20:59:11.526+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:59:11.526+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:59:11.534+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T20:59:11.548+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:59:11.548+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T20:59:11.565+0000] {logging_mixin.py:190} INFO - [2025-03-11T20:59:11.565+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T20:59:11.585+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.068 seconds
+[2025-03-11T21:00:06.764+0000] {processor.py:186} INFO - Started process (PID=14022) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:00:06.766+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T21:00:06.767+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:00:06.767+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:00:06.775+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:00:06.792+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:00:06.792+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T21:00:06.811+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:00:06.810+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T21:00:06.832+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.076 seconds
+[2025-03-11T21:00:59.615+0000] {processor.py:186} INFO - Started process (PID=14141) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:00:59.617+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T21:00:59.618+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:00:59.618+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:00:59.626+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:00:59.644+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:00:59.643+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T21:00:59.662+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:00:59.661+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T21:00:59.682+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2025-03-11T21:01:52.346+0000] {processor.py:186} INFO - Started process (PID=14254) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:01:52.349+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T21:01:52.350+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:01:52.350+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:01:52.357+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:01:52.375+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:01:52.375+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T21:01:52.392+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:01:52.392+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T21:01:52.414+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2025-03-11T21:29:18.603+0000] {processor.py:186} INFO - Started process (PID=31793) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:29:18.605+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T21:29:18.606+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:29:18.606+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:29:18.613+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:29:18.636+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:29:18.635+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T21:29:18.653+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:29:18.652+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T21:29:18.675+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.078 seconds
+[2025-03-11T21:30:15.932+0000] {processor.py:186} INFO - Started process (PID=31916) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:30:15.934+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T21:30:15.935+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:30:15.935+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:30:15.943+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:30:15.959+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:30:15.959+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T21:30:15.976+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:30:15.976+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T21:30:15.997+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.072 seconds
+[2025-03-11T21:31:11.976+0000] {processor.py:186} INFO - Started process (PID=32094) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:31:11.978+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T21:31:11.979+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:31:11.978+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:31:11.985+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:31:12.003+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:31:12.003+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T21:31:12.020+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:31:12.019+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T21:31:12.045+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.075 seconds
+[2025-03-11T21:32:05.896+0000] {processor.py:186} INFO - Started process (PID=32189) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:32:05.899+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T21:32:05.900+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:32:05.900+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:32:05.907+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:32:05.924+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:32:05.923+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T21:32:05.940+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:32:05.940+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T21:32:05.964+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.073 seconds
+[2025-03-11T21:32:58.758+0000] {processor.py:186} INFO - Started process (PID=32278) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:32:58.760+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T21:32:58.762+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:32:58.761+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:32:58.768+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:32:58.785+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:32:58.784+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T21:32:58.801+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:32:58.801+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T21:32:58.823+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.072 seconds
+[2025-03-11T21:33:55.623+0000] {processor.py:186} INFO - Started process (PID=32395) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:33:55.625+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T21:33:55.627+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:33:55.626+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:33:55.635+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:33:55.654+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:33:55.654+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T21:33:55.674+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:33:55.674+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T21:33:55.698+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.081 seconds
+[2025-03-11T21:34:49.539+0000] {processor.py:186} INFO - Started process (PID=32637) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:34:49.542+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T21:34:49.543+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:34:49.543+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:34:49.549+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:34:49.566+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:34:49.566+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T21:34:49.583+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:34:49.583+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T21:34:49.604+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.071 seconds
+[2025-03-11T21:35:41.028+0000] {processor.py:186} INFO - Started process (PID=32816) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:35:41.030+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T21:35:41.031+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:35:41.031+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:35:41.039+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:35:41.055+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:35:41.055+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T21:35:41.072+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:35:41.072+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T21:35:41.097+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.075 seconds
+[2025-03-11T21:36:34.485+0000] {processor.py:186} INFO - Started process (PID=32930) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:36:34.487+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T21:36:34.488+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:36:34.488+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:36:34.495+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:36:34.512+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:36:34.512+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T21:36:34.531+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:36:34.531+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T21:36:34.552+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.074 seconds
+[2025-03-11T21:37:27.724+0000] {processor.py:186} INFO - Started process (PID=33050) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:37:27.727+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-03-11T21:37:27.728+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:37:27.728+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:37:27.735+0000] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2025-03-11T21:37:27.752+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:37:27.752+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-11T21:37:27.768+0000] {logging_mixin.py:190} INFO - [2025-03-11T21:37:27.768+0000] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2025-03-11 16:00:00+00:00, run_after=2025-03-11 20:00:00+00:00
+[2025-03-11T21:37:27.790+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.072 seconds

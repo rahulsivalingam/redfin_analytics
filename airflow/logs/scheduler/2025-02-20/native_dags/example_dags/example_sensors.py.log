@@ -1,0 +1,78 @@
+[2025-02-20T00:52:50.875+0000] {processor.py:186} INFO - Started process (PID=3651) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:52:50.876+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-02-20T00:52:50.878+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:50.877+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:52:50.889+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:52:50.999+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:50.999+0000] {override.py:1930} INFO - Created Permission View: can edit on DAG:example_sensors
+[2025-02-20T00:52:51.012+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:51.012+0000] {override.py:1930} INFO - Created Permission View: can delete on DAG:example_sensors
+[2025-02-20T00:52:51.022+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:51.022+0000] {override.py:1930} INFO - Created Permission View: can read on DAG:example_sensors
+[2025-02-20T00:52:51.039+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:51.038+0000] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:example_sensors
+[2025-02-20T00:52:51.049+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:51.048+0000] {override.py:1930} INFO - Created Permission View: can create on DAG Run:example_sensors
+[2025-02-20T00:52:51.059+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:51.058+0000] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:example_sensors
+[2025-02-20T00:52:51.068+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:51.068+0000] {override.py:1930} INFO - Created Permission View: can read on DAG Run:example_sensors
+[2025-02-20T00:52:51.069+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:51.069+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:52:51.079+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:51.079+0000] {dag.py:3262} INFO - Creating ORM DAG for example_sensors
+[2025-02-20T00:52:51.080+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:52:51.080+0000] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-02-20T00:52:51.101+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.232 seconds
+[2025-02-20T00:53:53.889+0000] {processor.py:186} INFO - Started process (PID=3889) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:53:53.890+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-02-20T00:53:53.892+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:53.892+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:53:53.905+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:53:53.933+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:53.933+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:53:53.949+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:53:53.949+0000] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-02-20T00:53:53.979+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.099 seconds
+[2025-02-20T00:54:50.135+0000] {processor.py:186} INFO - Started process (PID=4131) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:54:50.136+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-02-20T00:54:50.138+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:50.138+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:54:50.153+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:54:50.179+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:50.179+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:54:50.192+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:54:50.192+0000] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-02-20T00:54:50.218+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.089 seconds
+[2025-02-20T00:55:49.973+0000] {processor.py:186} INFO - Started process (PID=4255) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:55:49.975+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-02-20T00:55:49.977+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:49.977+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:55:49.990+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:55:50.018+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:50.018+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:55:50.034+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:55:50.034+0000] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-02-20T00:55:50.058+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.091 seconds
+[2025-02-20T00:56:42.937+0000] {processor.py:186} INFO - Started process (PID=4376) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:56:42.940+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-02-20T00:56:42.943+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:42.942+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:56:42.963+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:56:42.994+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:42.993+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:56:43.010+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:56:43.010+0000] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-02-20T00:56:43.039+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.111 seconds
+[2025-02-20T00:57:36.514+0000] {processor.py:186} INFO - Started process (PID=4549) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:57:36.516+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-02-20T00:57:36.518+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:36.518+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:57:36.531+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:57:36.555+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:36.555+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:57:36.568+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:57:36.568+0000] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-02-20T00:57:36.593+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.084 seconds
+[2025-02-20T00:58:30.770+0000] {processor.py:186} INFO - Started process (PID=4664) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:58:30.772+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-02-20T00:58:30.775+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:30.774+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:58:30.794+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:58:30.825+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:30.824+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:58:30.838+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:58:30.838+0000] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-02-20T00:58:30.860+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.100 seconds
+[2025-02-20T00:59:23.989+0000] {processor.py:186} INFO - Started process (PID=4779) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:59:23.990+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-02-20T00:59:23.992+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:23.992+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:59:24.004+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T00:59:24.028+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:24.028+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T00:59:24.042+0000] {logging_mixin.py:190} INFO - [2025-02-20T00:59:24.042+0000] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-02-20T00:59:24.065+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.082 seconds
+[2025-02-20T01:00:15.380+0000] {processor.py:186} INFO - Started process (PID=5242) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T01:00:15.381+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-02-20T01:00:15.384+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:15.383+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T01:00:15.402+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T01:00:15.442+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:15.442+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T01:00:15.463+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:00:15.463+0000] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-02-20T01:00:15.501+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.134 seconds
+[2025-02-20T01:01:11.603+0000] {processor.py:186} INFO - Started process (PID=5466) to work on /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T01:01:11.642+0000] {processor.py:914} INFO - Processing file /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-02-20T01:01:11.644+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:01:11.643+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T01:01:11.656+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-20T01:01:11.678+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:01:11.678+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-20T01:01:11.690+0000] {logging_mixin.py:190} INFO - [2025-02-20T01:01:11.690+0000] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-02-20T01:01:11.713+0000] {processor.py:208} INFO - Processing /home/ubuntu/redfin_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.116 seconds
